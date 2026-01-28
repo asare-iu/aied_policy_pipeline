@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+*.key
+*.pem
+**/*secrets*
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
+
+# (optional) ignore big evidence by default
+# evidence/**
