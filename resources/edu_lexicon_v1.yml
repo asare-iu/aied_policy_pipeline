@@ -1,0 +1,1686 @@
+version: v1
+created_utc: '2026-01-29T03:59:26Z'
+seed_lexicon:
+  education_levels:
+    terms:
+    - early childhood education
+    - pre-primary education
+    - primary education
+    - secondary education
+    - lower secondary
+    - upper secondary
+    - tertiary education
+    - higher education
+    - postsecondary education
+    provenance:
+    - ISCED
+  education_institutions:
+    terms:
+    - ministry of education
+    - department of education
+    - school
+    - schools
+    - school system
+    - higher education institution
+    - university
+    - college
+    - vocational education
+    - technical education
+    - tvet
+    provenance:
+    - ISCED
+    - OECD
+  education_governance:
+    terms:
+    - curriculum
+    - learning outcomes
+    - assessment
+    - examination
+    - accreditation
+    - quality assurance
+    - inspection
+    - school evaluation
+    - teacher certification
+    - qualification framework
+    provenance:
+    - OECD
+    - UNESCO
+    - EHEA
+  education_actors:
+    terms:
+    - student
+    - students
+    - learner
+    - teacher
+    - educator
+    - school leader
+    - principal
+    - education authority
+    - accreditation body
+    provenance:
+    - ERIC
+    - OECD
+  education_technology:
+    terms:
+    - learning management system
+    - digital learning
+    - online learning
+    - learning analytics
+    - virtual learning environment
+    provenance:
+    - ERIC
+    - OECD
+  weak_terms:
+    terms:
+    - training
+    - upskilling
+    - reskilling
+    - capacity building
+    provenance:
+    - disambiguation_guard
+corpus_expansion:
+  method: log_odds_foreground_vs_background
+  parameters:
+    min_count: 15
+    top_k: 400
+  candidates:
+  - term: accreditation
+    foreground_count: 386
+    background_count: 386
+    log_odds: 0.0
+  - term: training
+    foreground_count: 12282
+    background_count: 12282
+    log_odds: 0.0
+  - term: university
+    foreground_count: 4318
+    background_count: 4318
+    log_odds: 0.0
+  - term: college
+    foreground_count: 1007
+    background_count: 1007
+    log_odds: 0.0
+  - term: school
+    foreground_count: 3225
+    background_count: 3225
+    log_odds: 0.0
+  - term: insead
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: upskilling
+    foreground_count: 208
+    background_count: 208
+    log_odds: 0.0
+  - term: re-training
+    foreground_count: 30
+    background_count: 30
+    log_odds: 0.0
+  - term: examination
+    foreground_count: 552
+    background_count: 552
+    log_odds: 0.0
+  - term: students
+    foreground_count: 3050
+    background_count: 3050
+    log_odds: 0.0
+  - term: reskilling
+    foreground_count: 168
+    background_count: 168
+    log_odds: 0.0
+  - term: schools
+    foreground_count: 1419
+    background_count: 1419
+    log_odds: 0.0
+  - term: inspection
+    foreground_count: 750
+    background_count: 750
+    log_odds: 0.0
+  - term: shipbuilder
+    foreground_count: 20
+    background_count: 20
+    log_odds: 0.0
+  - term: student
+    foreground_count: 881
+    background_count: 881
+    log_odds: 0.0
+  - term: self-assessment
+    foreground_count: 161
+    background_count: 161
+    log_odds: 0.0
+  - term: faos
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: stu-
+    foreground_count: 26
+    background_count: 26
+    log_odds: 0.0
+  - term: homework
+    foreground_count: 19
+    background_count: 19
+    log_odds: 0.0
+  - term: teacher
+    foreground_count: 428
+    background_count: 428
+    log_odds: 0.0
+  - term: alexandru
+    foreground_count: 46
+    background_count: 46
+    log_odds: 0.0
+  - term: liviu
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: mihai
+    foreground_count: 58
+    background_count: 58
+    log_odds: 0.0
+  - term: ioan
+    foreground_count: 46
+    background_count: 46
+    log_odds: 0.0
+  - term: cuza
+    foreground_count: 25
+    background_count: 25
+    log_odds: 0.0
+  - term: craiova
+    foreground_count: 22
+    background_count: 22
+    log_odds: 0.0
+  - term: roncc
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: phd-ai
+    foreground_count: 27
+    background_count: 27
+    log_odds: 0.0
+  - term: learner
+    foreground_count: 50
+    background_count: 50
+    log_odds: 0.0
+  - term: tesa
+    foreground_count: 19
+    background_count: 19
+    log_odds: 0.0
+  - term: mellon
+    foreground_count: 31
+    background_count: 31
+    log_odds: 0.0
+  - term: f-pnrr-smartlabs-
+    foreground_count: 1120
+    background_count: 1120
+    log_odds: 0.0
+  - term: smartlab
+    foreground_count: 62
+    background_count: 62
+    log_odds: 0.0
+  - term: anghel
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: saligny
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: tudor
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: gheorghe
+    foreground_count: 40
+    background_count: 40
+    log_odds: 0.0
+  - term: eminescu
+    foreground_count: 28
+    background_count: 28
+    log_odds: 0.0
+  - term: traian
+    foreground_count: 31
+    background_count: 31
+    log_odds: 0.0
+  - term: viteazul
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: mircea
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: vasile
+    foreground_count: 28
+    background_count: 28
+    log_odds: 0.0
+  - term: baia
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: emil
+    foreground_count: 19
+    background_count: 19
+    log_odds: 0.0
+  - term: constantin
+    foreground_count: 51
+    background_count: 51
+    log_odds: 0.0
+  - term: aurel
+    foreground_count: 20
+    background_count: 20
+    log_odds: 0.0
+  - term: dimitrie
+    foreground_count: 34
+    background_count: 34
+    log_odds: 0.0
+  - term: spiru
+    foreground_count: 27
+    background_count: 27
+    log_odds: 0.0
+  - term: haret
+    foreground_count: 27
+    background_count: 27
+    log_odds: 0.0
+  - term: oradea
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: constanta
+    foreground_count: 16
+    background_count: 16
+    log_odds: 0.0
+  - term: grigore
+    foreground_count: 29
+    background_count: 29
+    log_odds: 0.0
+  - term: moisil
+    foreground_count: 21
+    background_count: 21
+    log_odds: 0.0
+  - term: petru
+    foreground_count: 30
+    background_count: 30
+    log_odds: 0.0
+  - term: vlaicu
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: henri
+    foreground_count: 19
+    background_count: 19
+    log_odds: 0.0
+  - term: arad
+    foreground_count: 42
+    background_count: 42
+    log_odds: 0.0
+  - term: suceava
+    foreground_count: 22
+    background_count: 22
+    log_odds: 0.0
+  - term: radu
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: student-to-teacher
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: cyberexploitation
+    foreground_count: 28
+    background_count: 28
+    log_odds: 0.0
+  - term: school-age
+    foreground_count: 52
+    background_count: 52
+    log_odds: 0.0
+  - term: coursework
+    foreground_count: 22
+    background_count: 22
+    log_odds: 0.0
+  - term: counter-small
+    foreground_count: 21
+    background_count: 21
+    log_odds: 0.0
+  - term: heif
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: intakes
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: eafit
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: isae
+    foreground_count: 25
+    background_count: 25
+    log_odds: 0.0
+  - term: micro-credentials
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: educator
+    foreground_count: 25
+    background_count: 25
+    log_odds: 0.0
+  - term: pre-training
+    foreground_count: 51
+    background_count: 51
+    log_odds: 0.0
+  - term: discriminator
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: bingen
+    foreground_count: 19
+    background_count: 19
+    log_odds: 0.0
+  - term: university-industry
+    foreground_count: 27
+    background_count: 27
+    log_odds: 0.0
+  - term: mcgill
+    foreground_count: 38
+    background_count: 38
+    log_odds: 0.0
+  - term: classics
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: work-study
+    foreground_count: 51
+    background_count: 51
+    log_odds: 0.0
+  - term: d-co-a
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: ai-co-t
+    foreground_count: 30
+    background_count: 30
+    log_odds: 0.0
+  - term: ai-co-s
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: ai-co-k
+    foreground_count: 15
+    background_count: 15
+    log_odds: 0.0
+  - term: ai-c-t
+    foreground_count: 26
+    background_count: 26
+    log_odds: 0.0
+  - term: ai-eth-t
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: ai-ra-t
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: ai-ra-s
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: d-ma-t
+    foreground_count: 22
+    background_count: 22
+    log_odds: 0.0
+  - term: university-business
+    foreground_count: 50
+    background_count: 50
+    log_odds: 0.0
+  - term: university-
+    foreground_count: 16
+    background_count: 16
+    log_odds: 0.0
+  - term: ihes
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: rvp
+    foreground_count: 29
+    background_count: 29
+    log_odds: 0.0
+  - term: nidv
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: vvv
+    foreground_count: 21
+    background_count: 21
+    log_odds: 0.0
+  - term: hitsa
+    foreground_count: 16
+    background_count: 16
+    log_odds: 0.0
+  - term: keio
+    foreground_count: 27
+    background_count: 27
+    log_odds: 0.0
+  - term: mbo
+    foreground_count: 17
+    background_count: 17
+    log_odds: 0.0
+  - term: chuo
+    foreground_count: 21
+    background_count: 21
+    log_odds: 0.0
+  - term: gazi
+    foreground_count: 24
+    background_count: 24
+    log_odds: 0.0
+  - term: atat
+    foreground_count: 16
+    background_count: 16
+    log_odds: 0.0
+  - term: mede
+    foreground_count: 20
+    background_count: 20
+    log_odds: 0.0
+  - term: technical-productive
+    foreground_count: 25
+    background_count: 25
+    log_odds: 0.0
+  - term: gmar
+    foreground_count: 32
+    background_count: 32
+    log_odds: 0.0
+  - term: tobb
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: potekhina
+    foreground_count: 28
+    background_count: 28
+    log_odds: 0.0
+  - term: engenharia
+    foreground_count: 18
+    background_count: 18
+    log_odds: 0.0
+  - term: eu-type
+    foreground_count: 22
+    background_count: 22
+    log_odds: 0.0
+  - term: assessment
+    foreground_count: 6861
+    background_count: 6869
+    log_odds: -0.001165161798000053
+  - term: principal
+    foreground_count: 617
+    background_count: 618
+    log_odds: -0.0016168152269052834
+  - term: curriculum
+    foreground_count: 521
+    background_count: 522
+    log_odds: -0.0019138761822841644
+  - term: tva
+    foreground_count: 70
+    background_count: 71
+    log_odds: -0.01398624197473984
+  - term: pupils
+    foreground_count: 132
+    background_count: 134
+    log_odds: -0.014925650216675706
+  - term: instructors
+    foreground_count: 57
+    background_count: 58
+    log_odds: -0.017094433359300068
+  - term: theological
+    foreground_count: 48
+    background_count: 49
+    log_odds: -0.020202707317519466
+  - term: numeracy
+    foreground_count: 47
+    background_count: 48
+    log_odds: -0.020619287202735703
+  - term: clubs
+    foreground_count: 117
+    background_count: 120
+    log_odds: -0.025105921131076358
+  - term: camps
+    foreground_count: 38
+    background_count: 39
+    log_odds: -0.025317807984289897
+  - term: pupil
+    foreground_count: 36
+    background_count: 37
+    log_odds: -0.026668247082161294
+  - term: usdsa
+    foreground_count: 36
+    background_count: 37
+    log_odds: -0.026668247082161294
+  - term: vet
+    foreground_count: 109
+    background_count: 112
+    log_odds: -0.02690745291992438
+  - term: d-co-t
+    foreground_count: 35
+    background_count: 36
+    log_odds: -0.027398974188114388
+  - term: aalto
+    foreground_count: 33
+    background_count: 34
+    log_odds: -0.028987536873252298
+  - term: universidade
+    foreground_count: 32
+    background_count: 33
+    log_odds: -0.02985296314968116
+  - term: vocational
+    foreground_count: 720
+    background_count: 743
+    log_odds: -0.03140189754814276
+  - term: lcea
+    foreground_count: 29
+    background_count: 30
+    log_odds: -0.03278982282299084
+  - term: orthodox
+    foreground_count: 28
+    background_count: 29
+    log_odds: -0.03390155167568134
+  - term: teachers
+    foreground_count: 1044
+    background_count: 1081
+    log_odds: -0.03479429500751544
+  - term: on-the-job
+    foreground_count: 55
+    background_count: 57
+    log_odds: -0.03509131981127006
+  - term: energetics
+    foreground_count: 27
+    background_count: 28
+    log_odds: -0.03509131981127006
+  - term: pre-commissioning
+    foreground_count: 27
+    background_count: 28
+    log_odds: -0.03509131981127006
+  - term: honours
+    foreground_count: 54
+    background_count: 56
+    log_odds: -0.03571808260207923
+  - term: ntp
+    foreground_count: 25
+    background_count: 26
+    log_odds: -0.037740327982847086
+  - term: palaces
+    foreground_count: 76
+    background_count: 79
+    log_odds: -0.03822121282019774
+  - term: monash
+    foreground_count: 23
+    background_count: 24
+    log_odds: -0.040821994520255166
+  - term: graduating
+    foreground_count: 23
+    background_count: 24
+    log_odds: -0.040821994520255166
+  - term: taaf
+    foreground_count: 162
+    background_count: 169
+    log_odds: -0.04204823624349939
+  - term: univer-
+    foreground_count: 21
+    background_count: 22
+    log_odds: -0.04445176257083381
+  - term: postsecondary
+    foreground_count: 21
+    background_count: 22
+    log_odds: -0.04445176257083381
+  - term: bootcamps
+    foreground_count: 21
+    background_count: 22
+    log_odds: -0.04445176257083381
+  - term: tarf
+    foreground_count: 169
+    background_count: 177
+    log_odds: -0.04598511324182338
+  - term: post-doctoral
+    foreground_count: 20
+    background_count: 21
+    log_odds: -0.04652001563489282
+  - term: technologist
+    foreground_count: 20
+    background_count: 21
+    log_odds: -0.04652001563489282
+  - term: porto
+    foreground_count: 20
+    background_count: 21
+    log_odds: -0.04652001563489282
+  - term: pedagogical
+    foreground_count: 179
+    background_count: 188
+    log_odds: -0.048790164169432056
+  - term: bac
+    foreground_count: 19
+    background_count: 20
+    log_odds: -0.048790164169432056
+  - term: forem
+    foreground_count: 19
+    background_count: 20
+    log_odds: -0.048790164169432056
+  - term: borovskaya
+    foreground_count: 19
+    background_count: 20
+    log_odds: -0.048790164169432056
+  - term: zzso
+    foreground_count: 57
+    background_count: 60
+    log_odds: -0.05043085362689197
+  - term: lecturers
+    foreground_count: 37
+    background_count: 39
+    log_odds: -0.05129329438755058
+  - term: marin
+    foreground_count: 18
+    background_count: 19
+    log_odds: -0.05129329438755058
+  - term: reservists
+    foreground_count: 18
+    background_count: 19
+    log_odds: -0.05129329438755058
+  - term: lecturer
+    foreground_count: 18
+    background_count: 19
+    log_odds: -0.05129329438755058
+  - term: turks
+    foreground_count: 17
+    background_count: 18
+    log_odds: -0.05406722127027582
+  - term: confucius
+    foreground_count: 17
+    background_count: 18
+    log_odds: -0.05406722127027582
+  - term: deakin
+    foreground_count: 17
+    background_count: 18
+    log_odds: -0.05406722127027582
+  - term: seeker
+    foreground_count: 17
+    background_count: 18
+    log_odds: -0.05406722127027582
+  - term: heis
+    foreground_count: 71
+    background_count: 75
+    log_odds: -0.05406722127027582
+  - term: exaflops
+    foreground_count: 17
+    background_count: 18
+    log_odds: -0.05406722127027582
+  - term: sling
+    foreground_count: 16
+    background_count: 17
+    log_odds: -0.05715841383994864
+  - term: off-duty
+    foreground_count: 16
+    background_count: 17
+    log_odds: -0.05715841383994864
+  - term: freelancers
+    foreground_count: 16
+    background_count: 17
+    log_odds: -0.05715841383994864
+  - term: direct-hire
+    foreground_count: 16
+    background_count: 17
+    log_odds: -0.05715841383994864
+  - term: rmit
+    foreground_count: 16
+    background_count: 17
+    log_odds: -0.05715841383994864
+  - term: alberta
+    foreground_count: 50
+    background_count: 53
+    log_odds: -0.05715841383994864
+  - term: requalification
+    foreground_count: 16
+    background_count: 17
+    log_odds: -0.05715841383994864
+  - term: graduate
+    foreground_count: 378
+    background_count: 401
+    log_odds: -0.05891588353659473
+  - term: boot
+    foreground_count: 15
+    background_count: 16
+    log_odds: -0.060624621816434854
+  - term: tutor
+    foreground_count: 15
+    background_count: 16
+    log_odds: -0.060624621816434854
+  - term: hopkins
+    foreground_count: 15
+    background_count: 16
+    log_odds: -0.060624621816434854
+  - term: npd
+    foreground_count: 15
+    background_count: 16
+    log_odds: -0.060624621816434854
+  - term: skillnet
+    foreground_count: 31
+    background_count: 33
+    log_odds: -0.060624621816434854
+  - term: cnrst
+    foreground_count: 15
+    background_count: 16
+    log_odds: -0.060624621816434854
+  - term: elicitation
+    foreground_count: 15
+    background_count: 16
+    log_odds: -0.060624621816434854
+  - term: altai
+    foreground_count: 62
+    background_count: 66
+    log_odds: -0.06155789299943332
+  - term: maths
+    foreground_count: 109
+    background_count: 116
+    log_odds: -0.0616935690053399
+  - term: desenvolvimento
+    foreground_count: 30
+    background_count: 32
+    log_odds: -0.06252035698133393
+  - term: doctorates
+    foreground_count: 45
+    background_count: 48
+    log_odds: -0.06317890162153156
+  - term: instructional
+    foreground_count: 178
+    background_count: 190
+    log_odds: -0.06488762220587482
+  - term: faculty
+    foreground_count: 481
+    background_count: 515
+    log_odds: -0.06816265143096244
+  - term: lisboa
+    foreground_count: 27
+    background_count: 29
+    log_odds: -0.06899287148695143
+  - term: postgraduate
+    foreground_count: 152
+    background_count: 163
+    log_odds: -0.0694285064317629
+  - term: nicolae
+    foreground_count: 54
+    background_count: 58
+    log_odds: -0.07020425867324857
+  - term: covid-related
+    foreground_count: 40
+    background_count: 43
+    log_odds: -0.07061756721395342
+  - term: assessor
+    foreground_count: 40
+    background_count: 43
+    log_odds: -0.07061756721395342
+  - term: classrooms
+    foreground_count: 64
+    background_count: 69
+    log_odds: -0.07410797215372185
+  - term: reskill
+    foreground_count: 25
+    background_count: 27
+    log_odds: -0.07410797215372185
+  - term: undergraduate
+    foreground_count: 191
+    background_count: 206
+    log_odds: -0.07522342123758752
+  - term: elementary
+    foreground_count: 126
+    background_count: 136
+    log_odds: -0.07579383936953367
+  - term: equipping
+    foreground_count: 353
+    background_count: 381
+    log_odds: -0.07612369547280069
+  - term: educators
+    foreground_count: 326
+    background_count: 352
+    log_odds: -0.07650788603604335
+  - term: co-rapporteur
+    foreground_count: 24
+    background_count: 26
+    log_odds: -0.07696104113612832
+  - term: skillsfuture
+    foreground_count: 23
+    background_count: 25
+    log_odds: -0.08004270767353637
+  - term: sibiu
+    foreground_count: 23
+    background_count: 25
+    log_odds: -0.08004270767353637
+  - term: uom
+    foreground_count: 23
+    background_count: 25
+    log_odds: -0.08004270767353637
+  - term: palace
+    foreground_count: 69
+    background_count: 75
+    log_odds: -0.08223809823697212
+  - term: archaeology
+    foreground_count: 34
+    background_count: 37
+    log_odds: -0.08223809823697212
+  - term: sensitization
+    foreground_count: 22
+    background_count: 24
+    log_odds: -0.08338160893905101
+  - term: starbase
+    foreground_count: 21
+    background_count: 23
+    log_odds: -0.08701137698962981
+  - term: udeid
+    foreground_count: 32
+    background_count: 35
+    log_odds: -0.08701137698962981
+  - term: librar
+    foreground_count: 21
+    background_count: 23
+    log_odds: -0.08701137698962981
+  - term: ruse
+    foreground_count: 21
+    background_count: 23
+    log_odds: -0.08701137698962981
+  - term: internships
+    foreground_count: 163
+    background_count: 178
+    log_odds: -0.08751937801655654
+  - term: doctorate
+    foreground_count: 172
+    background_count: 188
+    log_odds: -0.08845542056186342
+  - term: endowing
+    foreground_count: 20
+    background_count: 22
+    log_odds: -0.09097177820572676
+  - term: gillespie
+    foreground_count: 20
+    background_count: 22
+    log_odds: -0.09097177820572676
+  - term: doctoral
+    foreground_count: 405
+    background_count: 444
+    log_odds: -0.09172112256450758
+  - term: vocations
+    foreground_count: 30
+    background_count: 33
+    log_odds: -0.09237332013101517
+  - term: hria
+    foreground_count: 30
+    background_count: 33
+    log_odds: -0.09237332013101517
+  - term: curricula
+    foreground_count: 265
+    background_count: 291
+    log_odds: -0.0932574934865827
+  - term: didactic
+    foreground_count: 19
+    background_count: 21
+    log_odds: -0.0953101798043249
+  - term: courses
+    foreground_count: 1040
+    background_count: 1146
+    log_odds: -0.09696804851440186
+  - term: teaching
+    foreground_count: 967
+    background_count: 1066
+    log_odds: -0.09737416402517636
+  - term: learners
+    foreground_count: 193
+    background_count: 213
+    log_odds: -0.09811785595852336
+  - term: majors
+    foreground_count: 47
+    background_count: 52
+    log_odds: -0.09909090264423089
+  - term: digcomp
+    foreground_count: 18
+    background_count: 20
+    log_odds: -0.10008345855698253
+  - term: bolling
+    foreground_count: 18
+    background_count: 20
+    log_odds: -0.10008345855698253
+  - term: internship
+    foreground_count: 109
+    background_count: 121
+    log_odds: -0.10354067894084033
+  - term: knn
+    foreground_count: 17
+    background_count: 19
+    log_odds: -0.10536051565782628
+  - term: carol
+    foreground_count: 17
+    background_count: 19
+    log_odds: -0.10536051565782628
+  - term: radiation-exposed
+    foreground_count: 17
+    background_count: 19
+    log_odds: -0.10536051565782628
+  - term: skillbridge
+    foreground_count: 17
+    background_count: 19
+    log_odds: -0.10536051565782628
+  - term: nrdc
+    foreground_count: 35
+    background_count: 39
+    log_odds: -0.10536051565782628
+  - term: midas
+    foreground_count: 17
+    background_count: 19
+    log_odds: -0.10536051565782628
+  - term: emmi
+    foreground_count: 17
+    background_count: 19
+    log_odds: -0.10536051565782628
+  - term: polytechnic
+    foreground_count: 43
+    background_count: 48
+    log_odds: -0.10763066419236544
+  - term: hei
+    foreground_count: 43
+    background_count: 48
+    log_odds: -0.10763066419236544
+  - term: suade
+    foreground_count: 34
+    background_count: 38
+    log_odds: -0.10821358464023272
+  - term: rki
+    foreground_count: 25
+    background_count: 28
+    log_odds: -0.10919929196499197
+  - term: non-formal
+    foreground_count: 59
+    background_count: 66
+    log_odds: -0.11034805716886534
+  - term: al-qaeda
+    foreground_count: 16
+    background_count: 18
+    log_odds: -0.11122563511022437
+  - term: southeastern
+    foreground_count: 16
+    background_count: 18
+    log_odds: -0.11122563511022437
+  - term: cmu
+    foreground_count: 16
+    background_count: 18
+    log_odds: -0.11122563511022437
+  - term: non-academic
+    foreground_count: 16
+    background_count: 18
+    log_odds: -0.11122563511022437
+  - term: univer
+    foreground_count: 16
+    background_count: 18
+    log_odds: -0.11122563511022437
+  - term: inti
+    foreground_count: 16
+    background_count: 18
+    log_odds: -0.11122563511022437
+  - term: ai-oriented
+    foreground_count: 24
+    background_count: 27
+    log_odds: -0.11332868530700312
+  - term: campuses
+    foreground_count: 40
+    background_count: 45
+    log_odds: -0.11506932978478723
+  - term: piaac
+    foreground_count: 15
+    background_count: 17
+    log_odds: -0.11778303565638351
+  - term: guadalajara
+    foreground_count: 15
+    background_count: 17
+    log_odds: -0.11778303565638351
+  - term: investigator
+    foreground_count: 102
+    background_count: 115
+    log_odds: -0.11886120287672881
+  - term: classroom
+    foreground_count: 124
+    background_count: 140
+    log_odds: -0.12044615307586722
+  - term: educa
+    foreground_count: 38
+    background_count: 43
+    log_odds: -0.12062798778861475
+  - term: professors
+    foreground_count: 61
+    background_count: 69
+    log_odds: -0.12136085700426748
+  - term: mooc
+    foreground_count: 30
+    background_count: 34
+    log_odds: -0.12136085700426748
+  - term: mentorship
+    foreground_count: 51
+    background_count: 58
+    log_odds: -0.12629372532429212
+  - term: ami
+    foreground_count: 51
+    background_count: 58
+    log_odds: -0.12629372532429212
+  - term: credentialing
+    foreground_count: 43
+    background_count: 49
+    log_odds: -0.12783337150988489
+  - term: hyperparameters
+    foreground_count: 42
+    background_count: 48
+    log_odds: -0.13062018241706422
+  - term: mity
+    foreground_count: 491
+    background_count: 560
+    log_odds: -0.13124218903038826
+  - term: tutors
+    foreground_count: 20
+    background_count: 23
+    log_odds: -0.13353139262452263
+  - term: amii
+    foreground_count: 27
+    background_count: 31
+    log_odds: -0.13353139262452263
+  - term: halal
+    foreground_count: 33
+    background_count: 38
+    log_odds: -0.137201121513485
+  - term: hawai
+    foreground_count: 26
+    background_count: 30
+    log_odds: -0.13815033848081718
+  - term: pedagogy
+    foreground_count: 26
+    background_count: 30
+    log_odds: -0.13815033848081718
+  - term: teach
+    foreground_count: 120
+    background_count: 138
+    log_odds: -0.13868338753395063
+  - term: scholar
+    foreground_count: 19
+    background_count: 22
+    log_odds: -0.13976194237515874
+  - term: regularization
+    foreground_count: 19
+    background_count: 22
+    log_odds: -0.13976194237515874
+  - term: lei
+    foreground_count: 19
+    background_count: 22
+    log_odds: -0.13976194237515874
+  - term: cmmc
+    foreground_count: 19
+    background_count: 22
+    log_odds: -0.13976194237515874
+  - term: theology
+    foreground_count: 19
+    background_count: 22
+    log_odds: -0.13976194237515874
+  - term: scholarships
+    foreground_count: 205
+    background_count: 236
+    log_odds: -0.14018397234555005
+  - term: phd
+    foreground_count: 291
+    background_count: 335
+    log_odds: -0.14035735769492247
+  - term: catholic
+    foreground_count: 32
+    background_count: 37
+    log_odds: -0.14107859825990549
+  - term: fcai
+    foreground_count: 32
+    background_count: 37
+    log_odds: -0.14107859825990549
+  - term: castan
+    foreground_count: 32
+    background_count: 37
+    log_odds: -0.14107859825990549
+  - term: liquefied
+    foreground_count: 45
+    background_count: 52
+    log_odds: -0.1416505170630268
+  - term: pymetrics
+    foreground_count: 25
+    background_count: 29
+    log_odds: -0.1431008436406733
+  - term: bachelor
+    foreground_count: 192
+    background_count: 222
+    log_odds: -0.14448158255523327
+  - term: schooling
+    foreground_count: 50
+    background_count: 58
+    log_odds: -0.14571181118139365
+  - term: perturbation
+    foreground_count: 18
+    background_count: 21
+    log_odds: -0.1466034741918754
+  - term: interceptor
+    foreground_count: 75
+    background_count: 87
+    log_odds: -0.1466034741918754
+  - term: ajnifm
+    foreground_count: 18
+    background_count: 21
+    log_odds: -0.1466034741918754
+  - term: itec
+    foreground_count: 18
+    background_count: 21
+    log_odds: -0.1466034741918754
+  - term: queensland
+    foreground_count: 93
+    background_count: 108
+    log_odds: -0.14805309995913976
+  - term: tertiary
+    foreground_count: 99
+    background_count: 115
+    log_odds: -0.14842000511827333
+  - term: theses
+    foreground_count: 24
+    background_count: 28
+    log_odds: -0.14842000511827333
+  - term: edtech
+    foreground_count: 74
+    background_count: 86
+    log_odds: -0.14842000511827333
+  - term: associa
+    foreground_count: 24
+    background_count: 28
+    log_odds: -0.14842000511827333
+  - term: sydney
+    foreground_count: 155
+    background_count: 180
+    log_odds: -0.14864102401628868
+  - term: fiduciary
+    foreground_count: 80
+    background_count: 93
+    log_odds: -0.14884562759756517
+  - term: tuition
+    foreground_count: 36
+    background_count: 42
+    log_odds: -0.150282203049338
+  - term: immigrants
+    foreground_count: 36
+    background_count: 42
+    log_odds: -0.150282203049338
+  - term: mila
+    foreground_count: 42
+    background_count: 49
+    log_odds: -0.15082288973458366
+  - term: professor
+    foreground_count: 559
+    background_count: 651
+    log_odds: -0.152107778197458
+  - term: inversion
+    foreground_count: 35
+    background_count: 41
+    log_odds: -0.15415067982725836
+  - term: afghan
+    foreground_count: 107
+    background_count: 125
+    log_odds: -0.15415067982725836
+  - term: conveyances
+    foreground_count: 23
+    background_count: 27
+    log_odds: -0.15415067982725836
+  - term: fallon
+    foreground_count: 17
+    background_count: 20
+    log_odds: -0.15415067982725836
+  - term: drill
+    foreground_count: 17
+    background_count: 20
+    log_odds: -0.15415067982725836
+  - term: stationing
+    foreground_count: 17
+    background_count: 20
+    log_odds: -0.15415067982725836
+  - term: kindergarten
+    foreground_count: 17
+    background_count: 20
+    log_odds: -0.15415067982725836
+  - term: actiris
+    foreground_count: 29
+    background_count: 34
+    log_odds: -0.15415067982725836
+  - term: servicewide
+    foreground_count: 70
+    background_count: 82
+    log_odds: -0.15616073075528253
+  - term: tokyo
+    foreground_count: 64
+    background_count: 75
+    log_odds: -0.15634607039069398
+  - term: graduated
+    foreground_count: 52
+    background_count: 61
+    log_odds: -0.1568424714929697
+  - term: adelaide
+    foreground_count: 28
+    background_count: 33
+    log_odds: -0.1590646946296874
+  - term: enrolment
+    foreground_count: 28
+    background_count: 33
+    log_odds: -0.1590646946296874
+  - term: hemes
+    foreground_count: 28
+    background_count: 33
+    log_odds: -0.1590646946296874
+  - term: melbourne
+    foreground_count: 80
+    background_count: 94
+    log_odds: -0.15942773692810208
+  - term: graduates
+    foreground_count: 440
+    background_count: 517
+    log_odds: -0.16093036681263712
+  - term: exams
+    foreground_count: 39
+    background_count: 46
+    log_odds: -0.16126814759612226
+  - term: ssessment
+    foreground_count: 84
+    background_count: 99
+    log_odds: -0.16251892949777494
+  - term: filipino
+    foreground_count: 16
+    background_count: 19
+    log_odds: -0.16251892949777494
+  - term: tri-party
+    foreground_count: 16
+    background_count: 19
+    log_odds: -0.16251892949777494
+  - term: austin
+    foreground_count: 16
+    background_count: 19
+    log_odds: -0.16251892949777494
+  - term: hiroshi
+    foreground_count: 16
+    background_count: 19
+    log_odds: -0.16251892949777494
+  - term: mnes
+    foreground_count: 16
+    background_count: 19
+    log_odds: -0.16251892949777494
+  - term: regents
+    foreground_count: 27
+    background_count: 32
+    log_odds: -0.1643030512912763
+  - term: pennsylvania
+    foreground_count: 21
+    background_count: 25
+    log_odds: -0.1670540846631662
+  - term: theoretical
+    foreground_count: 434
+    background_count: 514
+    log_odds: -0.1688208695750521
+  - term: diplomas
+    foreground_count: 26
+    background_count: 31
+    log_odds: -0.16989903679539747
+  - term: telstra
+    foreground_count: 26
+    background_count: 31
+    log_odds: -0.16989903679539747
+  - term: pendleton
+    foreground_count: 15
+    background_count: 18
+    log_odds: -0.17185025692665928
+  - term: quartile
+    foreground_count: 15
+    background_count: 18
+    log_odds: -0.17185025692665928
+  - term: princeton
+    foreground_count: 15
+    background_count: 18
+    log_odds: -0.17185025692665928
+  - term: hyperparameter
+    foreground_count: 15
+    background_count: 18
+    log_odds: -0.17185025692665928
+  - term: investiga
+    foreground_count: 31
+    background_count: 37
+    log_odds: -0.17185025692665928
+  - term: education
+    foreground_count: 10265
+    background_count: 12205
+    log_odds: -0.17309016998419186
+  - term: curtis
+    foreground_count: 20
+    background_count: 24
+    log_odds: -0.1743533871447778
+  - term: lifelong
+    foreground_count: 292
+    background_count: 348
+    log_odds: -0.17489931318535987
+  - term: math
+    foreground_count: 46
+    background_count: 55
+    log_odds: -0.17520408902509063
+  - term: dwr
+    foreground_count: 25
+    background_count: 30
+    log_odds: -0.17589066646366416
+  - term: piping
+    foreground_count: 71
+    background_count: 85
+    log_odds: -0.17768117723745236
+  - term: trainers
+    foreground_count: 71
+    background_count: 85
+    log_odds: -0.17768117723745236
+  - term: plagiarism
+    foreground_count: 35
+    background_count: 42
+    log_odds: -0.17768117723745236
+  - term: junior
+    foreground_count: 158
+    background_count: 189
+    log_odds: -0.17811986994025455
+  - term: colleges
+    foreground_count: 209
+    background_count: 250
+    log_odds: -0.17834540841431518
+  - term: imai
+    foreground_count: 85
+    background_count: 102
+    log_odds: -0.18038169197612808
+  - term: berkman
+    foreground_count: 19
+    background_count: 23
+    log_odds: -0.1823215567939546
+  - term: in-processing
+    foreground_count: 19
+    background_count: 23
+    log_odds: -0.1823215567939546
+  - term: adjunct
+    foreground_count: 24
+    background_count: 29
+    log_odds: -0.1823215567939546
+  - term: evidence-
+    foreground_count: 19
+    background_count: 23
+    log_odds: -0.1823215567939546
+  - term: athletes
+    foreground_count: 24
+    background_count: 29
+    log_odds: -0.1823215567939546
+  - term: counter-uas
+    foreground_count: 19
+    background_count: 23
+    log_odds: -0.1823215567939546
+  - term: computer-based
+    foreground_count: 24
+    background_count: 29
+    log_odds: -0.1823215567939546
+  - term: tutoring
+    foreground_count: 59
+    background_count: 71
+    log_odds: -0.1823215567939546
+  - term: experiential
+    foreground_count: 19
+    background_count: 23
+    log_odds: -0.1823215567939546
+  - term: saudi-led
+    foreground_count: 19
+    background_count: 23
+    log_odds: -0.1823215567939546
+  - term: harvard
+    foreground_count: 88
+    background_count: 106
+    log_odds: -0.18419246472976636
+  - term: co-production
+    foreground_count: 43
+    background_count: 52
+    log_odds: -0.1861022796338606
+  - term: dfe
+    foreground_count: 43
+    background_count: 52
+    log_odds: -0.1861022796338606
+  - term: preschool
+    foreground_count: 28
+    background_count: 34
+    log_odds: -0.1880522315029396
+  - term: stefan
+    foreground_count: 52
+    background_count: 63
+    log_odds: -0.18859116980755003
+  - term: optionally
+    foreground_count: 23
+    background_count: 28
+    log_odds: -0.18924199963852842
+  - term: subpoenas
+    foreground_count: 23
+    background_count: 28
+    log_odds: -0.18924199963852842
+  - term: srvwd
+    foreground_count: 66
+    background_count: 80
+    log_odds: -0.18975653528147268
+  - term: educational
+    foreground_count: 2559
+    background_count: 3096
+    log_odds: -0.19042664249959468
+  - term: versity
+    foreground_count: 18
+    background_count: 22
+    log_odds: -0.19105523676270922
+  - term: french-speaking
+    foreground_count: 18
+    background_count: 22
+    log_odds: -0.19105523676270922
+  - term: distillation
+    foreground_count: 18
+    background_count: 22
+    log_odds: -0.19105523676270922
+  - term: sub-team
+    foreground_count: 18
+    background_count: 22
+    log_odds: -0.19105523676270922
+  - term: maurice
+    foreground_count: 32
+    background_count: 39
+    log_odds: -0.19237189264745613
+  - term: blackburn
+    foreground_count: 32
+    background_count: 39
+    log_odds: -0.19237189264745613
+  - term: admissions
+    foreground_count: 41
+    background_count: 50
+    log_odds: -0.1941560144409575
+  - term: moocs
+    foreground_count: 36
+    background_count: 44
+    log_odds: -0.19574457712609536
+  - term: emies
+    foreground_count: 22
+    background_count: 27
+    log_odds: -0.19671029424605427
+  - term: life-long
+    foreground_count: 22
+    background_count: 27
+    log_odds: -0.19671029424605427
+  - term: amman
+    foreground_count: 22
+    background_count: 27
+    log_odds: -0.19671029424605427
+  - term: ibc
+    foreground_count: 22
+    background_count: 27
+    log_odds: -0.19671029424605427
+  - term: attacker
+    foreground_count: 63
+    background_count: 77
+    log_odds: -0.19782574332991992
+  - term: post-graduate
+    foreground_count: 40
+    background_count: 49
+    log_odds: -0.19845093872383832
+  - term: diploma
+    foreground_count: 76
+    background_count: 93
+    log_odds: -0.19948936041632004
+  - term: mainstreaming
+    foreground_count: 85
+    background_count: 104
+    log_odds: -0.19961305390401568
+  - term: shortfalls
+    foreground_count: 35
+    background_count: 43
+    log_odds: -0.2006706954621511
+  - term: specializations
+    foreground_count: 26
+    background_count: 32
+    log_odds: -0.2006706954621511
+  - term: semester
+    foreground_count: 71
+    background_count: 87
+    log_odds: -0.2006706954621511
+  - term: iancu
+    foreground_count: 17
+    background_count: 21
+    log_odds: -0.2006706954621511
+  - term: non-intrusive
+    foreground_count: 17
+    background_count: 21
+    log_odds: -0.2006706954621511
+  - term: formative
+    foreground_count: 17
+    background_count: 21
+    log_odds: -0.2006706954621511
+  - term: ankara
+    foreground_count: 26
+    background_count: 32
+    log_odds: -0.2006706954621511
+  - term: mozambique
+    foreground_count: 17
+    background_count: 21
+    log_odds: -0.2006706954621511
+  - term: cadence
+    foreground_count: 26
+    background_count: 32
+    log_odds: -0.2006706954621511
+  - term: wiselaw
+    foreground_count: 35
+    background_count: 43
+    log_odds: -0.2006706954621511
+  - term: wisconsin
+    foreground_count: 21
+    background_count: 26
+    log_odds: -0.20479441264601328
+  - term: backdoor
+    foreground_count: 21
+    background_count: 26
+    log_odds: -0.20479441264601328
+  - term: anges
+    foreground_count: 21
+    background_count: 26
+    log_odds: -0.20479441264601328
+  - term: overfitting
+    foreground_count: 42
+    background_count: 52
+    log_odds: -0.20909179785855936
+  - term: erasmus
+    foreground_count: 42
+    background_count: 52
+    log_odds: -0.20909179785855936
+  - term: uzh
+    foreground_count: 29
+    background_count: 36
+    log_odds: -0.20972053098206903
+  - term: simulators
+    foreground_count: 46
+    background_count: 57
+    log_odds: -0.2102954088363608
+  - term: postdoctoral
+    foreground_count: 63
+    background_count: 78
+    log_odds: -0.21056476910734964
+  - term: sessment
+    foreground_count: 50
+    background_count: 62
+    log_odds: -0.2113090936672069
+  - term: mold
+    foreground_count: 16
+    background_count: 20
+    log_odds: -0.2113090936672069
+  - term: ctef
+    foreground_count: 16
+    background_count: 20
+    log_odds: -0.2113090936672069
+  - term: dealers
+    foreground_count: 16
+    background_count: 20
+    log_odds: -0.2113090936672069
+  - term: memorization
+    foreground_count: 16
+    background_count: 20
+    log_odds: -0.2113090936672069
+  - term: human-based
+    foreground_count: 16
+    background_count: 20
+    log_odds: -0.2113090936672069
+  - term: ois-
+    foreground_count: 16
+    background_count: 20
+    log_odds: -0.2113090936672069
+  - term: moe
+    foreground_count: 16
+    background_count: 20
+    log_odds: -0.2113090936672069
+  - term: interns
+    foreground_count: 20
+    background_count: 25
+    log_odds: -0.21357410029805904
+  - term: encoder
+    foreground_count: 20
+    background_count: 25
+    log_odds: -0.21357410029805904
+  - term: prospecting
+    foreground_count: 20
+    background_count: 25
+    log_odds: -0.21357410029805904
+  - term: inesc
+    foreground_count: 20
+    background_count: 25
+    log_odds: -0.21357410029805904
+  - term: islander
+    foreground_count: 24
+    background_count: 30
+    log_odds: -0.21511137961694557
+  - term: workforce-
+    foreground_count: 24
+    background_count: 30
+    log_odds: -0.21511137961694557
+  - term: towing
+    foreground_count: 24
+    background_count: 30
+    log_odds: -0.21511137961694557
+  - term: raining
+    foreground_count: 28
+    background_count: 35
+    log_odds: -0.21622310846963594
+  - term: graduation
+    foreground_count: 57
+    background_count: 71
+    log_odds: -0.21622310846963594
+  - term: specialties
+    foreground_count: 36
+    background_count: 45
+    log_odds: -0.21772348384487053
+  - term: careers
+    foreground_count: 277
+    background_count: 346
+    log_odds: -0.22170366625622218
+  - term: stitutions
+    foreground_count: 23
+    background_count: 29
+    log_odds: -0.2231435513142097
+  - term: norfolk
+    foreground_count: 15
+    background_count: 19
+    log_odds: -0.2231435513142097
