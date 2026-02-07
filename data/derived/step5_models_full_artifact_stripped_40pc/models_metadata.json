@@ -1,0 +1,8 @@
+{
+  "chunks_path": "data/derived/step4_chunks_tagged/chunks_normalized_tagged.jsonl",
+  "n_chunks": 47512,
+  "n_components": 40,
+  "tfidf_max_features": 50000,
+  "artifact_tokens_path": "config/artifact_tokens.txt",
+  "n_chunks_artifacts_stripped": 5775
+}
