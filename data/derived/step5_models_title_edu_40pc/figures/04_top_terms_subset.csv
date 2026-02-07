@@ -1,0 +1,401 @@
+pc,side,rank,term
+PC1,pos,1,на
+PC1,pos,2,за
+PC1,pos,3,да
+PC1,pos,4,се
+PC1,pos,5,от
+PC1,pos,6,по
+PC1,pos,7,обучение
+PC1,pos,8,да се
+PC1,pos,9,които
+PC1,pos,10,са
+PC1,pos,11,като
+PC1,pos,12,образованието
+PC1,pos,13,при
+PC1,pos,14,не
+PC1,pos,15,трансформация
+PC1,pos,16,студентите
+PC1,pos,17,дигитална
+PC1,pos,18,или
+PC1,pos,19,на образованието
+PC1,pos,20,оценяване
+PC1,neg,1,007 017
+PC1,neg,2,005 017
+PC1,neg,3,012 038
+PC1,neg,4,046 008
+PC1,neg,5,047 110
+PC1,neg,6,038 002
+PC1,neg,7,000 002
+PC1,neg,8,008 011
+PC1,neg,9,895
+PC1,neg,10,033 100
+PC1,neg,11,261
+PC1,neg,12,008 018
+PC1,neg,13,006 014
+PC1,neg,14,013 003
+PC1,neg,15,012 036
+PC1,neg,16,000 194
+PC1,neg,17,025 057
+PC1,neg,18,596
+PC1,neg,19,031 074
+PC1,neg,20,029 069
+PC2,pos,1,ai
+PC2,pos,2,digital
+PC2,pos,3,quality
+PC2,pos,4,learning
+PC2,pos,5,education
+PC2,pos,6,machine
+PC2,pos,7,machine learning
+PC2,pos,8,use
+PC2,pos,9,data
+PC2,pos,10,skills
+PC2,pos,11,training
+PC2,pos,12,educational
+PC2,pos,13,government
+PC2,pos,14,students
+PC2,pos,15,digital skills
+PC2,pos,16,research
+PC2,pos,17,external
+PC2,pos,18,development
+PC2,pos,19,safety
+PC2,pos,20,technologies
+PC2,neg,1,на
+PC2,neg,2,да
+PC2,neg,3,за
+PC2,neg,4,се
+PC2,neg,5,от
+PC2,neg,6,по
+PC2,neg,7,да се
+PC2,neg,8,които
+PC2,neg,9,са
+PC2,neg,10,като
+PC2,neg,11,не
+PC2,neg,12,обучение
+PC2,neg,13,или
+PC2,neg,14,при
+PC2,neg,15,това
+PC2,neg,16,че
+PC2,neg,17,трябва
+PC2,neg,18,студентите
+PC2,neg,19,към
+PC2,neg,20,може
+PC3,pos,1,quality
+PC3,pos,2,machine learning
+PC3,pos,3,machine
+PC3,pos,4,learning
+PC3,pos,5,external
+PC3,pos,6,external quality
+PC3,pos,7,safety
+PC3,pos,8,learning elements
+PC3,pos,9,elements
+PC3,pos,10,quality use
+PC3,pos,11,plant
+PC3,pos,12,internal quality
+PC3,pos,13,requirements
+PC3,pos,14,operation
+PC3,pos,15,internal
+PC3,pos,16,level
+PC3,pos,17,case
+PC3,pos,18,set
+PC3,pos,19,data
+PC3,pos,20,use
+PC3,neg,1,digital
+PC3,neg,2,education
+PC3,neg,3,ai
+PC3,neg,4,skills
+PC3,neg,5,digital skills
+PC3,neg,6,training
+PC3,neg,7,educational
+PC3,neg,8,technologies
+PC3,neg,9,students
+PC3,neg,10,government
+PC3,neg,11,research
+PC3,neg,12,plan
+PC3,neg,13,support
+PC3,neg,14,malta
+PC3,neg,15,digital technologies
+PC3,neg,16,european
+PC3,neg,17,schools
+PC3,neg,18,public
+PC3,neg,19,teachers
+PC3,neg,20,intelligence
+PC4,pos,1,ai
+PC4,pos,2,malta
+PC4,pos,3,generative
+PC4,pos,4,use ai
+PC4,pos,5,educational
+PC4,pos,6,intelligence
+PC4,pos,7,students
+PC4,pos,8,educators
+PC4,pos,9,artificial
+PC4,pos,10,generative ai
+PC4,pos,11,tools
+PC4,pos,12,use
+PC4,pos,13,artificial intelligence
+PC4,pos,14,ai systems
+PC4,pos,15,leaders
+PC4,pos,16,educational leaders
+PC4,pos,17,student
+PC4,pos,18,risks
+PC4,pos,19,ai tools
+PC4,pos,20,systems
+PC4,neg,1,digital
+PC4,neg,2,digital skills
+PC4,neg,3,skills
+PC4,neg,4,1e
+PC4,neg,5,3e
+PC4,neg,6,training
+PC4,neg,7,education
+PC4,neg,8,quality
+PC4,neg,9,masked
+PC4,neg,10,03
+PC4,neg,11,02
+PC4,neg,12,plan
+PC4,neg,13,digital technologies
+PC4,neg,14,government
+PC4,neg,15,transformation
+PC4,neg,16,ministry
+PC4,neg,17,digital education
+PC4,neg,18,brussels
+PC4,neg,19,01
+PC4,neg,20,digital transformation
+PC5,pos,1,1e
+PC5,pos,2,3e
+PC5,pos,3,masked
+PC5,pos,4,03
+PC5,pos,5,02
+PC5,pos,6,ai
+PC5,pos,7,01
+PC5,pos,8,masked masked
+PC5,pos,9,03 3e
+PC5,pos,10,1e 03
+PC5,pos,11,3e 03
+PC5,pos,12,3e 02
+PC5,pos,13,1e 02
+PC5,pos,14,02 3e
+PC5,pos,15,02 1e
+PC5,pos,16,03 1e
+PC5,pos,17,06
+PC5,pos,18,1e 01
+PC5,pos,19,unmasked
+PC5,pos,20,fmr
+PC5,neg,1,digital
+PC5,neg,2,digital skills
+PC5,neg,3,skills
+PC5,neg,4,training
+PC5,neg,5,education
+PC5,neg,6,quality
+PC5,neg,7,digital technologies
+PC5,neg,8,government
+PC5,neg,9,plan
+PC5,neg,10,digital education
+PC5,neg,11,ministry
+PC5,neg,12,technologies
+PC5,neg,13,transformation
+PC5,neg,14,brussels
+PC5,neg,15,machine learning
+PC5,neg,16,digital transformation
+PC5,neg,17,european
+PC5,neg,18,external
+PC5,neg,19,vocational
+PC5,neg,20,ict
+PC6,pos,1,digital
+PC6,pos,2,digital skills
+PC6,pos,3,skills
+PC6,pos,4,education
+PC6,pos,5,learning
+PC6,pos,6,ai
+PC6,pos,7,educational
+PC6,pos,8,students
+PC6,pos,9,technologies
+PC6,pos,10,digital technologies
+PC6,pos,11,teachers
+PC6,pos,12,teaching
+PC6,pos,13,use
+PC6,pos,14,digital education
+PC6,pos,15,machine learning
+PC6,pos,16,educators
+PC6,pos,17,quality
+PC6,pos,18,literacy
+PC6,pos,19,3e
+PC6,pos,20,education training
+PC6,neg,1,government
+PC6,neg,2,brussels
+PC6,neg,3,policy
+PC6,neg,4,aid
+PC6,neg,5,research
+PC6,neg,6,article
+PC6,neg,7,public
+PC6,neg,8,region
+PC6,neg,9,order
+PC6,neg,10,section
+PC6,neg,11,law
+PC6,neg,12,innovation
+PC6,neg,13,shall
+PC6,neg,14,research innovation
+PC6,neg,15,council
+PC6,neg,16,boe
+PC6,neg,17,policy council
+PC6,neg,18,project
+PC6,neg,19,science
+PC6,neg,20,science research
+PC7,pos,1,да
+PC7,pos,2,government
+PC7,pos,3,се
+PC7,pos,4,brussels
+PC7,pos,5,да се
+PC7,pos,6,за
+PC7,pos,7,3e
+PC7,pos,8,от
+PC7,pos,9,трябва
+PC7,pos,10,region
+PC7,pos,11,трябва да
+PC7,pos,12,които
+PC7,pos,13,1e
+PC7,pos,14,не
+PC7,pos,15,по
+PC7,pos,16,като
+PC7,pos,17,support
+PC7,pos,18,policy
+PC7,pos,19,или
+PC7,pos,20,това
+PC7,neg,1,трансформация
+PC7,neg,2,оценяване акредитация
+PC7,neg,3,оценяване
+PC7,neg,4,дигитална трансформация
+PC7,neg,5,проблеми решения
+PC7,neg,6,решения оценяване
+PC7,neg,7,конференция дигитална
+PC7,neg,8,образованието проблеми
+PC7,neg,9,национална конференция
+PC7,neg,10,акредитация
+PC7,neg,11,трансформация на
+PC7,neg,12,конференция
+PC7,neg,13,национална
+PC7,neg,14,дигитална
+PC7,neg,15,решения
+PC7,neg,16,на образованието
+PC7,neg,17,проблеми
+PC7,neg,18,образованието
+PC7,neg,19,https
+PC7,neg,20,aid
+PC8,pos,1,government
+PC8,pos,2,brussels
+PC8,pos,3,region
+PC8,pos,4,3e
+PC8,pos,5,support
+PC8,pos,6,policy
+PC8,pos,7,трансформация
+PC8,pos,8,оценяване акредитация
+PC8,pos,9,оценяване
+PC8,pos,10,дигитална трансформация
+PC8,pos,11,проблеми решения
+PC8,pos,12,акредитация
+PC8,pos,13,решения оценяване
+PC8,pos,14,трансформация на
+PC8,pos,15,конференция дигитална
+PC8,pos,16,образованието проблеми
+PC8,pos,17,национална конференция
+PC8,pos,18,конференция
+PC8,pos,19,национална
+PC8,pos,20,дигитална
+PC8,neg,1,aid
+PC8,neg,2,article
+PC8,neg,3,boe
+PC8,neg,4,law
+PC8,neg,5,да
+PC8,neg,6,000
+PC8,neg,7,000 000
+PC8,neg,8,research
+PC8,neg,9,beneficiary
+PC8,neg,10,section
+PC8,neg,11,chair
+PC8,neg,12,https
+PC8,neg,13,expenses
+PC8,neg,14,2022
+PC8,neg,15,accordance
+PC8,neg,16,december
+PC8,neg,17,application
+PC8,neg,18,digital
+PC8,neg,19,submitted
+PC8,neg,20,es
+PC9,pos,1,3e
+PC9,pos,2,1e
+PC9,pos,3,03
+PC9,pos,4,02
+PC9,pos,5,research
+PC9,pos,6,innovation
+PC9,pos,7,science
+PC9,pos,8,research innovation
+PC9,pos,9,education
+PC9,pos,10,policy council
+PC9,pos,11,3e 02
+PC9,pos,12,02 1e
+PC9,pos,13,02 3e
+PC9,pos,14,1e 02
+PC9,pos,15,03 1e
+PC9,pos,16,1e 03
+PC9,pos,17,03 3e
+PC9,pos,18,3e 03
+PC9,pos,19,1e 01
+PC9,pos,20,masked masked
+PC9,neg,1,000
+PC9,neg,2,000 000
+PC9,neg,3,mask
+PC9,neg,4,match rate
+PC9,neg,5,face
+PC9,neg,6,false
+PC9,neg,7,match
+PC9,neg,8,rate
+PC9,neg,9,001
+PC9,neg,10,government
+PC9,neg,11,fnmr
+PC9,neg,12,algorithms
+PC9,neg,13,002
+PC9,neg,14,brussels
+PC9,neg,15,021e 01
+PC9,neg,16,021e
+PC9,neg,17,031e
+PC9,neg,18,041e
+PC9,neg,19,061e 051e
+PC9,neg,20,041e 031e
+PC10,pos,1,education
+PC10,pos,2,research
+PC10,pos,3,science
+PC10,pos,4,innovation
+PC10,pos,5,research innovation
+PC10,pos,6,policy council
+PC10,pos,7,science research
+PC10,pos,8,higher education
+PC10,pos,9,council
+PC10,pos,10,higher
+PC10,pos,11,policy
+PC10,pos,12,educational
+PC10,pos,13,technologies
+PC10,pos,14,act
+PC10,pos,15,education science
+PC10,pos,16,ministry education
+PC10,pos,17,digital technologies
+PC10,pos,18,office
+PC10,pos,19,schools
+PC10,pos,20,education youth
+PC10,neg,1,digital skills
+PC10,neg,2,skills
+PC10,neg,3,ai
+PC10,neg,4,training
+PC10,neg,5,aid
+PC10,neg,6,digital
+PC10,neg,7,article
+PC10,neg,8,plan
+PC10,neg,9,malta
+PC10,neg,10,boe
+PC10,neg,11,law
+PC10,neg,12,beneficiary
+PC10,neg,13,public
+PC10,neg,14,european
+PC10,neg,15,action
+PC10,neg,16,transformation
+PC10,neg,17,eu
+PC10,neg,18,3e
+PC10,neg,19,skills training
+PC10,neg,20,recovery

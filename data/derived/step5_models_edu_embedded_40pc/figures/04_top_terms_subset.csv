@@ -1,0 +1,401 @@
+pc,side,rank,term
+PC1,pos,1,ai
+PC1,pos,2,data
+PC1,pos,3,digital
+PC1,pos,4,research
+PC1,pos,5,education
+PC1,pos,6,intelligence
+PC1,pos,7,artificial
+PC1,pos,8,development
+PC1,pos,9,artificial intelligence
+PC1,pos,10,use
+PC1,pos,11,national
+PC1,pos,12,public
+PC1,pos,13,technology
+PC1,pos,14,systems
+PC1,pos,15,government
+PC1,pos,16,defense
+PC1,pos,17,skills
+PC1,pos,18,training
+PC1,pos,19,information
+PC1,pos,20,sec
+PC1,neg,1,있도록
+PC1,neg,2,수 있도록
+PC1,neg,3,지원
+PC1,neg,4,се
+PC1,neg,5,등
+PC1,neg,6,산업혁명
+PC1,neg,7,차 산업혁명
+PC1,neg,8,대학
+PC1,neg,9,수
+PC1,neg,10,위한
+PC1,neg,11,및
+PC1,neg,12,269 000
+PC1,neg,13,000 335
+PC1,neg,14,550 000
+PC1,neg,15,991 000
+PC1,neg,16,016 000
+PC1,neg,17,000 112
+PC1,neg,18,incremento del
+PC1,neg,19,000 81
+PC1,neg,20,000 145
+PC2,pos,1,ai
+PC2,pos,2,data
+PC2,pos,3,digital
+PC2,pos,4,artificial
+PC2,pos,5,artificial intelligence
+PC2,pos,6,intelligence
+PC2,pos,7,skills
+PC2,pos,8,education
+PC2,pos,9,learning
+PC2,pos,10,research
+PC2,pos,11,use
+PC2,pos,12,development
+PC2,pos,13,machine
+PC2,pos,14,innovation
+PC2,pos,15,human
+PC2,pos,16,ai systems
+PC2,pos,17,systems
+PC2,pos,18,technologies
+PC2,pos,19,students
+PC2,pos,20,companies
+PC2,neg,1,22
+PC2,neg,2,xml
+PC2,neg,3,defense
+PC2,neg,4,sec
+PC2,neg,5,secretary
+PC2,neg,6,rcp xml
+PC2,neg,7,rcp
+PC2,neg,8,10
+PC2,neg,9,10 22
+PC2,neg,10,120721
+PC2,neg,11,shall
+PC2,neg,12,2021
+PC2,neg,13,section
+PC2,neg,14,11
+PC2,neg,15,united states
+PC2,neg,16,24
+PC2,neg,17,united
+PC2,neg,18,subsection
+PC2,neg,19,states
+PC2,neg,20,military
+PC3,pos,1,ai
+PC3,pos,2,22
+PC3,pos,3,xml
+PC3,pos,4,rcp xml
+PC3,pos,5,rcp
+PC3,pos,6,120721
+PC3,pos,7,10 22
+PC3,pos,8,10
+PC3,pos,9,24
+PC3,pos,10,2021
+PC3,pos,11,sfmt 6201
+PC3,pos,12,6201 users
+PC3,pos,13,6201
+PC3,pos,14,al 11
+PC3,pos,15,000000
+PC3,pos,16,gen rcp
+PC3,pos,17,11 gen
+PC3,pos,18,dec 07
+PC3,pos,19,07 2021
+PC3,pos,20,appdata roaming
+PC3,neg,1,sec
+PC3,neg,2,defense
+PC3,neg,3,secretary
+PC3,neg,4,shall
+PC3,neg,5,provision
+PC3,neg,6,section
+PC3,neg,7,contained
+PC3,neg,8,295
+PC3,neg,9,department
+PC3,neg,10,united states
+PC3,neg,11,senate
+PC3,neg,12,united
+PC3,neg,13,house
+PC3,neg,14,states
+PC3,neg,15,program
+PC3,neg,16,secretary defense
+PC3,neg,17,amendment
+PC3,neg,18,subsection
+PC3,neg,19,report
+PC3,neg,20,department defense
+PC4,pos,1,295
+PC4,pos,2,295 133
+PC4,pos,3,133
+PC4,pos,4,high school
+PC4,pos,5,smartlabs
+PC4,pos,6,smartlabs 2023
+PC4,pos,7,pnrr smartlabs
+PC4,pos,8,pnrr
+PC4,pos,9,school
+PC4,pos,10,smart
+PC4,pos,11,2023
+PC4,pos,12,smart laboratories
+PC4,pos,13,high
+PC4,pos,14,laboratories
+PC4,pos,15,133 90
+PC4,pos,16,00
+PC4,pos,17,college
+PC4,pos,18,school smart
+PC4,pos,19,technological high
+PC4,pos,20,90
+PC4,neg,1,sec
+PC4,neg,2,ai
+PC4,neg,3,defense
+PC4,neg,4,data
+PC4,neg,5,secretary
+PC4,neg,6,shall
+PC4,neg,7,section
+PC4,neg,8,provision
+PC4,neg,9,contained
+PC4,neg,10,united states
+PC4,neg,11,department
+PC4,neg,12,assessment
+PC4,neg,13,united
+PC4,neg,14,senate
+PC4,neg,15,states
+PC4,neg,16,report
+PC4,neg,17,house
+PC4,neg,18,act
+PC4,neg,19,secretary defense
+PC4,neg,20,subsection
+PC5,pos,1,ai
+PC5,pos,2,data
+PC5,pos,3,295
+PC5,pos,4,systems
+PC5,pos,5,ai systems
+PC5,pos,6,risk
+PC5,pos,7,sec
+PC5,pos,8,personal data
+PC5,pos,9,295 133
+PC5,pos,10,personal
+PC5,pos,11,assessment
+PC5,pos,12,133
+PC5,pos,13,protection
+PC5,pos,14,smartlabs
+PC5,pos,15,smartlabs 2023
+PC5,pos,16,pnrr smartlabs
+PC5,pos,17,pnrr
+PC5,pos,18,high school
+PC5,pos,19,defense
+PC5,pos,20,processing
+PC5,neg,1,digital
+PC5,neg,2,education
+PC5,neg,3,skills
+PC5,neg,4,digital skills
+PC5,neg,5,ministry
+PC5,neg,6,research
+PC5,neg,7,training
+PC5,neg,8,innovation
+PC5,neg,9,science
+PC5,neg,10,development
+PC5,neg,11,higher
+PC5,neg,12,transformation
+PC5,neg,13,higher education
+PC5,neg,14,ict
+PC5,neg,15,educational
+PC5,neg,16,technologies
+PC5,neg,17,000
+PC5,neg,18,economy
+PC5,neg,19,digital transformation
+PC5,neg,20,students
+PC6,pos,1,ai
+PC6,pos,2,sec
+PC6,pos,3,defense
+PC6,pos,4,research
+PC6,pos,5,education
+PC6,pos,6,students
+PC6,pos,7,program
+PC6,pos,8,000
+PC6,pos,9,united
+PC6,pos,10,talent
+PC6,pos,11,united states
+PC6,pos,12,department
+PC6,pos,13,contained
+PC6,pos,14,secretary
+PC6,pos,15,intelligence
+PC6,pos,16,industry
+PC6,pos,17,science
+PC6,pos,18,programs
+PC6,pos,19,generative
+PC6,pos,20,use ai
+PC6,neg,1,data
+PC6,neg,2,personal data
+PC6,neg,3,personal
+PC6,neg,4,protection
+PC6,neg,5,processing
+PC6,neg,6,data protection
+PC6,neg,7,ar
+PC6,neg,8,information
+PC6,neg,9,ticle
+PC6,neg,10,ar ticle
+PC6,neg,11,privacy
+PC6,neg,12,digital
+PC6,neg,13,shall
+PC6,neg,14,regulation
+PC6,neg,15,law
+PC6,neg,16,article
+PC6,neg,17,protection personal
+PC6,neg,18,public
+PC6,neg,19,assessment
+PC6,neg,20,processing personal
+PC7,pos,1,ar
+PC7,pos,2,ticle
+PC7,pos,3,ar ticle
+PC7,pos,4,shall
+PC7,pos,5,ai
+PC7,pos,6,digital
+PC7,pos,7,ity
+PC7,pos,8,conf
+PC7,pos,9,author
+PC7,pos,10,mity
+PC7,pos,11,conf mity
+PC7,pos,12,regulation
+PC7,pos,13,red
+PC7,pos,14,eu
+PC7,pos,15,isk
+PC7,pos,16,ser
+PC7,pos,17,commission
+PC7,pos,18,skills
+PC7,pos,19,syste
+PC7,pos,20,inf
+PC7,neg,1,data
+PC7,neg,2,artificial
+PC7,neg,3,intelligence
+PC7,neg,4,artificial intelligence
+PC7,neg,5,sec
+PC7,neg,6,personal data
+PC7,neg,7,personal
+PC7,neg,8,https
+PC7,neg,9,protection
+PC7,neg,10,research
+PC7,neg,11,uk
+PC7,neg,12,data protection
+PC7,neg,13,privacy
+PC7,neg,14,www
+PC7,neg,15,information
+PC7,neg,16,https www
+PC7,neg,17,gov
+PC7,neg,18,university
+PC7,neg,19,science
+PC7,neg,20,machine
+PC8,pos,1,artificial
+PC8,pos,2,intelligence
+PC8,pos,3,artificial intelligence
+PC8,pos,4,research
+PC8,pos,5,000
+PC8,pos,6,https
+PC8,pos,7,science
+PC8,pos,8,university
+PC8,pos,9,ar
+PC8,pos,10,www
+PC8,pos,11,ticle
+PC8,pos,12,ar ticle
+PC8,pos,13,shall
+PC8,pos,14,https www
+PC8,pos,15,innovation
+PC8,pos,16,national
+PC8,pos,17,org
+PC8,pos,18,european
+PC8,pos,19,2019
+PC8,pos,20,ministry
+PC8,neg,1,digital
+PC8,neg,2,skills
+PC8,neg,3,data
+PC8,neg,4,sec
+PC8,neg,5,digital skills
+PC8,neg,6,ai
+PC8,neg,7,education
+PC8,neg,8,learning
+PC8,neg,9,training
+PC8,neg,10,quality
+PC8,neg,11,use
+PC8,neg,12,educational
+PC8,neg,13,students
+PC8,neg,14,teachers
+PC8,neg,15,schools
+PC8,neg,16,risk
+PC8,neg,17,personal
+PC8,neg,18,risks
+PC8,neg,19,digital technologies
+PC8,neg,20,school
+PC9,pos,1,000
+PC9,pos,2,research
+PC9,pos,3,000 000
+PC9,pos,4,university
+PC9,pos,5,data
+PC9,pos,6,uk
+PC9,pos,7,ai
+PC9,pos,8,science
+PC9,pos,9,project
+PC9,pos,10,total
+PC9,pos,11,innovation
+PC9,pos,12,section
+PC9,pos,13,year
+PC9,pos,14,500
+PC9,pos,15,number
+PC9,pos,16,researchers
+PC9,pos,17,program
+PC9,pos,18,projects
+PC9,pos,19,funding
+PC9,pos,20,scientific
+PC9,neg,1,artificial
+PC9,neg,2,intelligence
+PC9,neg,3,artificial intelligence
+PC9,neg,4,digital
+PC9,neg,5,sec
+PC9,neg,6,digital skills
+PC9,neg,7,skills
+PC9,neg,8,technologies
+PC9,neg,9,ministry
+PC9,neg,10,field artificial
+PC9,neg,11,education
+PC9,neg,12,contained
+PC9,neg,13,defense
+PC9,neg,14,provision
+PC9,neg,15,national
+PC9,neg,16,https
+PC9,neg,17,use artificial
+PC9,neg,18,intelligence technologies
+PC9,neg,19,field
+PC9,neg,20,intelligence systems
+PC10,pos,1,sec
+PC10,pos,2,000
+PC10,pos,3,digital
+PC10,pos,4,https
+PC10,pos,5,subtitle
+PC10,pos,6,data
+PC10,pos,7,ar
+PC10,pos,8,ticle
+PC10,pos,9,ar ticle
+PC10,pos,10,artificial
+PC10,pos,11,artificial intelligence
+PC10,pos,12,intelligence
+PC10,pos,13,www
+PC10,pos,14,skills
+PC10,pos,15,program sec
+PC10,pos,16,https www
+PC10,pos,17,contained
+PC10,pos,18,uk
+PC10,pos,19,certain
+PC10,pos,20,digital skills
+PC10,neg,1,section
+PC10,neg,2,shall
+PC10,neg,3,subsection
+PC10,neg,4,secretary
+PC10,neg,5,paragraph
+PC10,neg,6,committee
+PC10,neg,7,research
+PC10,neg,8,inserting
+PC10,neg,9,act
+PC10,neg,10,later
+PC10,neg,11,date
+PC10,neg,12,quality
+PC10,neg,13,required
+PC10,neg,14,appropriate
+PC10,neg,15,following
+PC10,neg,16,striking
+PC10,neg,17,secretary defense
+PC10,neg,18,including
+PC10,neg,19,amended
+PC10,neg,20,described
