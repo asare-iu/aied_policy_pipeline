@@ -1,0 +1,41 @@
+pc,explained_variance_ratio,cumulative,label_expanded,admissible,interpretable,note
+PC1,0.0035484752853842,0.0035484752853842,English AI-policy backbone (AI/data/digital/research/education) vs multilingual/noise tail,Y,Y,Dominant policy vocabulary; negative side contains multilingual fragments and numeric artefacts
+PC2,0.0148970963004054,0.0184455715857897,AI systems + skills/education framing vs US defense header artefacts,Y,Y,Substantive skills/education governance contrasted against US email/header-like boilerplate
+PC3,0.008031197007574,0.0264767685933638,XML/appdata/formatting artefact component,Y,N,"Markup/export noise (xml, rcp, appdata)"
+PC4,0.0078565573010587,0.0343333258944225,School infrastructure modernization via SmartLabs/PnRR programmes,Y,Y,Education modernization framed through equipment/lab investment programmes
+PC5,0.0066346294512717,0.0409679553456943,AI risk + personal data protection + SmartLabs programme packaging,Y,Y,Education appears inside risk/privacy governance and programme implementation language
+PC6,0.0060025714225469,0.0469705267682413,US defense R&D/talent pipeline discourse with AI education references,Y,N,Primarily US defense/appropriations genre; education appears as incidental
+PC7,0.0048073353483667,0.051777862116608,EU AI Act-style compliance vocabulary artefact (tokenization),Y,N,"Fragmented compliance terms (ar ticle, cybersecur ity) suggest OCR/token splitting"
+PC8,0.004525814252544,0.056303676369152,Academic/scientific web-citation footprint vs classroom implementation vocabulary,Y,N,Dominated by URLs/citations/years; weak substantive interpretability
+PC9,0.0040168011859881,0.0603204775551402,Research funding/accounting metrics and programme totals,Y,Y,"Governance via funding allocations, counts, programme growth"
+PC10,0.0037802638575631,0.0641007414127033,Mixed statutory drafting vocabulary vs AI/digital policy vocabulary,Y,N,Legislative amendment structure dominates; treat as genre
+PC11,0.0036940097285764,0.0677947511412798,"AI assurance/quality framework (external quality, learning elements)",Y,Y,Quality assurance framing applicable to education-related AI systems
+PC12,0.003505553788558,0.0713003049298378,Serbia-style science/innovation ministry programme governance,Y,Y,Scientific research and ministry programme administration
+PC13,0.0033577300087283,0.0746580349385661,UK/Australia guidance + external quality + web footprints,Y,Y,Guidance and QA language present though mixed with URLs
+PC14,0.0032005204377573,0.0778585553763235,US congressional conference/contained-provision boilerplate,Y,N,Legislative reconciliation genre; not conceptually meaningful for education
+PC15,0.0029859960720232,0.0808445514483468,Education + machine learning + statutory drafting blend,Y,Y,Education and skills embedded in broader governance/legal framing
+PC16,0.0026403635258509,0.0834849149741977,Education + data protection/legal rights (privacy law embedding),Y,Y,"Education embedded via privacy, processing, rights and institutional contexts"
+PC17,0.00253637960044,0.0860212945746377,Digital transformation + EU QA + security + translation artefacts,Y,Y,Transformation/QA/security governance with some translation noise
+PC18,0.0023768811285776,0.0883981757032154,Cybersecurity + human rights/privacy institutional bios,Y,N,Bio/affiliation style text dominates; limited education interpretability
+PC19,0.0022922224852266,0.0906903981884421,Ministry/implementation/pilot programme administration,Y,Y,"Policy enacted through pilots, programmes, ministry implementation"
+PC20,0.0021897552035157,0.0928801533919578,Public services + ministry education + generative AI governance packaging,Y,Y,Generative AI appears inside public-service and ministry governance language
+PC21,0.0020244158819315,0.0949045692738893,Official recognition/assessment frameworks (IDPS/TARF/TAAF),Y,N,Highly domain-specific recognition jargon; education link unclear
+PC22,0.0020037238444032,0.0969082931182925,University/health/services/admin mix incl. GenAI,Y,N,Cross-domain mix (health/services/university); treat cautiously
+PC23,0.0019924136577462,0.0989007067760387,Risk/reporting/security + coast guard genre contamination,Y,N,Transport/maritime/coast guard dominates; not education
+PC24,0.0019190625727697,0.1008197693488085,EU health/tech methods + model/tool governance,Y,Y,Governance language around models/methods/tools; education appears embedded
+PC25,0.0018940666007892,0.1027138359495978,Decision-making + liability + digital skills (governance of automated decisions),Y,Y,Substantive: liability and decision-making governance intersects education
+PC26,0.0018657829996393,0.1045796189492372,Health + recognition/assessment + GenAI + defense mix,Y,N,Cross-domain cluster; interpret only if you later subset by country/doc type
+PC27,0.001797734615292,0.1063773535645292,Spanish-language digital transformation + decision-making/liability,Y,Y,Non-English but substantively coherent governance theme
+PC28,0.0017523707359391,0.1081297243004683,Health/cybersecurity + liability/damages (accountability governance),Y,Y,Accountability and harm/liability framing; education appears indirectly
+PC29,0.0017278363691009,0.1098575606695693,Liability/damages + schooling/teachers standards,Y,Y,Education embedded in liability/standards discourse
+PC30,0.0017050505818556,0.1115626112514249,Cybersecurity + jobs/workforce + GenAI + ministry packaging,Y,Y,Workforce and labor-market framing where education is embedded
+PC31,0.001683843949921,0.113246455201346,Generative AI tools + policy innovation + protection framing,Y,Y,GenAI governance with privacy/protection and online learning references
+PC32,0.0016180028747294,0.1148644580760755,National pilot + risk + funding (NAIRR/NSF) + processing,Y,Y,Capacity-building governance via pilots and national infrastructure
+PC33,0.0015931746049292,0.1164576326810047,Skills/training + ethics/privacy + armed forces/workforce,Y,Y,Workforce + ethics governance; education appears as skills pipeline
+PC34,0.0015738520615845,0.1180314847425892,Serbia liability/damages + scientific development programmes,Y,Y,Accountability + development-programme governance
+PC35,0.0015256842703106,0.1195571690128999,Country risk/impact assessments + digital tech + bias,Y,Y,Risk framing with bias/assessment language; education embedded
+PC36,0.00150337465191,0.1210605436648099,Token-split compliance/product requirements + aviation cyber,Y,N,Severe token splitting suggests OCR artefact; not cleanly interpretable
+PC37,0.0014665452861857,0.1225270889509957,GenAI + privacy + facial recognition + programme governance,Y,Y,Surveillance/privacy governance intersects education via programme contexts
+PC38,0.0014449193331909,0.1239720082841867,Geopolitics + liability/damages + processing governance,Y,Y,Cross-national governance framing; education not central but embedded
+PC39,0.001415307101129,0.1253873153853157,Cybersecurity programmes/pilots/projects + institutionalization,Y,Y,Education embedded through training/programmes and institutional capacity
+PC40,0.0013932613625905,0.1267805767479063,Task force/strategy/action plan + national AI infrastructure + aviation,Y,Y,Coordination mechanisms and strategy governance; education appears as subtheme
