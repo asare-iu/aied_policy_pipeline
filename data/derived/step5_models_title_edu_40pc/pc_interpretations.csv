@@ -1,0 +1,41 @@
+pc,explained_variance_ratio,cumulative,label_expanded,admissible,interpretable,note
+PC1,0.0270705865336235,0.0270705865336235,Language dominance + education transformation discourse vs numeric artefacts,Y,N,Separates Bulgarian-language education text from numeric/token noise; structural not substantive
+PC2,0.0113616068537986,0.0384321933874221,Global AI and digital skills policy frame (skills pipeline),Y,Y,Canonical OECD/EU human-capital framing of AI in education; language-confounded but meaningful
+PC3,0.0148178613437347,0.0532500547311568,Quality assurance and safety governance applied to education systems,Y,Y,"Education treated as a regulated system using assurance, reliability, and guideline logics"
+PC4,0.0102560469473048,0.0635061016784616,"Generative AI governance in education (ethics, literacy, privacy, leadership)",Y,Y,Post-2022 reactive governance focused on GenAI risks and institutional responses
+PC5,0.0100418516122458,0.0735479532907074,Biometrics and face-recognition evaluation artefact,Y,N,Topic contamination from biometric testing reports
+PC6,0.0080318063344879,0.0815797596251954,Classroom digitalization and AI literacy vs legal-policy boilerplate,Y,Y,Separates pedagogical implementation language from institutional legal scaffolding
+PC7,0.0069278895117236,0.0885076491369191,EU and regional policy boilerplate vs national accreditation discourse,Y,N,Primarily genre and language separation
+PC8,0.0066893242944952,0.0951969734314143,Regional and local development policy embedding education,Y,Y,Education framed within territorial and social policy contexts
+PC9,0.0062680706965028,0.1014650441279172,Higher education law and R&D governance vs evaluation annex artefacts,Y,Y,Legislative and institutional governance of higher education systems
+PC10,0.006137462235934,0.1076025063638512,Education–science–innovation ministry ecosystem,Y,Y,State-centric framing of education within national innovation systems
+PC11,0.0053231653049482,0.1129256716687995,National innovation and skills governance vs school-level implementation,Y,Y,Contrasts innovation-ministry logic with education-ministry operations
+PC12,0.0049771548074124,0.117902826476212,Copyright and webpage boilerplate artefact,Y,N,Web scrape footer text with no policy substance
+PC13,0.0045587294580158,0.1224615559342278,Numeric templates and measurement bins artefact,Y,N,Formatting and template noise
+PC14,0.0045200732714139,0.1269816292056418,National accreditation and evaluation discourse (language-bound),Y,Y,Substantive accreditation and QA framing within Bulgarian context
+PC15,0.0042705559418609,0.1312521851475028,STEM and cyber-physical systems vision linked to education strategy,Y,Y,Education framed as pipeline to strategic industrial sectors
+PC16,0.0041618955840109,0.1354140807315138,Data quality and measurement frameworks vs institutional QA,Y,Y,Distinguishes technical data assurance from policy QA
+PC17,0.0038365146410055,0.1392505953725193,National strategy and budget packaging of AI and education,Y,Y,"Administrative bundling of AI, education, youth, and budget"
+PC18,0.0033832611410403,0.1426338565135596,Academic and project-based smart education discourse,Y,Y,"Education framed through projects, programmes, and scholarly dissemination"
+PC19,0.0032774619324679,0.1459113184460276,Principles-based generative AI consultation frameworks,Y,Y,Soft-law governance of GenAI in schools
+PC20,0.0032032283785612,0.1491145468245888,Programmatic funding instruments for AI and education,Y,Y,"Education governed through calls, projects, and industrial policy tools"
+PC21,0.0030046633485092,0.1521192101730981,Automated driving and transport safety testing artefact,Y,N,Topic contamination unrelated to education policy
+PC22,0.0029291984357498,0.1550484086088479,Smart education mixed with transport testing artefact,Y,N,Contaminated component combining unrelated domains
+PC23,0.002863486897406,0.157911895506254,"Mixed scrape artefact (URLs, standards, youth sports)",Y,N,Non-coherent scrape noise
+PC24,0.0027044141308653,0.1606163096371194,Education innovation programmes and teacher-driven edtech,Y,Y,Institutionalized innovation programmes within education systems
+PC25,0.0025670660303967,0.1631833756675162,Face recognition and biometric surveillance technologies,Y,N,Off-target surveillance technology content
+PC26,0.0025371249701648,0.165720500637681,Leadership and task-force governance for generative AI,Y,Y,Organizational response mechanisms to GenAI
+PC27,0.0022970614796459,0.168017562117327,Internships and education-to-work pipeline governance,Y,Y,Education framed through employability and transition to work
+PC28,0.0022674635756469,0.170285025692974,Project-based and transnational education pilots,Y,Y,Education as economic development and project instrument
+PC29,0.0021853056472424,0.1724703313402164,Industrial maintenance and engineering artefact,Y,N,Non-education technical contamination
+PC30,0.0021695482179069,0.1746398795581234,"STEM, vocational training, and employment pipeline",Y,Y,Human-capital framing from early learning to labor market
+PC31,0.0020925060802625,0.176732385638386,Industrial diagnostics and engineering research artefact,Y,N,Non-education technical contamination
+PC32,0.0020182335513374,0.1787506191897235,STEM metrics and schooling vs digital learning resources,Y,Y,Within-language contrast of education approaches
+PC33,0.0019957851483798,0.1807464043381033,Safety and reliability engineering intersecting education governance,Y,Y,AI assurance ecosystem intersecting education via national agencies
+PC34,0.0019405284291812,0.1826869327672846,Distance and online learning operations vs higher education governance,Y,Y,Operational education practice contrasted with institutional governance
+PC35,0.0019305378749373,0.184617470642222,Administrative modernization of educational processes,Y,Y,Implementation and managerial transformation framing
+PC36,0.0018790310912116,0.1864965017334336,EU-level regulatory governance vs national implementation,Y,Y,Multi-level governance and regulatory layering
+PC37,0.0018350387850408,0.1883315405184745,Programme administration and implementation capacity,Y,Y,Operational state capacity for delivery
+PC38,0.0017885059407013,0.1901200464591758,Curriculum and instructional core vs ethical governance,Y,Y,Pedagogical design contrasted with governance frameworks
+PC39,0.0017615205762553,0.1918815670354312,Task-force and action-plan governance mechanisms,Y,Y,Institutional coordination distinct from funding instruments
+PC40,0.0017509774118757,0.1936325444473069,"Project monitoring, baselines, and evaluation governance",Y,Y,Education enacted through project management and M&E
