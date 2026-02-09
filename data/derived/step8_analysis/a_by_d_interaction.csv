@@ -1,0 +1,13 @@
+corpus,A_class,D_present,count,percent
+Full,explicit,True,80659,53.04
+Full,explicit,False,46603,30.64
+Full,implicit,True,10343,6.8
+Full,implicit,False,14418,9.48
+Edu_relevant,explicit,True,20751,50.67
+Edu_relevant,explicit,False,13041,31.84
+Edu_relevant,implicit,True,2717,6.63
+Edu_relevant,implicit,False,4429,10.81
+Edu_title,explicit,True,2326,44.13
+Edu_title,explicit,False,2218,42.08
+Edu_title,implicit,True,336,6.37
+Edu_title,implicit,False,390,7.4

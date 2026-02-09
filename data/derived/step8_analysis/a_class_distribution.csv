@@ -1,0 +1,10 @@
+corpus,a_class,count,percent
+Education-in-title,any_entity,1,0.02
+Education-in-title,explicit,4544,86.21
+Education-in-title,implicit,726,13.77
+Education-relevant,any_entity,19,0.05
+Education-relevant,explicit,33792,82.51
+Education-relevant,implicit,7146,17.45
+Full corpus,any_entity,56,0.04
+Full corpus,explicit,127262,83.68
+Full corpus,implicit,24761,16.28
