@@ -1,0 +1,74 @@
+{
+  "b_lexicon_path": "/home/isakntiasare/aied_policy_pipeline/resources/lexicons/biophysical_object.txt",
+  "b_lexicon_sha256": "c91ff3de207755a85fd3518373c36e5f8d12b3594e08c2e4ac00327b57ed429b",
+  "b_lexicon_terms_count": 36,
+  "spacy_model": "en_core_web_sm",
+  "spacy_version": "3.8.11",
+  "step8_1_sentence_segmentation": {
+    "columns": [
+      "sentence_id",
+      "doc_id",
+      "chunk_id",
+      "chunk_index",
+      "chunk_char_start",
+      "chunk_char_end",
+      "sentence_index_in_chunk",
+      "sentence_char_start_in_chunk",
+      "sentence_char_end_in_chunk",
+      "sentence_text",
+      "tags"
+    ],
+    "git_hash": "e91854d05067c3d27739a144e9bc2e6a2c0cf228",
+    "input_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step4_chunks_tagged/chunks_normalized_tagged.jsonl",
+    "input_sha256": "0e0391fda9b318207af99939ed3ab082a6c3e216a338c8751dd4c6ecdf463356",
+    "n_input_chunks": 47512,
+    "n_output_sentences": 525608,
+    "output_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_igt_full/sentences_full.parquet",
+    "python": "3.10.12",
+    "spacy_model": "en_core_web_sm",
+    "spacy_version": "3.8.11",
+    "timestamp_utc": "2026-02-07T21:12:12Z"
+  },
+  "step8_2_chunking_v2": {
+    "columns": [
+      "chunk_full_id",
+      "doc_id",
+      "chunk_full_index",
+      "text",
+      "sentence_ids",
+      "source_chunk_ids",
+      "n_sentences",
+      "n_chars",
+      "has_deontic_cue"
+    ],
+    "git_hash": "e91854d05067c3d27739a144e9bc2e6a2c0cf228",
+    "input_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_igt_full/sentences_full.parquet",
+    "input_sha256": "6fa814ff796296ca385a938a9135e5fb12822e18041f18dd0a89797a4960a03b",
+    "lexicon_sha256": {
+      "conditional": "303830bc5304f3f62db2d72f10f4b7db1b63fbaa88a291214ada494d104686ce",
+      "deontic": "467355c7aa8380981d964454705f67c1da399d1585d61170eeeee8f34067c755",
+      "enforcement": "9411b557db51ce555fc8213bba6ee1d60b5f9bc25db7270e6d9bd894206e0063"
+    },
+    "lexicons": {
+      "conditional": "/home/isakntiasare/aied_policy_pipeline/resources/lexicons/conditional.txt",
+      "deontic": "/home/isakntiasare/aied_policy_pipeline/resources/lexicons/deontic.txt",
+      "enforcement": "/home/isakntiasare/aied_policy_pipeline/resources/lexicons/enforcement.txt"
+    },
+    "n_chunks_emitted": 477769,
+    "n_docs_processed": 865,
+    "output_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_igt_full/chunks_full.parquet",
+    "params": {
+      "max_chars_per_chunk": 1800,
+      "max_sentences_per_chunk": 8
+    },
+    "timestamp_utc": "2026-02-07T22:48:33Z"
+  },
+  "step8_3_chunks_processed": 2000,
+  "step8_3_elapsed_seconds": 30.997486352920532,
+  "step8_3_input": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_igt_full/chunks_full.parquet",
+  "step8_3_output_csv": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_igt_full/igt_statements_full.csv",
+  "step8_3_output_parquet": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_igt_full/igt_statements_full.parquet",
+  "step8_3_parse_failures": 0,
+  "step8_3_ran_at": "2026-02-08T00:27:03.219270Z",
+  "step8_3_rows_written": 1174
+}
