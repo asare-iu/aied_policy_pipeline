@@ -1,0 +1,16 @@
+{
+  "input_tsv": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/input_baseline.tsv",
+  "requests_jsonl": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/run_20251231_221851/requests.jsonl",
+  "rows": 20,
+  "chunk_id_col": "chunk_id",
+  "text_col": "sentence",
+  "label_col": "igt_statement_type_guess",
+  "adibco_cols": [
+    "A_attribute",
+    "D_deontic",
+    "I_aim",
+    "B_object",
+    "C_condition",
+    "O_or_else"
+  ]
+}

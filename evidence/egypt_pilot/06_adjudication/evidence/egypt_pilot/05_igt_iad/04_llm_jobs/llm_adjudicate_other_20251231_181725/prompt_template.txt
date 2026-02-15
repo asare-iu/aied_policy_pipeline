@@ -1,0 +1,50 @@
+You are adjudicating institutional-statement typing and ADIBCO extraction for policy text.
+
+Task:
+Given a single text chunk (already education-relevant), decide:
+1) statement_type ∈ {"strategy","norm","rule","principle","other"}
+2) Extract ADIBCO components with exact supporting spans from the text:
+   A (Attribute), D (Deontic), I (Aim), B (Object), C (Condition), O (Or else / sanction)
+
+Rules:
+- Use ADIBCO definitions (Siddiki et al. 2011 style): B=Object, O=Or-else (sanction/consequence).
+- Do NOT invent words not present. Spans must be substrings of the provided text.
+- If a component is absent, set it to "" and give a short reason.
+- If you are unsure between two types, choose the best and record uncertainty.
+
+Return ONLY valid JSON with this schema:
+
+{
+  "statement_type": "strategy|norm|rule|principle|other",
+  "confidence": 0.0,
+  "rationale": "1-3 sentences max",
+  "adibco": {
+    "A": {"text": "", "span": [start_char, end_char], "note": ""},
+    "D": {"text": "", "span": [start_char, end_char], "note": ""},
+    "I": {"text": "", "span": [start_char, end_char], "note": ""},
+    "B": {"text": "", "span": [start_char, end_char], "note": ""},
+    "C": {"text": "", "span": [start_char, end_char], "note": ""},
+    "O": {"text": "", "span": [start_char, end_char], "note": ""}
+  },
+  "edu_relevance_strength": "strong|medium|weak",
+  "flags": ["..."]
+}
+
+Span conventions:
+- span is character offsets into the EXACT text string you are given.
+- If text is "", span must be [-1,-1].
+
+Now adjudicate this record:
+
+METADATA:
+- doc_id: {doc_id}
+- chunk_id: {chunk_id}
+- D_deontic_extractor: {D_deontic}
+- A_attribute_extractor: {A_attribute}
+- I_aim_extractor: {I_aim}
+- B_object_extractor: {B_object}
+- C_condition_extractor: {C_condition}
+- O_or_else_extractor: {O_or_else}
+
+TEXT (verbatim):
+{text}

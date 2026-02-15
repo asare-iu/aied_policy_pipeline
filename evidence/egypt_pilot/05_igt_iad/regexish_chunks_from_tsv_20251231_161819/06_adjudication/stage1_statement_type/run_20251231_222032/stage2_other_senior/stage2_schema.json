@@ -1,0 +1,80 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "chunk_id",
+    "final_statement_type",
+    "recoverable_from_other",
+    "other_reason_bucket",
+    "institutional_signal",
+    "institutional_diagnosis",
+    "evidence_span",
+    "missing_elements",
+    "confidence",
+    "notes_for_humans",
+    "recommended_pipeline_change"
+  ],
+  "properties": {
+    "chunk_id": { "type": "string" },
+
+    "final_statement_type": {
+      "type": "string",
+      "enum": ["rule","norm","strategy","principle","other"]
+    },
+
+    "recoverable_from_other": {
+      "type": "string",
+      "enum": ["Y","N"]
+    },
+
+    "other_reason_bucket": {
+      "type": "string",
+      "enum": [
+        "",
+        "definition_glossary",
+        "problem_framing_diagnosis",
+        "scope_applicability_exemption",
+        "actor_role_description",
+        "implementation_process_timeline",
+        "monitoring_reporting_evaluation",
+        "resource_funding_capacity",
+        "aspirational_vision_rhetoric",
+        "context_dependent_missing_deontic_or_aim",
+        "non_institutional_background"
+      ]
+    },
+
+    "institutional_signal": {
+      "type": "string",
+      "enum": ["high","medium","low"]
+    },
+
+    "institutional_diagnosis": {
+      "type": "string",
+      "enum": [
+        "candidate_norm_missing_deontic",
+        "candidate_norm_weak_deontic",
+        "candidate_strategy_actor_aim_present",
+        "candidate_principle_value_commitment",
+        "informational_only",
+        "mixed_chunk_multiple_functions",
+        "bad_chunk_artifact_navigation_noise"
+      ]
+    },
+
+    "evidence_span": { "type": "string" },
+
+    "missing_elements": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+
+    "confidence": {
+      "type": "string",
+      "enum": ["low","medium","high"]
+    },
+
+    "notes_for_humans": { "type": "string" },
+    "recommended_pipeline_change": { "type": "string" }
+  }
+}

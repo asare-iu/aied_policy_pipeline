@@ -1,0 +1,8 @@
+{
+  "run_dir": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/run_20251231_222032",
+  "requests": 20,
+  "success": 20,
+  "errors": 0,
+  "error_examples": [],
+  "model": "gpt-5.2"
+}

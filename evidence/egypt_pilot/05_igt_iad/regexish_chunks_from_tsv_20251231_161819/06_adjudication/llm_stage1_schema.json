@@ -1,0 +1,7 @@
+{
+  "chunk_id": "string",
+  "diagnosis_type": "implicit_normative_language | implicit_actor_or_condition | compound_chunk_multiple_statements | principle_level_statement | purely_descriptive_background | definition_or_scope_setting | false_positive_education",
+  "confidence": "low | medium | high",
+  "short_notes": "string"
+}
+

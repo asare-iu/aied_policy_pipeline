@@ -1,0 +1,8 @@
+{
+  "run_dir": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/run_20251231_222032/stage2_other_senior/run_20251231_223030",
+  "queue_tsv": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/run_20251231_222032/stage2_queue_other.tsv",
+  "requests_jsonl": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/run_20251231_222032/stage2_other_senior/run_20251231_223030/requests.jsonl",
+  "schema": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/run_20251231_222032/stage2_other_senior/stage2_schema.json",
+  "task": "/home/isakntiasare/aied_policy_pipeline/evidence/egypt_pilot/05_igt_iad/regexish_chunks_from_tsv_20251231_161819/06_adjudication/stage1_statement_type/run_20251231_222032/stage2_other_senior/stage2_task.md",
+  "n_requests": 5
+}

@@ -1,0 +1,20 @@
+must
+shall
+should
+may
+may not
+must not
+shall not
+required
+require
+requires
+is required to
+are required to
+prohibited
+prohibit
+prohibits
+ban
+banned
+cannot
+need to
+needs to

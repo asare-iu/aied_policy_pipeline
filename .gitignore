@@ -1,14 +1,119 @@
-# secrets
-.env
-.env.*
-*.key
-*.pem
-**/*secrets*
-
-# python junk
+# ----------------------------
+# Python / tooling noise
+# ----------------------------
 __pycache__/
 *.pyc
 .venv/
+.env
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
 
-# (optional) ignore big evidence by default
-# evidence/**
+# ----------------------------
+# Logs / runtime
+# ----------------------------
+logs/
+*.log
+
+# ----------------------------
+# Raw + derived data (rebuildable)
+# ----------------------------
+data/raw/
+data/raw_drive/
+data/text/
+data/chunks/
+data/corpus/
+data/parsed/
+
+# Keep manifests and small inventories, but ignore big step outputs by default
+data/derived/step1_texts/
+data/derived/step2_chunks_raw/
+data/derived/step3_chunks_spacy/
+data/derived/step4_5_normativity_gate/
+data/derived/step4_6_audit_sample/
+data/derived/step4_chunks_tagged/
+
+# Model binaries + large matrices + outputs
+data/derived/step5_models_full*/
+data/derived/step5_models_edu*/
+data/derived/step5_models_title_edu*/
+data/derived/step5_pca_full/
+data/derived/step5_6_pca_followthrough/
+data/derived/step5_5_pca_interpretation/
+
+# Education / title subsets + IGT + umbrella + analyses (all rebuildable)
+data/derived/step6_chunks_edu/
+data/derived/step6b_docs_title_edu/
+data/derived/step6b_title_edu/
+data/derived/step7_chunks_title_edu/
+data/derived/step8_*/
+
+# ----------------------------
+# Common big formats
+# ----------------------------
+*.parquet
+*.npz
+*.joblib
+*.jsonl
+*.tsv
+*.csv
+
+# ----------------------------
+# EXCEPTIONS: files we DO want tracked
+# (negation rules must come after the ignore)
+# ----------------------------
+
+# Keep small manifests and inventories
+!data/manifests/
+!data/manifests/**
+
+!data/derived/step0_document_inventory.csv
+!data/derived/step0_document_inventory_deduped.csv
+
+# Keep config + lexicons + methods/docs
+!config/
+!config/**
+!resources/
+!resources/**
+!methods/
+!methods/**
+!docs/
+!docs/**
+!scripts/
+!scripts/**
+!src/
+!src/**
+!figures/
+!figures/**
+
+# Keep specific “small metadata” anywhere (even if under ignored dirs)
+!**/*_runtime_params.json
+!**/models_metadata.json
+!**/explained_variance.csv
+!**/top_terms.csv
+!**/top_terms_long.csv
+!**/pc_interpretations_deep.csv
+!**/row_alignment.csv
+!**/pca_full_metadata.json
+!**/pca_pc_labels_template.csv
+!**/pca_pc_labels_filled.csv
+!**/pca_pc_exemplars.jsonl
+
+# --- big/binary artifacts: never commit ---
+*.joblib
+*.npz
+*.parquet
+*.jsonl
+*.tar.gz
+
+# ignore python cache
+__pycache__/
+scripts/__pycache__/
+
+# ignore derived model dirs (rebuildable)
+data/derived/step5_models_full*/
+data/derived/step5_models_title_edu*/
+data/derived/step5_models_edu*/
+data/derived/step8_*/
+data/derived/step7_*/
+data/derived/step6_*/

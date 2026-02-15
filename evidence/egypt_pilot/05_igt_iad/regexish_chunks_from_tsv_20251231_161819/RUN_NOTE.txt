@@ -1,0 +1,7 @@
+Egypt pilot – strict edu chunks – chunk-level ADIBCO baseline (regex-only)
+Input: 03_edu_chunks_for_adico.tsv (20 chunks)
+ADIBCO output: egypt_edu_adibco_autopass.tsv
+Statement types: egypt_edu_statement_type_from_adibco.tsv
+Summary: other=10, norm=7, strategy=3, rule=0
+Operationalization: A+I+B=40.0%, C=75.0%, O=0.0%
+Review queue: REVIEW_QUEUE_other.tsv (10 rows)
