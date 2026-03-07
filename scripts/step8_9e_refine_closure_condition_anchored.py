@@ -19,7 +19,7 @@ import math
 import re
 import time
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Optional, Tuple
 
 import numpy as np
 import pandas as pd
@@ -29,25 +29,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
+# --- Text normalization helpers
 WS_RE = re.compile(r"\s+")
 PUNCT_RE = re.compile(r"[()\[\]{}<>.,;:!?\u201c\u201d\u2018\u2019\"'`~@#$%^&*_+=|\\/]+")
 
-# Scope/applicability cues (used for "global scope" closure method)
-GLOBAL_SCOPE_RE = re.compile(
-    r"\b(scope|applicab(?:le|ility)|apply|applies|shall\s+apply|application|"
-    r"in\s+all\s+sectors|across\s+the\s+board|including|in\s+general|generally)\b",
-    re.IGNORECASE,
-)
+WORD_RE = re.compile(r"[a-zA-Z][a-zA-Z\-]{1,}")  # anchor tokenization
 
-# Heuristic TOC / heading noise cues
-TOC_RE = re.compile(r"\b(contents|table\s+of\s+contents)\b", re.IGNORECASE)
-DOT_LEADER_RE = re.compile(r"\.{8,}")  # dotted leader lines
-ARTICLE_LIST_RE = re.compile(r"^(article|section|chapter|annex)\s+\w+", re.IGNORECASE)
-
-WORD_RE = re.compile(r"[a-zA-Z][a-zA-Z\-]{1,}")  # tokenization
-
-
-# Conservative stopword list: kills anchors like "of the / in the / to the / should be"
+# Conservative stopword list (enough to kill "of the / in the / should be" anchors)
 STOPWORDS = {
     "a","an","and","are","as","at","be","been","being","but","by",
     "can","could","did","do","does","doing","done",
@@ -60,6 +48,18 @@ STOPWORDS = {
     "under","until","up","upon","us",
     "was","we","were","what","when","where","which","who","whom","why","will","with","within","without","would","you","your",
 }
+
+# Scope/applicability cues (used for "global scope" closure method)
+GLOBAL_SCOPE_RE = re.compile(
+    r"\b(scope|applicab(?:le|ility)|apply|applies|shall\s+apply|application|"
+    r"in\s+all\s+sectors|across\s+the\s+board|including|in\s+general|generally)\b",
+    re.IGNORECASE,
+)
+
+# Heuristic TOC / heading noise cues
+TOC_RE = re.compile(r"\b(contents|table\s+of\s+contents)\b", re.IGNORECASE)
+DOT_LEADER_RE = re.compile(r"\.{8,}")  # dotted leader lines
+ARTICLE_LIST_RE = re.compile(r"^(article|section|chapter|annex)\s+\w+", re.IGNORECASE)
 
 
 def norm(s: str) -> str:
@@ -114,18 +114,18 @@ def ngrams(tok: List[str], n: int) -> List[str]:
 def build_ngram_df(texts: List[str], n_vals=(2, 3)) -> Dict[str, int]:
     """
     Document frequency of *content-bearing* n-grams across statements.
-    Excludes stopword-only/low-information n-grams by construction.
+    Excludes stopword-only/low-information n-grams.
     """
     df: Dict[str, int] = {}
     for t in texts:
         tn = norm(t)
         tok = content_tokens(tn)
-        if len(tok) < 2:
+        if not tok:
             continue
         seen = set()
         for n in n_vals:
             for g in ngrams(tok, n):
-                # conservative: require >=2 content tokens in the n-gram
+                # require at least 2 content tokens (conservative)
                 if len(g.split()) < 2:
                     continue
                 if g not in seen:
@@ -157,8 +157,8 @@ def select_anchors_conservative(
     """
     Conservative anchor selection:
     - Anchors must appear in E and in R.
-    - In R, anchors must be frequent enough but not ubiquitous.
-    - Prefer anchors with higher specificity via IDF-like weighting.
+    - In R, anchors must be frequent enough (min_df_r) but not universal (max_cov_r).
+    - Prefer anchors with higher "specificity" via IDF-like weighting over R.
     """
     if not e_texts or not r_texts:
         return []
@@ -179,7 +179,16 @@ def select_anchors_conservative(
         if cov < min_cov_r or cov > max_cov_r:
             continue
 
+        # IDF-like weight (higher when term is less ubiquitous)
         idf = math.log((n_r + 1.0) / (rdf + 1.0)) + 1.0
+
+        # Require the anchor to contain at least one "substantive" token
+        # (already content-only, but keep a guard)
+        parts = term.split()
+        if len(parts) < 2:
+            continue
+
+        # Score: reward presence in E, specificity in R, and moderate prevalence in R
         score = float(e_df.get(term, 1)) * idf * (1.0 - cov)
         candidates.append((score, term))
 
@@ -188,9 +197,6 @@ def select_anchors_conservative(
 
 
 def contains_any_anchor(text: str, anchors: List[str]) -> bool:
-    """
-    Match anchors against content-token normalized text to avoid accidental stopword matches.
-    """
     tn = norm(text)
     ct = " ".join(content_tokens(tn))
     return any(a in ct for a in anchors)
@@ -235,10 +241,15 @@ def main() -> None:
     if missing:
         raise ValueError(f"Missing required columns: {missing}")
 
+    # Noise filter
     df["is_noise"] = df["sentence_text"].fillna("").astype(str).apply(is_noise_sentence)
+
+    # R pool = rule/norm candidates
     df["is_R"] = df["statement_type_candidate"].isin(["rule_candidate", "norm_candidate"])
+    # E pool = any education signal
     df["is_E"] = df["edu_any_hit"].fillna(False).astype(bool)
 
+    # Filter out noise for closure construction
     df2 = df[~df["is_noise"]].copy()
 
     doc_ids = df2["doc_id"].dropna().unique().tolist()
@@ -247,6 +258,8 @@ def main() -> None:
     closure_parts: List[pd.DataFrame] = []
     doc_rows: List[Dict[str, object]] = []
 
+    rng = np.random.default_rng(args.seed)
+
     for i, doc_id in enumerate(doc_ids, start=1):
         g = df2[df2["doc_id"] == doc_id].copy()
         if len(g) == 0:
@@ -254,9 +267,11 @@ def main() -> None:
 
         E = g[g["is_E"]].copy()
         R = g[g["is_R"]].copy()
+
         if len(E) == 0 or len(R) == 0:
             continue
 
+        # Build texts for anchor selection using regime_text (condition-first)
         E_texts = E.apply(regime_text, axis=1).tolist()
         R_texts = R.apply(regime_text, axis=1).tolist()
 
@@ -265,18 +280,25 @@ def main() -> None:
         method = ""
         chosen = pd.DataFrame()
 
+        # Method 1: anchor overlap (match anchors against regime_text)
         if anchors:
             mask = R.apply(lambda r: contains_any_anchor(regime_text(r), anchors), axis=1)
             chosen = R[mask].copy()
             if len(chosen) > 0:
                 method = "anchor_overlap"
 
+        # Method 2: global scope clause (detect in E using sentence_text + c_texts)
         if method == "":
-            E_scope_texts = (E["sentence_text"].fillna("").astype(str) + " " + E["c_texts"].fillna("").astype(str)).tolist()
+            E_scope_texts = (
+                E["sentence_text"].fillna("").astype(str)
+                + " "
+                + E["c_texts"].fillna("").astype(str)
+            ).tolist()
             if any(GLOBAL_SCOPE_RE.search(norm(t)) for t in E_scope_texts[: min(len(E_scope_texts), 60)]):
                 chosen = R.copy()
                 method = "global_scope_clause"
 
+        # Method 3: semantic similarity fallback (TF-IDF over regime_text; safe centroid)
         if method == "":
             all_texts = [norm(t) for t in (E_texts + R_texts)]
             vec = TfidfVectorizer(ngram_range=(1, 2), min_df=1, max_features=12000)
@@ -338,6 +360,7 @@ def main() -> None:
     if len(doc_summary):
         print(doc_summary["closure_method"].value_counts().to_string())
 
+    # Audit sample by method
     if len(closure) == 0:
         pd.DataFrame().to_csv(out_audit, index=False)
         print(f"[step8_9e] wrote {out_audit} rows=0")
@@ -357,6 +380,7 @@ def main() -> None:
     audit_parts: List[pd.DataFrame] = []
     for m, sub in closure.groupby("closure_method"):
         take = min(args.audit_n_per_method, len(sub))
+        # deterministic sample for reproducibility
         samp = sub.sample(n=take, random_state=args.seed)
         audit_parts.append(samp[cols].copy())
 
