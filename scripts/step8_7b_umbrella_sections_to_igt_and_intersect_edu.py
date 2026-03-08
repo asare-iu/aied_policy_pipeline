@@ -26,23 +26,23 @@ def write_sections_as_jsonl(umbrella_sections_parquet: Path, out_jsonl: Path, ed
     import json
     import pandas as pd
 
-    # hard stop under spaCy default max_length (1,000,000)
-    # give margin for JSON escaping etc.
-    MAX_CHARS = 950_000
+    MAX_CHARS = 950_000  # always below spaCy default 1,000,000
 
     df = pd.read_parquet(umbrella_sections_parquet)
 
-    # expected columns in umbrella_sections.parquet:
-    # doc_id, section_id (or similar), section_text
-    # adapt gracefully if names differ
     if "section_text" in df.columns:
         text_col = "section_text"
     elif "text" in df.columns:
         text_col = "text"
     else:
-        raise ValueError(f"umbrella sections file missing text column; cols={df.columns.tolist()}")
+        raise ValueError(f"Missing section text col. cols={df.columns.tolist()}")
 
-    sec_id_col = "section_id" if "section_id" in df.columns else ("block_id" if "block_id" in df.columns else None)
+    if "section_id" in df.columns:
+        sec_id_col = "section_id"
+    elif "block_id" in df.columns:
+        sec_id_col = "block_id"
+    else:
+        sec_id_col = None
 
     out_jsonl.parent.mkdir(parents=True, exist_ok=True)
 
@@ -53,74 +53,32 @@ def write_sections_as_jsonl(umbrella_sections_parquet: Path, out_jsonl: Path, ed
             if doc_id not in edu_docs:
                 continue
 
-            section_text = r[text_col]
-            if section_text is None:
+            raw = r.get(text_col, None)
+            if raw is None:
                 continue
-            section_text = str(section_text)
+            text = str(raw)
 
             base_section_id = str(r[sec_id_col]) if sec_id_col else "section"
 
-            # deterministic split on paragraph boundaries first
-            paras = [p for p in section_text.split("\n\n") if p.strip()]
-            cur = []
-            cur_len = 0
-            part_idx = 0
-
-            def flush():
-                nonlocal n, part_idx, cur, cur_len
-                if not cur:
-                    return
-                joined = "\n\n".join(cur).strip()
-                chunk_id = f"{doc_id}__umbrella_{base_section_id}__part{part_idx:03d}"
+            part = 0
+            start = 0
+            L = len(text)
+            while start < L:
+                piece = text[start : start + MAX_CHARS]
+                chunk_id = f"{doc_id}__umbrella_{base_section_id}__part{part:03d}"
                 obj = {
                     "doc_id": doc_id,
                     "chunk_id": chunk_id,
-                    "text": joined,
+                    "text": piece,
                     "source": "umbrella_section",
                     "umbrella_section_id": base_section_id,
-                    "umbrella_part_index": part_idx,
-                    "n_chars": len(joined),
+                    "umbrella_part_index": part,
+                    "n_chars": len(piece),
                 }
                 f.write(json.dumps(obj, ensure_ascii=False) + "\n")
                 n += 1
-                part_idx += 1
-                cur = []
-                cur_len = 0
-
-            for p in paras:
-                p_len = len(p)
-                # if a single paragraph is enormous, hard-split it
-                if p_len > MAX_CHARS:
-                    flush()
-                    start = 0
-                    while start < p_len:
-                        piece = p[start : start + MAX_CHARS]
-                        chunk_id = f"{doc_id}__umbrella_{base_section_id}__part{part_idx:03d}"
-                        obj = {
-                            "doc_id": doc_id,
-                            "chunk_id": chunk_id,
-                            "text": piece,
-                            "source": "umbrella_section",
-                            "umbrella_section_id": base_section_id,
-                            "umbrella_part_index": part_idx,
-                            "n_chars": len(piece),
-                        }
-                        f.write(json.dumps(obj, ensure_ascii=False) + "\n")
-                        n += 1
-                        part_idx += 1
-                        start += MAX_CHARS
-                    continue
-
-                # normal packing
-                if cur_len + p_len + 2 <= MAX_CHARS:
-                    cur.append(p)
-                    cur_len += p_len + 2
-                else:
-                    flush()
-                    cur.append(p)
-                    cur_len = p_len
-
-            flush()
+                part += 1
+                start += MAX_CHARS
 
     return n
 

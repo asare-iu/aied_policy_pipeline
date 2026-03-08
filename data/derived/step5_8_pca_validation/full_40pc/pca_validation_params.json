@@ -1,0 +1,12 @@
+{
+  "model_dir": "data/derived/step5_models_full_40pc",
+  "x_path": "data/derived/step5_models_full_40pc/X_full_tfidf.npz",
+  "svd_path": "data/derived/step5_models_full_40pc/svd.joblib",
+  "vectorizer_path": "data/derived/step5_models_full_40pc/vectorizer.joblib",
+  "pcs": 40,
+  "subsample": 0.8,
+  "seeds": 10,
+  "topn": 50,
+  "n_rows": 47512,
+  "n_features": 50000
+}

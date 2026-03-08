@@ -18,16 +18,16 @@
       "sentence_text",
       "tags"
     ],
-    "git_hash": "e91854d05067c3d27739a144e9bc2e6a2c0cf228",
-    "input_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step4_chunks_tagged/chunks_normalized_tagged.jsonl",
-    "input_sha256": "0e0391fda9b318207af99939ed3ab082a6c3e216a338c8751dd4c6ecdf463356",
-    "n_input_chunks": 47512,
-    "n_output_sentences": 525608,
-    "output_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_igt_full/sentences_full.parquet",
+    "git_hash": "0942d63ad969a6e122d99f26f5aaed7bb974bd16",
+    "input_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_umbrella_igt/umbrella_sections_as_chunks.jsonl",
+    "input_sha256": "f3516a32ecdf33a2447a171e9c979ad6256f4eed80e9b3224cb0ff083e8db960",
+    "n_input_chunks": 905,
+    "n_output_sentences": 207430,
+    "output_path": "/home/isakntiasare/aied_policy_pipeline/data/derived/step8_umbrella_igt/sentences_full.parquet",
     "python": "3.10.12",
     "spacy_model": "en_core_web_sm",
     "spacy_version": "3.8.11",
-    "timestamp_utc": "2026-02-07T21:12:12Z"
+    "timestamp_utc": "2026-02-15T00:19:18Z"
   },
   "step8_2_chunking_v2": {
     "columns": [
