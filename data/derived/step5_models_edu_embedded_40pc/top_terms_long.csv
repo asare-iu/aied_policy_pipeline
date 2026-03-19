@@ -1,0 +1,2401 @@
+pc,side,rank,term
+PC1,pos,1,ai
+PC1,pos,2,data
+PC1,pos,3,digital
+PC1,pos,4,research
+PC1,pos,5,education
+PC1,pos,6,intelligence
+PC1,pos,7,artificial
+PC1,pos,8,development
+PC1,pos,9,artificial intelligence
+PC1,pos,10,use
+PC1,pos,11,national
+PC1,pos,12,public
+PC1,pos,13,technology
+PC1,pos,14,systems
+PC1,pos,15,government
+PC1,pos,16,defense
+PC1,pos,17,skills
+PC1,pos,18,training
+PC1,pos,19,information
+PC1,pos,20,sec
+PC1,pos,21,learning
+PC1,pos,22,innovation
+PC1,pos,23,science
+PC1,pos,24,new
+PC1,pos,25,assessment
+PC1,pos,26,shall
+PC1,pos,27,technologies
+PC1,pos,28,support
+PC1,pos,29,10
+PC1,pos,30,machine
+PC1,neg,1,있도록
+PC1,neg,2,수 있도록
+PC1,neg,3,지원
+PC1,neg,4,се
+PC1,neg,5,등
+PC1,neg,6,산업혁명
+PC1,neg,7,차 산업혁명
+PC1,neg,8,대학
+PC1,neg,9,수
+PC1,neg,10,위한
+PC1,neg,11,및
+PC1,neg,12,269 000
+PC1,neg,13,000 335
+PC1,neg,14,550 000
+PC1,neg,15,991 000
+PC1,neg,16,016 000
+PC1,neg,17,000 112
+PC1,neg,18,incremento del
+PC1,neg,19,000 81
+PC1,neg,20,000 145
+PC1,neg,21,000 319
+PC1,neg,22,376 000
+PC1,neg,23,833 000
+PC1,neg,24,000 272
+PC1,neg,25,923 000
+PC1,neg,26,000 202
+PC1,neg,27,449 000
+PC1,neg,28,774 000
+PC1,neg,29,000 152
+PC1,neg,30,581 000
+PC2,pos,1,ai
+PC2,pos,2,data
+PC2,pos,3,digital
+PC2,pos,4,artificial
+PC2,pos,5,artificial intelligence
+PC2,pos,6,intelligence
+PC2,pos,7,skills
+PC2,pos,8,education
+PC2,pos,9,learning
+PC2,pos,10,research
+PC2,pos,11,use
+PC2,pos,12,development
+PC2,pos,13,machine
+PC2,pos,14,innovation
+PC2,pos,15,human
+PC2,pos,16,ai systems
+PC2,pos,17,systems
+PC2,pos,18,technologies
+PC2,pos,19,students
+PC2,pos,20,companies
+PC2,pos,21,ministry
+PC2,pos,22,sector
+PC2,pos,23,quality
+PC2,pos,24,ethical
+PC2,pos,25,use ai
+PC2,pos,26,government
+PC2,pos,27,knowledge
+PC2,pos,28,industry
+PC2,pos,29,uk
+PC2,pos,30,impact
+PC2,neg,1,22
+PC2,neg,2,xml
+PC2,neg,3,defense
+PC2,neg,4,sec
+PC2,neg,5,secretary
+PC2,neg,6,rcp xml
+PC2,neg,7,rcp
+PC2,neg,8,10
+PC2,neg,9,10 22
+PC2,neg,10,120721
+PC2,neg,11,shall
+PC2,neg,12,2021
+PC2,neg,13,section
+PC2,neg,14,11
+PC2,neg,15,united states
+PC2,neg,16,24
+PC2,neg,17,united
+PC2,neg,18,subsection
+PC2,neg,19,states
+PC2,neg,20,military
+PC2,neg,21,department
+PC2,neg,22,jkt
+PC2,neg,23,00000
+PC2,neg,24,verdate
+PC2,neg,25,fmt
+PC2,neg,26,po 00000
+PC2,neg,27,frm
+PC2,neg,28,00000 frm
+PC2,neg,29,sfmt
+PC2,neg,30,po
+PC3,pos,1,ai
+PC3,pos,2,22
+PC3,pos,3,xml
+PC3,pos,4,rcp xml
+PC3,pos,5,rcp
+PC3,pos,6,120721
+PC3,pos,7,10 22
+PC3,pos,8,10
+PC3,pos,9,24
+PC3,pos,10,2021
+PC3,pos,11,sfmt 6201
+PC3,pos,12,6201 users
+PC3,pos,13,6201
+PC3,pos,14,al 11
+PC3,pos,15,000000
+PC3,pos,16,gen rcp
+PC3,pos,17,11 gen
+PC3,pos,18,dec 07
+PC3,pos,19,07 2021
+PC3,pos,20,appdata roaming
+PC3,pos,21,users hcross
+PC3,pos,22,hcross
+PC3,pos,23,softquad xmet
+PC3,pos,24,softquad
+PC3,pos,25,appdata
+PC3,pos,26,roaming softquad
+PC3,pos,27,xmet
+PC3,pos,28,hcross appdata
+PC3,pos,29,000000 po
+PC3,pos,30,jkt 000000
+PC3,neg,1,sec
+PC3,neg,2,defense
+PC3,neg,3,secretary
+PC3,neg,4,shall
+PC3,neg,5,provision
+PC3,neg,6,section
+PC3,neg,7,contained
+PC3,neg,8,295
+PC3,neg,9,department
+PC3,neg,10,united states
+PC3,neg,11,senate
+PC3,neg,12,united
+PC3,neg,13,house
+PC3,neg,14,states
+PC3,neg,15,program
+PC3,neg,16,secretary defense
+PC3,neg,17,amendment
+PC3,neg,18,subsection
+PC3,neg,19,report
+PC3,neg,20,department defense
+PC3,neg,21,295 133
+PC3,neg,22,133
+PC3,neg,23,armed
+PC3,neg,24,act
+PC3,neg,25,title
+PC3,neg,26,high school
+PC3,neg,27,national
+PC3,neg,28,military
+PC3,neg,29,smartlabs
+PC3,neg,30,smartlabs 2023
+PC4,pos,1,295
+PC4,pos,2,295 133
+PC4,pos,3,133
+PC4,pos,4,high school
+PC4,pos,5,smartlabs
+PC4,pos,6,smartlabs 2023
+PC4,pos,7,pnrr smartlabs
+PC4,pos,8,pnrr
+PC4,pos,9,school
+PC4,pos,10,smart
+PC4,pos,11,2023
+PC4,pos,12,smart laboratories
+PC4,pos,13,high
+PC4,pos,14,laboratories
+PC4,pos,15,133 90
+PC4,pos,16,00
+PC4,pos,17,college
+PC4,pos,18,school smart
+PC4,pos,19,technological high
+PC4,pos,20,90
+PC4,pos,21,technological
+PC4,pos,22,equipment
+PC4,pos,23,theoretical
+PC4,pos,24,national college
+PC4,pos,25,equipping
+PC4,pos,26,equipment high
+PC4,pos,27,digital
+PC4,pos,28,education
+PC4,pos,29,133 91
+PC4,pos,30,theoretical high
+PC4,neg,1,sec
+PC4,neg,2,ai
+PC4,neg,3,defense
+PC4,neg,4,data
+PC4,neg,5,secretary
+PC4,neg,6,shall
+PC4,neg,7,section
+PC4,neg,8,provision
+PC4,neg,9,contained
+PC4,neg,10,united states
+PC4,neg,11,department
+PC4,neg,12,assessment
+PC4,neg,13,united
+PC4,neg,14,senate
+PC4,neg,15,states
+PC4,neg,16,report
+PC4,neg,17,house
+PC4,neg,18,act
+PC4,neg,19,secretary defense
+PC4,neg,20,subsection
+PC4,neg,21,security
+PC4,neg,22,department defense
+PC4,neg,23,amendment
+PC4,neg,24,personal
+PC4,neg,25,personal data
+PC4,neg,26,systems
+PC4,neg,27,armed
+PC4,neg,28,protection
+PC4,neg,29,risk
+PC4,neg,30,military
+PC5,pos,1,ai
+PC5,pos,2,data
+PC5,pos,3,295
+PC5,pos,4,systems
+PC5,pos,5,ai systems
+PC5,pos,6,risk
+PC5,pos,7,sec
+PC5,pos,8,personal data
+PC5,pos,9,295 133
+PC5,pos,10,personal
+PC5,pos,11,assessment
+PC5,pos,12,133
+PC5,pos,13,protection
+PC5,pos,14,smartlabs
+PC5,pos,15,smartlabs 2023
+PC5,pos,16,pnrr smartlabs
+PC5,pos,17,pnrr
+PC5,pos,18,high school
+PC5,pos,19,defense
+PC5,pos,20,processing
+PC5,pos,21,data protection
+PC5,pos,22,privacy
+PC5,pos,23,risks
+PC5,pos,24,shall
+PC5,pos,25,decision
+PC5,pos,26,rights
+PC5,pos,27,impact
+PC5,pos,28,use
+PC5,pos,29,use ai
+PC5,pos,30,smart laboratories
+PC5,neg,1,digital
+PC5,neg,2,education
+PC5,neg,3,skills
+PC5,neg,4,digital skills
+PC5,neg,5,ministry
+PC5,neg,6,research
+PC5,neg,7,training
+PC5,neg,8,innovation
+PC5,neg,9,science
+PC5,neg,10,development
+PC5,neg,11,higher
+PC5,neg,12,transformation
+PC5,neg,13,higher education
+PC5,neg,14,ict
+PC5,neg,15,educational
+PC5,neg,16,technologies
+PC5,neg,17,000
+PC5,neg,18,economy
+PC5,neg,19,digital transformation
+PC5,neg,20,students
+PC5,neg,21,digital technologies
+PC5,neg,22,schools
+PC5,neg,23,teachers
+PC5,neg,24,support
+PC5,neg,25,programme
+PC5,neg,26,teaching
+PC5,neg,27,technology
+PC5,neg,28,ministry education
+PC5,neg,29,national
+PC5,neg,30,plan
+PC6,pos,1,ai
+PC6,pos,2,sec
+PC6,pos,3,defense
+PC6,pos,4,research
+PC6,pos,5,education
+PC6,pos,6,students
+PC6,pos,7,program
+PC6,pos,8,000
+PC6,pos,9,united
+PC6,pos,10,talent
+PC6,pos,11,united states
+PC6,pos,12,department
+PC6,pos,13,contained
+PC6,pos,14,secretary
+PC6,pos,15,intelligence
+PC6,pos,16,industry
+PC6,pos,17,science
+PC6,pos,18,programs
+PC6,pos,19,generative
+PC6,pos,20,use ai
+PC6,pos,21,military
+PC6,pos,22,generative ai
+PC6,pos,23,ai research
+PC6,pos,24,senate
+PC6,pos,25,department defense
+PC6,pos,26,innovation
+PC6,pos,27,house
+PC6,pos,28,strategy
+PC6,pos,29,skills
+PC6,pos,30,artificial intelligence
+PC6,neg,1,data
+PC6,neg,2,personal data
+PC6,neg,3,personal
+PC6,neg,4,protection
+PC6,neg,5,processing
+PC6,neg,6,data protection
+PC6,neg,7,ar
+PC6,neg,8,information
+PC6,neg,9,ticle
+PC6,neg,10,ar ticle
+PC6,neg,11,privacy
+PC6,neg,12,digital
+PC6,neg,13,shall
+PC6,neg,14,regulation
+PC6,neg,15,law
+PC6,neg,16,article
+PC6,neg,17,protection personal
+PC6,neg,18,public
+PC6,neg,19,assessment
+PC6,neg,20,processing personal
+PC6,neg,21,decision
+PC6,neg,22,rights
+PC6,neg,23,controller
+PC6,neg,24,ity
+PC6,neg,25,machine
+PC6,neg,26,quality
+PC6,neg,27,impact assessment
+PC6,neg,28,access
+PC6,neg,29,risk
+PC6,neg,30,impact
+PC7,pos,1,ar
+PC7,pos,2,ticle
+PC7,pos,3,ar ticle
+PC7,pos,4,shall
+PC7,pos,5,ai
+PC7,pos,6,digital
+PC7,pos,7,ity
+PC7,pos,8,conf
+PC7,pos,9,author
+PC7,pos,10,mity
+PC7,pos,11,conf mity
+PC7,pos,12,regulation
+PC7,pos,13,red
+PC7,pos,14,eu
+PC7,pos,15,isk
+PC7,pos,16,ser
+PC7,pos,17,commission
+PC7,pos,18,skills
+PC7,pos,19,syste
+PC7,pos,20,inf
+PC7,pos,21,par
+PC7,pos,22,ed
+PC7,pos,23,digital elements
+PC7,pos,24,ied
+PC7,pos,25,ma
+PC7,pos,26,cybersecur
+PC7,pos,27,cybersecur ity
+PC7,pos,28,mity assessment
+PC7,pos,29,paragraph
+PC7,pos,30,high isk
+PC7,neg,1,data
+PC7,neg,2,artificial
+PC7,neg,3,intelligence
+PC7,neg,4,artificial intelligence
+PC7,neg,5,sec
+PC7,neg,6,personal data
+PC7,neg,7,personal
+PC7,neg,8,https
+PC7,neg,9,protection
+PC7,neg,10,research
+PC7,neg,11,uk
+PC7,neg,12,data protection
+PC7,neg,13,privacy
+PC7,neg,14,www
+PC7,neg,15,information
+PC7,neg,16,https www
+PC7,neg,17,gov
+PC7,neg,18,university
+PC7,neg,19,science
+PC7,neg,20,machine
+PC7,neg,21,processing
+PC7,neg,22,government
+PC7,neg,23,gov uk
+PC7,neg,24,rights
+PC7,neg,25,protection personal
+PC7,neg,26,institute
+PC7,neg,27,technology
+PC7,neg,28,000
+PC7,neg,29,google
+PC7,neg,30,pdf
+PC8,pos,1,artificial
+PC8,pos,2,intelligence
+PC8,pos,3,artificial intelligence
+PC8,pos,4,research
+PC8,pos,5,000
+PC8,pos,6,https
+PC8,pos,7,science
+PC8,pos,8,university
+PC8,pos,9,ar
+PC8,pos,10,www
+PC8,pos,11,ticle
+PC8,pos,12,ar ticle
+PC8,pos,13,shall
+PC8,pos,14,https www
+PC8,pos,15,innovation
+PC8,pos,16,national
+PC8,pos,17,org
+PC8,pos,18,european
+PC8,pos,19,2019
+PC8,pos,20,ministry
+PC8,pos,21,scientific
+PC8,pos,22,council
+PC8,pos,23,institute
+PC8,pos,24,commission
+PC8,pos,25,regulation
+PC8,pos,26,eu
+PC8,pos,27,technology
+PC8,pos,28,2020
+PC8,pos,29,2018
+PC8,pos,30,2024
+PC8,neg,1,digital
+PC8,neg,2,skills
+PC8,neg,3,data
+PC8,neg,4,sec
+PC8,neg,5,digital skills
+PC8,neg,6,ai
+PC8,neg,7,education
+PC8,neg,8,learning
+PC8,neg,9,training
+PC8,neg,10,quality
+PC8,neg,11,use
+PC8,neg,12,educational
+PC8,neg,13,students
+PC8,neg,14,teachers
+PC8,neg,15,schools
+PC8,neg,16,risk
+PC8,neg,17,personal
+PC8,neg,18,risks
+PC8,neg,19,digital technologies
+PC8,neg,20,school
+PC8,neg,21,transformation
+PC8,neg,22,teaching
+PC8,neg,23,personal data
+PC8,neg,24,tools
+PC8,neg,25,provision
+PC8,neg,26,literacy
+PC8,neg,27,machine learning
+PC8,neg,28,digital transformation
+PC8,neg,29,people
+PC8,neg,30,process
+PC9,pos,1,000
+PC9,pos,2,research
+PC9,pos,3,000 000
+PC9,pos,4,university
+PC9,pos,5,data
+PC9,pos,6,uk
+PC9,pos,7,ai
+PC9,pos,8,science
+PC9,pos,9,project
+PC9,pos,10,total
+PC9,pos,11,innovation
+PC9,pos,12,section
+PC9,pos,13,year
+PC9,pos,14,500
+PC9,pos,15,number
+PC9,pos,16,researchers
+PC9,pos,17,program
+PC9,pos,18,projects
+PC9,pos,19,funding
+PC9,pos,20,scientific
+PC9,pos,21,allocation
+PC9,pos,22,support
+PC9,pos,23,increase
+PC9,pos,24,million
+PC9,pos,25,quality
+PC9,pos,26,100
+PC9,pos,27,program increase
+PC9,pos,28,nsf
+PC9,pos,29,10 000
+PC9,pos,30,subsection
+PC9,neg,1,artificial
+PC9,neg,2,intelligence
+PC9,neg,3,artificial intelligence
+PC9,neg,4,digital
+PC9,neg,5,sec
+PC9,neg,6,digital skills
+PC9,neg,7,skills
+PC9,neg,8,technologies
+PC9,neg,9,ministry
+PC9,neg,10,field artificial
+PC9,neg,11,education
+PC9,neg,12,contained
+PC9,neg,13,defense
+PC9,neg,14,provision
+PC9,neg,15,national
+PC9,neg,16,https
+PC9,neg,17,use artificial
+PC9,neg,18,intelligence technologies
+PC9,neg,19,field
+PC9,neg,20,intelligence systems
+PC9,neg,21,educational
+PC9,neg,22,strategy
+PC9,neg,23,2024
+PC9,neg,24,regulation
+PC9,neg,25,digital transformation
+PC9,neg,26,ar
+PC9,neg,27,department defense
+PC9,neg,28,russian
+PC9,neg,29,european
+PC9,neg,30,department
+PC10,pos,1,sec
+PC10,pos,2,000
+PC10,pos,3,digital
+PC10,pos,4,https
+PC10,pos,5,subtitle
+PC10,pos,6,data
+PC10,pos,7,ar
+PC10,pos,8,ticle
+PC10,pos,9,ar ticle
+PC10,pos,10,artificial
+PC10,pos,11,artificial intelligence
+PC10,pos,12,intelligence
+PC10,pos,13,www
+PC10,pos,14,skills
+PC10,pos,15,program sec
+PC10,pos,16,https www
+PC10,pos,17,contained
+PC10,pos,18,uk
+PC10,pos,19,certain
+PC10,pos,20,digital skills
+PC10,pos,21,provision
+PC10,pos,22,org
+PC10,pos,23,ity
+PC10,pos,24,regulation
+PC10,pos,25,military
+PC10,pos,26,eu
+PC10,pos,27,personal data
+PC10,pos,28,personal
+PC10,pos,29,commission
+PC10,pos,30,department defense
+PC10,neg,1,section
+PC10,neg,2,shall
+PC10,neg,3,subsection
+PC10,neg,4,secretary
+PC10,neg,5,paragraph
+PC10,neg,6,committee
+PC10,neg,7,research
+PC10,neg,8,inserting
+PC10,neg,9,act
+PC10,neg,10,later
+PC10,neg,11,date
+PC10,neg,12,quality
+PC10,neg,13,required
+PC10,neg,14,appropriate
+PC10,neg,15,following
+PC10,neg,16,striking
+PC10,neg,17,secretary defense
+PC10,neg,18,including
+PC10,neg,19,amended
+PC10,neg,20,described
+PC10,neg,21,machine learning
+PC10,neg,22,committees
+PC10,neg,23,united states
+PC10,neg,24,code
+PC10,neg,25,submit
+PC10,neg,26,states code
+PC10,neg,27,united
+PC10,neg,28,shall submit
+PC10,neg,29,days
+PC10,neg,30,ii
+PC11,pos,1,000
+PC11,pos,2,artificial
+PC11,pos,3,intelligence
+PC11,pos,4,artificial intelligence
+PC11,pos,5,learning
+PC11,pos,6,quality
+PC11,pos,7,machine learning
+PC11,pos,8,machine
+PC11,pos,9,systems
+PC11,pos,10,external quality
+PC11,pos,11,external
+PC11,pos,12,field
+PC11,pos,13,learning elements
+PC11,pos,14,sec
+PC11,pos,15,use
+PC11,pos,16,translated google
+PC11,pos,17,machine translated
+PC11,pos,18,translated
+PC11,pos,19,educational
+PC11,pos,20,development
+PC11,pos,21,safety
+PC11,pos,22,elements
+PC11,pos,23,quality use
+PC11,pos,24,education
+PC11,pos,25,google
+PC11,pos,26,based
+PC11,pos,27,requirements
+PC11,pos,28,internal quality
+PC11,pos,29,plant
+PC11,pos,30,implementation
+PC11,neg,1,uk
+PC11,neg,2,https
+PC11,neg,3,www
+PC11,neg,4,https www
+PC11,neg,5,gov
+PC11,neg,6,government
+PC11,neg,7,gov uk
+PC11,neg,8,research
+PC11,neg,9,org
+PC11,neg,10,innovation
+PC11,neg,11,data
+PC11,neg,12,pdf
+PC11,neg,13,uk government
+PC11,neg,14,www gov
+PC11,neg,15,australian
+PC11,neg,16,australia
+PC11,neg,17,2017
+PC11,neg,18,ai
+PC11,neg,19,science
+PC11,neg,20,2019
+PC11,neg,21,2018
+PC11,neg,22,public
+PC11,neg,23,com
+PC11,neg,24,sharing
+PC11,neg,25,publications
+PC11,neg,26,government publications
+PC11,neg,27,sector
+PC11,neg,28,cdei
+PC11,neg,29,2020
+PC11,neg,30,report
+PC12,pos,1,sec
+PC12,pos,2,research
+PC12,pos,3,quality
+PC12,pos,4,innovation
+PC12,pos,5,science
+PC12,pos,6,scientific
+PC12,pos,7,machine learning
+PC12,pos,8,machine
+PC12,pos,9,research innovation
+PC12,pos,10,development
+PC12,pos,11,projects
+PC12,pos,12,ministry
+PC12,pos,13,republic
+PC12,pos,14,serbia
+PC12,pos,15,external
+PC12,pos,16,researchers
+PC12,pos,17,external quality
+PC12,pos,18,project
+PC12,pos,19,subtitle
+PC12,pos,20,learning
+PC12,pos,21,funding
+PC12,pos,22,activities
+PC12,pos,23,republic serbia
+PC12,pos,24,health
+PC12,pos,25,industry
+PC12,pos,26,support
+PC12,pos,27,program
+PC12,pos,28,universities
+PC12,pos,29,science technology
+PC12,pos,30,scientific research
+PC12,neg,1,digital
+PC12,neg,2,000
+PC12,neg,3,artificial
+PC12,neg,4,intelligence
+PC12,neg,5,artificial intelligence
+PC12,neg,6,skills
+PC12,neg,7,digital skills
+PC12,neg,8,https
+PC12,neg,9,secretary
+PC12,neg,10,defense
+PC12,neg,11,ai
+PC12,neg,12,www
+PC12,neg,13,https www
+PC12,neg,14,senate
+PC12,neg,15,secretary defense
+PC12,neg,16,contained
+PC12,neg,17,house
+PC12,neg,18,subsection
+PC12,neg,19,org
+PC12,neg,20,provision
+PC12,neg,21,rights
+PC12,neg,22,personal data
+PC12,neg,23,generative
+PC12,neg,24,personal
+PC12,neg,25,pdf
+PC12,neg,26,digital transformation
+PC12,neg,27,section
+PC12,neg,28,transformation
+PC12,neg,29,protection
+PC12,neg,30,amendment
+PC13,pos,1,https
+PC13,pos,2,quality
+PC13,pos,3,learning
+PC13,pos,4,machine learning
+PC13,pos,5,www
+PC13,pos,6,https www
+PC13,pos,7,machine
+PC13,pos,8,external quality
+PC13,pos,9,uk
+PC13,pos,10,gov
+PC13,pos,11,external
+PC13,pos,12,org
+PC13,pos,13,safety
+PC13,pos,14,pdf
+PC13,pos,15,learning elements
+PC13,pos,16,gov uk
+PC13,pos,17,systems
+PC13,pos,18,quality use
+PC13,pos,19,use
+PC13,pos,20,decision
+PC13,pos,21,elements
+PC13,pos,22,risk
+PC13,pos,23,review
+PC13,pos,24,2019
+PC13,pos,25,plant
+PC13,pos,26,internal quality
+PC13,pos,27,2018
+PC13,pos,28,requirements
+PC13,pos,29,australian
+PC13,pos,30,com
+PC13,neg,1,data
+PC13,neg,2,personal data
+PC13,neg,3,personal
+PC13,neg,4,research
+PC13,neg,5,protection
+PC13,neg,6,ai
+PC13,neg,7,processing
+PC13,neg,8,ministry
+PC13,neg,9,data protection
+PC13,neg,10,protection personal
+PC13,neg,11,innovation
+PC13,neg,12,national
+PC13,neg,13,processing personal
+PC13,neg,14,education
+PC13,neg,15,development
+PC13,neg,16,public
+PC13,neg,17,institutions
+PC13,neg,18,controller
+PC13,neg,19,defense
+PC13,neg,20,sector
+PC13,neg,21,strategy
+PC13,neg,22,research innovation
+PC13,neg,23,private
+PC13,neg,24,higher education
+PC13,neg,25,secretary
+PC13,neg,26,universities
+PC13,neg,27,artificial
+PC13,neg,28,intelligence
+PC13,neg,29,shall
+PC13,neg,30,companies
+PC14,pos,1,contained
+PC14,pos,2,provision
+PC14,pos,3,amendment
+PC14,pos,4,senate
+PC14,pos,5,house
+PC14,pos,6,provision sec
+PC14,pos,7,data
+PC14,pos,8,defense
+PC14,pos,9,amendment contained
+PC14,pos,10,senate amendment
+PC14,pos,11,house contained
+PC14,pos,12,contained similar
+PC14,pos,13,recedes
+PC14,pos,14,similar provision
+PC14,pos,15,contained provision
+PC14,pos,16,quality
+PC14,pos,17,learning
+PC14,pos,18,machine learning
+PC14,pos,19,similar
+PC14,pos,20,6601
+PC14,pos,21,research
+PC14,pos,22,conferees
+PC14,pos,23,machine
+PC14,pos,24,senate recedes
+PC14,pos,25,house recedes
+PC14,pos,26,secretary defense
+PC14,pos,27,provision house
+PC14,pos,28,secretary
+PC14,pos,29,require
+PC14,pos,30,provision senate
+PC14,neg,1,sec
+PC14,neg,2,section
+PC14,neg,3,coast guard
+PC14,neg,4,coast
+PC14,neg,5,subsection
+PC14,neg,6,inserting
+PC14,neg,7,guard
+PC14,neg,8,digital
+PC14,neg,9,title
+PC14,neg,10,striking
+PC14,neg,11,amended
+PC14,neg,12,shall
+PC14,neg,13,authority
+PC14,neg,14,paragraph
+PC14,neg,15,rights
+PC14,neg,16,united
+PC14,neg,17,states
+PC14,neg,18,united states
+PC14,neg,19,law
+PC14,neg,20,act
+PC14,neg,21,general
+PC14,neg,22,vessel
+PC14,neg,23,code
+PC14,neg,24,federal
+PC14,neg,25,following
+PC14,neg,26,subtitle
+PC14,neg,27,committee
+PC14,neg,28,code amended
+PC14,neg,29,decision
+PC14,neg,30,human rights
+PC15,pos,1,data
+PC15,pos,2,learning
+PC15,pos,3,education
+PC15,pos,4,uk
+PC15,pos,5,students
+PC15,pos,6,shall
+PC15,pos,7,machine learning
+PC15,pos,8,quality
+PC15,pos,9,skills
+PC15,pos,10,subsection
+PC15,pos,11,https
+PC15,pos,12,science
+PC15,pos,13,training
+PC15,pos,14,inserting
+PC15,pos,15,section
+PC15,pos,16,coast guard
+PC15,pos,17,coast
+PC15,pos,18,educational
+PC15,pos,19,paragraph
+PC15,pos,20,striking
+PC15,pos,21,gov uk
+PC15,pos,22,personal data
+PC15,pos,23,gov
+PC15,pos,24,artificial
+PC15,pos,25,www
+PC15,pos,26,guard
+PC15,pos,27,intelligence
+PC15,pos,28,data science
+PC15,pos,29,personal
+PC15,pos,30,teachers
+PC15,neg,1,provision
+PC15,neg,2,contained
+PC15,neg,3,rights
+PC15,neg,4,decision
+PC15,neg,5,assessment
+PC15,neg,6,digital
+PC15,neg,7,law
+PC15,neg,8,ministry
+PC15,neg,9,article
+PC15,neg,10,amendment
+PC15,neg,11,human rights
+PC15,neg,12,applicant
+PC15,neg,13,risk
+PC15,neg,14,human
+PC15,neg,15,decision making
+PC15,neg,16,liability
+PC15,neg,17,senate
+PC15,neg,18,provision sec
+PC15,neg,19,european
+PC15,neg,20,legal
+PC15,neg,21,public
+PC15,neg,22,house
+PC15,neg,23,regulation
+PC15,neg,24,amendment contained
+PC15,neg,25,senate amendment
+PC15,neg,26,house contained
+PC15,neg,27,making
+PC15,neg,28,contained similar
+PC15,neg,29,recedes
+PC15,neg,30,eu
+PC16,pos,1,education
+PC16,pos,2,personal data
+PC16,pos,3,personal
+PC16,pos,4,students
+PC16,pos,5,educational
+PC16,pos,6,law
+PC16,pos,7,https
+PC16,pos,8,article
+PC16,pos,9,protection
+PC16,pos,10,ai
+PC16,pos,11,science
+PC16,pos,12,teachers
+PC16,pos,13,processing
+PC16,pos,14,higher
+PC16,pos,15,higher education
+PC16,pos,16,learning
+PC16,pos,17,school
+PC16,pos,18,teaching
+PC16,pos,19,data protection
+PC16,pos,20,org
+PC16,pos,21,rights
+PC16,pos,22,protection personal
+PC16,pos,23,ministry
+PC16,pos,24,contained
+PC16,pos,25,university
+PC16,pos,26,schools
+PC16,pos,27,training
+PC16,pos,28,scientific
+PC16,pos,29,2020
+PC16,pos,30,section
+PC16,neg,1,data
+PC16,neg,2,digital
+PC16,neg,3,government
+PC16,neg,4,uk
+PC16,neg,5,sector
+PC16,neg,6,public
+PC16,neg,7,intelligence
+PC16,neg,8,artificial
+PC16,neg,9,services
+PC16,neg,10,defense
+PC16,neg,11,artificial intelligence
+PC16,neg,12,sharing
+PC16,neg,13,cyber
+PC16,neg,14,public sector
+PC16,neg,15,infrastructure
+PC16,neg,16,security
+PC16,neg,17,gov uk
+PC16,neg,18,health
+PC16,neg,19,data sharing
+PC16,neg,20,000
+PC16,neg,21,strategy
+PC16,neg,22,industry
+PC16,neg,23,companies
+PC16,neg,24,businesses
+PC16,neg,25,innovation
+PC16,neg,26,economy
+PC16,neg,27,investment
+PC16,neg,28,solutions
+PC16,neg,29,use
+PC16,neg,30,cybersecurity
+PC17,pos,1,digital
+PC17,pos,2,ai
+PC17,pos,3,quality
+PC17,pos,4,machine
+PC17,pos,5,machine learning
+PC17,pos,6,personal data
+PC17,pos,7,https
+PC17,pos,8,digital skills
+PC17,pos,9,national
+PC17,pos,10,european
+PC17,pos,11,external quality
+PC17,pos,12,personal
+PC17,pos,13,external
+PC17,pos,14,eu
+PC17,pos,15,transformation
+PC17,pos,16,digital transformation
+PC17,pos,17,university
+PC17,pos,18,ministry
+PC17,pos,19,la
+PC17,pos,20,learning elements
+PC17,pos,21,protection
+PC17,pos,22,defense
+PC17,pos,23,2020
+PC17,pos,24,google
+PC17,pos,25,translated
+PC17,pos,26,translated google
+PC17,pos,27,machine translated
+PC17,pos,28,security
+PC17,pos,29,article
+PC17,pos,30,el
+PC17,neg,1,education
+PC17,neg,2,decision
+PC17,neg,3,students
+PC17,neg,4,decision making
+PC17,neg,5,making
+PC17,neg,6,artificial
+PC17,neg,7,artificial intelligence
+PC17,neg,8,people
+PC17,neg,9,intelligence
+PC17,neg,10,uk
+PC17,neg,11,educational
+PC17,neg,12,training
+PC17,neg,13,human
+PC17,neg,14,schools
+PC17,neg,15,school
+PC17,neg,16,automated
+PC17,neg,17,algorithmic
+PC17,neg,18,government
+PC17,neg,19,higher
+PC17,neg,20,decisions
+PC17,neg,21,work
+PC17,neg,22,student
+PC17,neg,23,teachers
+PC17,neg,24,bias
+PC17,neg,25,recognition
+PC17,neg,26,applicant
+PC17,neg,27,support
+PC17,neg,28,used
+PC17,neg,29,rights
+PC17,neg,30,children
+PC18,pos,1,defense
+PC18,pos,2,australian
+PC18,pos,3,technology
+PC18,pos,4,australia
+PC18,pos,5,science
+PC18,pos,6,rights
+PC18,pos,7,human
+PC18,pos,8,human rights
+PC18,pos,9,cyber
+PC18,pos,10,university
+PC18,pos,11,department
+PC18,pos,12,privacy
+PC18,pos,13,security
+PC18,pos,14,information
+PC18,pos,15,dp
+PC18,pos,16,director
+PC18,pos,17,institute
+PC18,pos,18,national
+PC18,pos,19,professor
+PC18,pos,20,research
+PC18,pos,21,submissions
+PC18,pos,22,digital
+PC18,pos,23,science technology
+PC18,pos,24,cybersecurity
+PC18,pos,25,office
+PC18,pos,26,secretary
+PC18,pos,27,systems
+PC18,pos,28,secretary defense
+PC18,pos,29,protection
+PC18,pos,30,department defense
+PC18,neg,1,section
+PC18,neg,2,uk
+PC18,neg,3,article
+PC18,neg,4,coast guard
+PC18,neg,5,coast
+PC18,neg,6,provision
+PC18,neg,7,data
+PC18,neg,8,inserting
+PC18,neg,9,contained
+PC18,neg,10,public
+PC18,neg,11,eu
+PC18,neg,12,artificial
+PC18,neg,13,title
+PC18,neg,14,artificial intelligence
+PC18,neg,15,guard
+PC18,neg,16,european
+PC18,neg,17,sector
+PC18,neg,18,code
+PC18,neg,19,aid
+PC18,neg,20,striking
+PC18,neg,21,https
+PC18,neg,22,programme
+PC18,neg,23,amended
+PC18,neg,24,liability
+PC18,neg,25,amendment
+PC18,neg,26,companies
+PC18,neg,27,states
+PC18,neg,28,states code
+PC18,neg,29,gov uk
+PC18,neg,30,senate
+PC19,pos,1,ministry
+PC19,pos,2,defense
+PC19,pos,3,https
+PC19,pos,4,education
+PC19,pos,5,www
+PC19,pos,6,https www
+PC19,pos,7,secretary
+PC19,pos,8,educational
+PC19,pos,9,ministry education
+PC19,pos,10,implementation
+PC19,pos,11,program
+PC19,pos,12,pilot
+PC19,pos,13,secretary defense
+PC19,pos,14,gov
+PC19,pos,15,department defense
+PC19,pos,16,measure
+PC19,pos,17,cyber
+PC19,pos,18,org
+PC19,pos,19,department
+PC19,pos,20,gov uk
+PC19,pos,21,pilot program
+PC19,pos,22,activities
+PC19,pos,23,information
+PC19,pos,24,public
+PC19,pos,25,shall
+PC19,pos,26,pdf
+PC19,pos,27,assessment
+PC19,pos,28,programs
+PC19,pos,29,generative
+PC19,pos,30,sports
+PC19,neg,1,australia
+PC19,neg,2,australian
+PC19,neg,3,skills
+PC19,neg,4,united
+PC19,neg,5,coast guard
+PC19,neg,6,coast
+PC19,neg,7,states
+PC19,neg,8,united states
+PC19,neg,9,university
+PC19,neg,10,guard
+PC19,neg,11,rights
+PC19,neg,12,inserting
+PC19,neg,13,dp
+PC19,neg,14,section
+PC19,neg,15,human rights
+PC19,neg,16,human
+PC19,neg,17,contained
+PC19,neg,18,title
+PC19,neg,19,striking
+PC19,neg,20,amended
+PC19,neg,21,new
+PC19,neg,22,submissions
+PC19,neg,23,industry
+PC19,neg,24,machine learning
+PC19,neg,25,provision
+PC19,neg,26,amendment
+PC19,neg,27,quality
+PC19,neg,28,digital skills
+PC19,neg,29,states code
+PC19,neg,30,technology
+PC20,pos,1,ministry
+PC20,pos,2,health
+PC20,pos,3,coast guard
+PC20,pos,4,coast
+PC20,pos,5,government
+PC20,pos,6,public
+PC20,pos,7,guard
+PC20,pos,8,ministry education
+PC20,pos,9,generative
+PC20,pos,10,education
+PC20,pos,11,generative ai
+PC20,pos,12,use
+PC20,pos,13,services
+PC20,pos,14,care
+PC20,pos,15,inserting
+PC20,pos,16,development
+PC20,pos,17,administration
+PC20,pos,18,educational
+PC20,pos,19,provision
+PC20,pos,20,data
+PC20,pos,21,senate
+PC20,pos,22,republic
+PC20,pos,23,contained
+PC20,pos,24,sports
+PC20,pos,25,striking
+PC20,pos,26,house
+PC20,pos,27,service
+PC20,pos,28,social
+PC20,pos,29,united
+PC20,pos,30,amended
+PC20,neg,1,skills
+PC20,neg,2,defense
+PC20,neg,3,applicant
+PC20,neg,4,assessment
+PC20,neg,5,idps
+PC20,neg,6,level
+PC20,neg,7,training
+PC20,neg,8,authority
+PC20,neg,9,tarf
+PC20,neg,10,recognition
+PC20,neg,11,digital skills
+PC20,neg,12,taaf
+PC20,neg,13,assessment level
+PC20,neg,14,programme
+PC20,neg,15,research
+PC20,neg,16,personal data
+PC20,neg,17,article
+PC20,neg,18,mdia
+PC20,neg,19,personal
+PC20,neg,20,official recognition
+PC20,neg,21,application
+PC20,neg,22,secretary defense
+PC20,neg,23,jobs
+PC20,neg,24,processing
+PC20,neg,25,eu
+PC20,neg,26,secretary
+PC20,neg,27,ireland
+PC20,neg,28,university
+PC20,neg,29,technical expert
+PC20,neg,30,department defense
+PC21,pos,1,applicant
+PC21,pos,2,research
+PC21,pos,3,authority
+PC21,pos,4,digital
+PC21,pos,5,idps
+PC21,pos,6,science
+PC21,pos,7,recognition
+PC21,pos,8,tarf
+PC21,pos,9,taaf
+PC21,pos,10,ministry
+PC21,pos,11,assessment level
+PC21,pos,12,section
+PC21,pos,13,level
+PC21,pos,14,assessment
+PC21,pos,15,data
+PC21,pos,16,education
+PC21,pos,17,mdia
+PC21,pos,18,official recognition
+PC21,pos,19,national
+PC21,pos,20,digital skills
+PC21,pos,21,inserting
+PC21,pos,22,research innovation
+PC21,pos,23,act
+PC21,pos,24,technology
+PC21,pos,25,technical expert
+PC21,pos,26,innovation
+PC21,pos,27,contained
+PC21,pos,28,uk
+PC21,pos,29,systems
+PC21,pos,30,provision
+PC21,neg,1,defense
+PC21,neg,2,health
+PC21,neg,3,armed
+PC21,neg,4,brussels
+PC21,neg,5,military
+PC21,neg,6,services
+PC21,neg,7,forces
+PC21,neg,8,training
+PC21,neg,9,people
+PC21,neg,10,human
+PC21,neg,11,secretary
+PC21,neg,12,armed forces
+PC21,neg,13,google
+PC21,neg,14,translated
+PC21,neg,15,translated google
+PC21,neg,16,machine translated
+PC21,neg,17,care
+PC21,neg,18,australia
+PC21,neg,19,personal data
+PC21,neg,20,social
+PC21,neg,21,companies
+PC21,neg,22,personal
+PC21,neg,23,economic
+PC21,neg,24,machine
+PC21,neg,25,number
+PC21,neg,26,human rights
+PC21,neg,27,2018
+PC21,neg,28,australian
+PC21,neg,29,rights
+PC21,neg,30,secretary defense
+PC22,pos,1,university
+PC22,pos,2,coast guard
+PC22,pos,3,coast
+PC22,pos,4,health
+PC22,pos,5,guard
+PC22,pos,6,digital
+PC22,pos,7,professor
+PC22,pos,8,information
+PC22,pos,9,la
+PC22,pos,10,project
+PC22,pos,11,applicant
+PC22,pos,12,care
+PC22,pos,13,application
+PC22,pos,14,generative
+PC22,pos,15,institute
+PC22,pos,16,director
+PC22,pos,17,services
+PC22,pos,18,el
+PC22,pos,19,nairr
+PC22,pos,20,nsf
+PC22,pos,21,language
+PC22,pos,22,generative ai
+PC22,pos,23,shall
+PC22,pos,24,center
+PC22,pos,25,students
+PC22,pos,26,recognition
+PC22,pos,27,medical
+PC22,pos,28,applications
+PC22,pos,29,school
+PC22,pos,30,access
+PC22,neg,1,education
+PC22,neg,2,european
+PC22,neg,3,defense
+PC22,neg,4,eu
+PC22,neg,5,ministry
+PC22,neg,6,quality
+PC22,neg,7,uk
+PC22,neg,8,innovation
+PC22,neg,9,higher
+PC22,neg,10,risk
+PC22,neg,11,higher education
+PC22,neg,12,decision
+PC22,neg,13,section
+PC22,neg,14,decision making
+PC22,neg,15,research innovation
+PC22,neg,16,regulation
+PC22,neg,17,inserting
+PC22,neg,18,skills
+PC22,neg,19,making
+PC22,neg,20,protection
+PC22,neg,21,data protection
+PC22,neg,22,striking
+PC22,neg,23,external quality
+PC22,neg,24,europe
+PC22,neg,25,government
+PC22,neg,26,horizon
+PC22,neg,27,impact
+PC22,neg,28,liability
+PC22,neg,29,rights
+PC22,neg,30,external
+PC23,pos,1,coast guard
+PC23,pos,2,coast
+PC23,pos,3,guard
+PC23,pos,4,assessment
+PC23,pos,5,committee
+PC23,pos,6,risk
+PC23,pos,7,report
+PC23,pos,8,https
+PC23,pos,9,security
+PC23,pos,10,eu
+PC23,pos,11,european
+PC23,pos,12,impact
+PC23,pos,13,transportation
+PC23,pos,14,serbia
+PC23,pos,15,development
+PC23,pos,16,states
+PC23,pos,17,vessel
+PC23,pos,18,republic
+PC23,pos,19,united
+PC23,pos,20,risks
+PC23,pos,21,personal data
+PC23,pos,22,systems
+PC23,pos,23,science
+PC23,pos,24,level
+PC23,pos,25,united states
+PC23,pos,26,org
+PC23,pos,27,personal
+PC23,pos,28,republic serbia
+PC23,pos,29,commandant
+PC23,pos,30,protection
+PC23,neg,1,section
+PC23,neg,2,law
+PC23,neg,3,university
+PC23,neg,4,inserting
+PC23,neg,5,public
+PC23,neg,6,article
+PC23,neg,7,striking
+PC23,neg,8,amended
+PC23,neg,9,decision
+PC23,neg,10,defense
+PC23,neg,11,government
+PC23,neg,12,title
+PC23,neg,13,australian
+PC23,neg,14,act
+PC23,neg,15,aid
+PC23,neg,16,professor
+PC23,neg,17,fiscal year
+PC23,neg,18,uk
+PC23,neg,19,decision making
+PC23,neg,20,fiscal
+PC23,neg,21,administrative
+PC23,neg,22,ai
+PC23,neg,23,sec
+PC23,neg,24,subsection
+PC23,neg,25,director
+PC23,neg,26,title 10
+PC23,neg,27,act fiscal
+PC23,neg,28,public law
+PC23,neg,29,making
+PC23,neg,30,digital
+PC24,pos,1,research
+PC24,pos,2,european
+PC24,pos,3,eu
+PC24,pos,4,systems
+PC24,pos,5,liability
+PC24,pos,6,inserting
+PC24,pos,7,digital
+PC24,pos,8,risk
+PC24,pos,9,scientific
+PC24,pos,10,data
+PC24,pos,11,la
+PC24,pos,12,health
+PC24,pos,13,striking
+PC24,pos,14,models
+PC24,pos,15,el
+PC24,pos,16,horizon
+PC24,pos,17,en
+PC24,pos,18,europe
+PC24,pos,19,section
+PC24,pos,20,amended
+PC24,pos,21,2020
+PC24,pos,22,methods
+PC24,pos,23,ai systems
+PC24,pos,24,states
+PC24,pos,25,used
+PC24,pos,26,las
+PC24,pos,27,title
+PC24,pos,28,technologies
+PC24,pos,29,tools
+PC24,pos,30,educational
+PC24,neg,1,ministry
+PC24,neg,2,government
+PC24,neg,3,uk
+PC24,neg,4,quality
+PC24,neg,5,shall
+PC24,neg,6,personal data
+PC24,neg,7,ai
+PC24,neg,8,applicant
+PC24,neg,9,authority
+PC24,neg,10,personal
+PC24,neg,11,external quality
+PC24,neg,12,public
+PC24,neg,13,training
+PC24,neg,14,skills
+PC24,neg,15,industry
+PC24,neg,16,machine learning
+PC24,neg,17,committee
+PC24,neg,18,coast guard
+PC24,neg,19,coast
+PC24,neg,20,gov uk
+PC24,neg,21,sector
+PC24,neg,22,external
+PC24,neg,23,guard
+PC24,neg,24,machine
+PC24,neg,25,australia
+PC24,neg,26,australian
+PC24,neg,27,idps
+PC24,neg,28,report
+PC24,neg,29,strategy
+PC24,neg,30,learning elements
+PC25,pos,1,research
+PC25,pos,2,decision
+PC25,pos,3,coast guard
+PC25,pos,4,coast
+PC25,pos,5,european
+PC25,pos,6,guard
+PC25,pos,7,digital
+PC25,pos,8,digital skills
+PC25,pos,9,eu
+PC25,pos,10,decision making
+PC25,pos,11,liability
+PC25,pos,12,making
+PC25,pos,13,shall
+PC25,pos,14,skills
+PC25,pos,15,armed
+PC25,pos,16,data
+PC25,pos,17,report
+PC25,pos,18,health
+PC25,pos,19,university
+PC25,pos,20,research innovation
+PC25,pos,21,secretary
+PC25,pos,22,committee
+PC25,pos,23,article
+PC25,pos,24,care
+PC25,pos,25,program
+PC25,pos,26,pilot program
+PC25,pos,27,members
+PC25,pos,28,pilot
+PC25,pos,29,council
+PC25,pos,30,uk
+PC25,neg,1,security
+PC25,neg,2,united
+PC25,neg,3,united states
+PC25,neg,4,inserting
+PC25,neg,5,technology
+PC25,neg,6,states
+PC25,neg,7,recognition
+PC25,neg,8,cyber
+PC25,neg,9,striking
+PC25,neg,10,applicant
+PC25,neg,11,amended
+PC25,neg,12,idps
+PC25,neg,13,development
+PC25,neg,14,personal data
+PC25,neg,15,personal
+PC25,neg,16,https
+PC25,neg,17,title
+PC25,neg,18,section
+PC25,neg,19,technologies
+PC25,neg,20,information
+PC25,neg,21,tarf
+PC25,neg,22,country
+PC25,neg,23,china
+PC25,neg,24,taaf
+PC25,neg,25,vietnam
+PC25,neg,26,authority
+PC25,neg,27,2017
+PC25,neg,28,global
+PC25,neg,29,infrastructure
+PC25,neg,30,org
+PC26,pos,1,ministry
+PC26,pos,2,health
+PC26,pos,3,data
+PC26,pos,4,applicant
+PC26,pos,5,australia
+PC26,pos,6,authority
+PC26,pos,7,idps
+PC26,pos,8,australian
+PC26,pos,9,recognition
+PC26,pos,10,level
+PC26,pos,11,tarf
+PC26,pos,12,european
+PC26,pos,13,taaf
+PC26,pos,14,armed
+PC26,pos,15,eu
+PC26,pos,16,assessment level
+PC26,pos,17,military
+PC26,pos,18,care
+PC26,pos,19,liability
+PC26,pos,20,defense
+PC26,pos,21,generative
+PC26,pos,22,medical
+PC26,pos,23,ministry education
+PC26,pos,24,2019
+PC26,pos,25,generative ai
+PC26,pos,26,forces
+PC26,pos,27,armed forces
+PC26,pos,28,assessment
+PC26,pos,29,official recognition
+PC26,pos,30,2020
+PC26,neg,1,research
+PC26,neg,2,federal
+PC26,neg,3,training
+PC26,neg,4,security
+PC26,neg,5,nsf
+PC26,neg,6,uk
+PC26,neg,7,nairr
+PC26,neg,8,decision
+PC26,neg,9,activities
+PC26,neg,10,national
+PC26,neg,11,gov
+PC26,neg,12,agencies
+PC26,neg,13,public
+PC26,neg,14,programs
+PC26,neg,15,plan
+PC26,neg,16,decision making
+PC26,neg,17,skills
+PC26,neg,18,aid
+PC26,neg,19,human
+PC26,neg,20,https www
+PC26,neg,21,aircraft
+PC26,neg,22,scientific
+PC26,neg,23,digital skills
+PC26,neg,24,promote
+PC26,neg,25,gov uk
+PC26,neg,26,www
+PC26,neg,27,systems
+PC26,neg,28,algorithmic
+PC26,neg,29,privacy
+PC26,neg,30,entity
+PC27,pos,1,la
+PC27,pos,2,el
+PC27,pos,3,las
+PC27,pos,4,en
+PC27,pos,5,del
+PC27,pos,6,que
+PC27,pos,7,los
+PC27,pos,8,para
+PC27,pos,9,health
+PC27,pos,10,como
+PC27,pos,11,en el
+PC27,pos,12,decision
+PC27,pos,13,transformacion
+PC27,pos,14,science
+PC27,pos,15,en la
+PC27,pos,16,transformacion digital
+PC27,pos,17,nacional
+PC27,pos,18,una
+PC27,pos,19,decision making
+PC27,pos,20,para la
+PC27,pos,21,principal
+PC27,pos,22,making
+PC27,pos,23,se
+PC27,pos,24,ministry
+PC27,pos,25,digitales
+PC27,pos,26,higher
+PC27,pos,27,liability
+PC27,pos,28,care
+PC27,pos,29,higher education
+PC27,pos,30,people
+PC27,neg,1,generative
+PC27,neg,2,generative ai
+PC27,neg,3,australian
+PC27,neg,4,australia
+PC27,neg,5,data
+PC27,neg,6,dp
+PC27,neg,7,european
+PC27,neg,8,eu
+PC27,neg,9,project
+PC27,neg,10,students
+PC27,neg,11,schools
+PC27,neg,12,submissions
+PC27,neg,13,teachers
+PC27,neg,14,aid
+PC27,neg,15,states
+PC27,neg,16,united
+PC27,neg,17,united states
+PC27,neg,18,tools
+PC27,neg,19,educational
+PC27,neg,20,teaching
+PC27,neg,21,dp submissions
+PC27,neg,22,technologies
+PC27,neg,23,privacy
+PC27,neg,24,digital technologies
+PC27,neg,25,boe
+PC27,neg,26,submission
+PC27,neg,27,security
+PC27,neg,28,cyber
+PC27,neg,29,2020
+PC27,neg,30,student
+PC28,pos,1,health
+PC28,pos,2,liability
+PC28,pos,3,university
+PC28,pos,4,science
+PC28,pos,5,damage
+PC28,pos,6,professor
+PC28,pos,7,skills
+PC28,pos,8,ministry
+PC28,pos,9,care
+PC28,pos,10,director
+PC28,pos,11,medical
+PC28,pos,12,security
+PC28,pos,13,systems
+PC28,pos,14,national
+PC28,pos,15,cyber
+PC28,pos,16,caused
+PC28,pos,17,article
+PC28,pos,18,liable
+PC28,pos,19,people
+PC28,pos,20,damage caused
+PC28,pos,21,risk
+PC28,pos,22,healthcare
+PC28,pos,23,digital skills
+PC28,pos,24,law
+PC28,pos,25,social
+PC28,pos,26,cybersecurity
+PC28,pos,27,president
+PC28,pos,28,children
+PC28,pos,29,institute
+PC28,pos,30,https
+PC28,neg,1,la
+PC28,neg,2,generative
+PC28,neg,3,generative ai
+PC28,neg,4,el
+PC28,neg,5,australian
+PC28,neg,6,australia
+PC28,neg,7,las
+PC28,neg,8,en
+PC28,neg,9,del
+PC28,neg,10,human rights
+PC28,neg,11,dp
+PC28,neg,12,que
+PC28,neg,13,rights
+PC28,neg,14,research
+PC28,neg,15,los
+PC28,neg,16,government
+PC28,neg,17,submissions
+PC28,neg,18,para
+PC28,neg,19,como
+PC28,neg,20,serbia
+PC28,neg,21,project
+PC28,neg,22,schools
+PC28,neg,23,students
+PC28,neg,24,program
+PC28,neg,25,projects
+PC28,neg,26,republic
+PC28,neg,27,dp submissions
+PC28,neg,28,en el
+PC28,neg,29,australian government
+PC28,neg,30,transformacion
+PC29,pos,1,liability
+PC29,pos,2,education
+PC29,pos,3,damage
+PC29,pos,4,la
+PC29,pos,5,eu
+PC29,pos,6,article
+PC29,pos,7,australia
+PC29,pos,8,security
+PC29,pos,9,civil
+PC29,pos,10,liable
+PC29,pos,11,australian
+PC29,pos,12,federal
+PC29,pos,13,european
+PC29,pos,14,caused
+PC29,pos,15,damage caused
+PC29,pos,16,el
+PC29,pos,17,safety
+PC29,pos,18,teachers
+PC29,pos,19,standards
+PC29,pos,20,government
+PC29,pos,21,educational
+PC29,pos,22,schools
+PC29,pos,23,fault
+PC29,pos,24,rules
+PC29,pos,25,las
+PC29,pos,26,higher education
+PC29,pos,27,higher
+PC29,pos,28,cyber
+PC29,pos,29,vicarious
+PC29,pos,30,en
+PC29,neg,1,decision
+PC29,neg,2,serbia
+PC29,neg,3,decision making
+PC29,neg,4,making
+PC29,neg,5,human
+PC29,neg,6,science
+PC29,neg,7,scientific
+PC29,neg,8,republic serbia
+PC29,neg,9,republic
+PC29,neg,10,skills
+PC29,neg,11,digital skills
+PC29,neg,12,inserting
+PC29,neg,13,digital
+PC29,neg,14,bias
+PC29,neg,15,algorithmic
+PC29,neg,16,university
+PC29,neg,17,striking
+PC29,neg,18,automated
+PC29,neg,19,algorithms
+PC29,neg,20,decisions
+PC29,neg,21,development
+PC29,neg,22,people
+PC29,neg,23,machine
+PC29,neg,24,google
+PC29,neg,25,automated decision
+PC29,neg,26,measure
+PC29,neg,27,machine translated
+PC29,neg,28,translated
+PC29,neg,29,translated google
+PC29,neg,30,scientific research
+PC30,pos,1,ministry
+PC30,pos,2,skills
+PC30,pos,3,cyber
+PC30,pos,4,generative
+PC30,pos,5,generative ai
+PC30,pos,6,decision
+PC30,pos,7,liability
+PC30,pos,8,data
+PC30,pos,9,automated
+PC30,pos,10,la
+PC30,pos,11,ministry education
+PC30,pos,12,cybersecurity
+PC30,pos,13,digital skills
+PC30,pos,14,decision making
+PC30,pos,15,article
+PC30,pos,16,industry
+PC30,pos,17,science
+PC30,pos,18,making
+PC30,pos,19,serbia
+PC30,pos,20,el
+PC30,pos,21,republic
+PC30,pos,22,damage
+PC30,pos,23,vietnam
+PC30,pos,24,jobs
+PC30,pos,25,coast guard
+PC30,pos,26,economy
+PC30,pos,27,coast
+PC30,pos,28,guard
+PC30,pos,29,training
+PC30,pos,30,workers
+PC30,neg,1,health
+PC30,neg,2,public
+PC30,neg,3,military
+PC30,neg,4,armed
+PC30,neg,5,armed forces
+PC30,neg,6,forces
+PC30,neg,7,research
+PC30,neg,8,services
+PC30,neg,9,members
+PC30,neg,10,care
+PC30,neg,11,recognition
+PC30,neg,12,education
+PC30,neg,13,quality
+PC30,neg,14,educational
+PC30,neg,15,higher education
+PC30,neg,16,medical
+PC30,neg,17,policy
+PC30,neg,18,rights
+PC30,neg,19,members armed
+PC30,neg,20,idps
+PC30,neg,21,higher
+PC30,neg,22,service
+PC30,neg,23,ethics
+PC30,neg,24,applicant
+PC30,neg,25,institutions
+PC30,neg,26,government
+PC30,neg,27,tarf
+PC30,neg,28,brussels
+PC30,neg,29,digital
+PC30,neg,30,personal data
+PC31,pos,1,generative
+PC31,pos,2,generative ai
+PC31,pos,3,uk
+PC31,pos,4,research
+PC31,pos,5,personal
+PC31,pos,6,personal data
+PC31,pos,7,government
+PC31,pos,8,liability
+PC31,pos,9,use generative
+PC31,pos,10,states
+PC31,pos,11,united
+PC31,pos,12,innovation
+PC31,pos,13,digital
+PC31,pos,14,united states
+PC31,pos,15,tools
+PC31,pos,16,research innovation
+PC31,pos,17,ai tools
+PC31,pos,18,ireland
+PC31,pos,19,policy
+PC31,pos,20,protection
+PC31,pos,21,damage
+PC31,pos,22,impact
+PC31,pos,23,students
+PC31,pos,24,programme
+PC31,pos,25,learning
+PC31,pos,26,protection personal
+PC31,pos,27,professor
+PC31,pos,28,director
+PC31,pos,29,canada
+PC31,pos,30,online
+PC31,neg,1,data
+PC31,neg,2,australia
+PC31,neg,3,training
+PC31,neg,4,australian
+PC31,neg,5,dp
+PC31,neg,6,program
+PC31,neg,7,human rights
+PC31,neg,8,human
+PC31,neg,9,submissions
+PC31,neg,10,education
+PC31,neg,11,development
+PC31,neg,12,programs
+PC31,neg,13,2020
+PC31,neg,14,rights
+PC31,neg,15,pilot
+PC31,neg,16,dp submissions
+PC31,neg,17,standards
+PC31,neg,18,2019
+PC31,neg,19,trustworthy
+PC31,neg,20,project
+PC31,neg,21,submission
+PC31,neg,22,https
+PC31,neg,23,management
+PC31,neg,24,trustworthy ai
+PC31,neg,25,activities
+PC31,neg,26,vocational
+PC31,neg,27,pilot program
+PC31,neg,28,ai
+PC31,neg,29,inserting
+PC31,neg,30,ethics
+PC32,pos,1,research
+PC32,pos,2,ministry
+PC32,pos,3,health
+PC32,pos,4,https
+PC32,pos,5,pilot
+PC32,pos,6,personal data
+PC32,pos,7,processing
+PC32,pos,8,program
+PC32,pos,9,risk
+PC32,pos,10,personal
+PC32,pos,11,shall
+PC32,pos,12,innovation
+PC32,pos,13,industry
+PC32,pos,14,org
+PC32,pos,15,nairr
+PC32,pos,16,pilot program
+PC32,pos,17,aircraft
+PC32,pos,18,australia
+PC32,pos,19,nsf
+PC32,pos,20,medical
+PC32,pos,21,air
+PC32,pos,22,funding
+PC32,pos,23,australian
+PC32,pos,24,services
+PC32,pos,25,www
+PC32,pos,26,research innovation
+PC32,pos,27,impact
+PC32,pos,28,section
+PC32,pos,29,federal
+PC32,pos,30,systems
+PC32,neg,1,university
+PC32,neg,2,professor
+PC32,neg,3,serbia
+PC32,neg,4,republic
+PC32,neg,5,united
+PC32,neg,6,states
+PC32,neg,7,data
+PC32,neg,8,cyber
+PC32,neg,9,united states
+PC32,neg,10,uk
+PC32,neg,11,science
+PC32,neg,12,scientific
+PC32,neg,13,liability
+PC32,neg,14,republic serbia
+PC32,neg,15,defense
+PC32,neg,16,school
+PC32,neg,17,ethics
+PC32,neg,18,law
+PC32,neg,19,director
+PC32,neg,20,sharing
+PC32,neg,21,ethical
+PC32,neg,22,gov uk
+PC32,neg,23,data sharing
+PC32,neg,24,public
+PC32,neg,25,european
+PC32,neg,26,trust
+PC32,neg,27,la
+PC32,neg,28,institute
+PC32,neg,29,educational
+PC32,neg,30,public sector
+PC33,pos,1,skills
+PC33,pos,2,data
+PC33,pos,3,training
+PC33,pos,4,generative
+PC33,pos,5,generative ai
+PC33,pos,6,science
+PC33,pos,7,digital skills
+PC33,pos,8,risk
+PC33,pos,9,armed
+PC33,pos,10,ministry
+PC33,pos,11,health
+PC33,pos,12,united
+PC33,pos,13,armed forces
+PC33,pos,14,united states
+PC33,pos,15,forces
+PC33,pos,16,ethics
+PC33,pos,17,states
+PC33,pos,18,workers
+PC33,pos,19,federal
+PC33,pos,20,members
+PC33,pos,21,security
+PC33,pos,22,policy
+PC33,pos,23,scientific
+PC33,pos,24,2023
+PC33,pos,25,privacy
+PC33,pos,26,financial
+PC33,pos,27,affairs
+PC33,pos,28,people
+PC33,pos,29,shall
+PC33,pos,30,vocational
+PC33,neg,1,coast guard
+PC33,neg,2,coast
+PC33,neg,3,guard
+PC33,neg,4,defense
+PC33,neg,5,personal data
+PC33,neg,6,technologies
+PC33,neg,7,decision
+PC33,neg,8,personal
+PC33,neg,9,uk
+PC33,neg,10,automated
+PC33,neg,11,decision making
+PC33,neg,12,liability
+PC33,neg,13,teachers
+PC33,neg,14,educational
+PC33,neg,15,learning
+PC33,neg,16,making
+PC33,neg,17,processing
+PC33,neg,18,digital
+PC33,neg,19,infrastructure
+PC33,neg,20,digital technologies
+PC33,neg,21,protection
+PC33,neg,22,fiscal
+PC33,neg,23,fiscal year
+PC33,neg,24,students
+PC33,neg,25,public
+PC33,neg,26,cyber
+PC33,neg,27,automated decision
+PC33,neg,28,teaching
+PC33,neg,29,protection personal
+PC33,neg,30,act fiscal
+PC34,pos,1,liability
+PC34,pos,2,serbia
+PC34,pos,3,damage
+PC34,pos,4,science
+PC34,pos,5,republic serbia
+PC34,pos,6,republic
+PC34,pos,7,liable
+PC34,pos,8,scientific
+PC34,pos,9,caused
+PC34,pos,10,development
+PC34,pos,11,program
+PC34,pos,12,damage caused
+PC34,pos,13,digital
+PC34,pos,14,shall
+PC34,pos,15,yes
+PC34,pos,16,fault
+PC34,pos,17,scientific research
+PC34,pos,18,vicarious
+PC34,pos,19,person
+PC34,pos,20,vicarious liability
+PC34,pos,21,innovation
+PC34,pos,22,technological development
+PC34,pos,23,mpntr
+PC34,pos,24,aircraft
+PC34,pos,25,implementation
+PC34,pos,26,australia
+PC34,pos,27,measure
+PC34,pos,28,uk
+PC34,pos,29,pilot
+PC34,pos,30,liable damage
+PC34,neg,1,ministry
+PC34,neg,2,university
+PC34,neg,3,decision
+PC34,neg,4,european
+PC34,neg,5,states
+PC34,neg,6,united states
+PC34,neg,7,united
+PC34,neg,8,decision making
+PC34,neg,9,eu
+PC34,neg,10,making
+PC34,neg,11,automated
+PC34,neg,12,education
+PC34,neg,13,regulation
+PC34,neg,14,security
+PC34,neg,15,finland
+PC34,neg,16,cyber
+PC34,neg,17,europe
+PC34,neg,18,automated decision
+PC34,neg,19,training
+PC34,neg,20,professor
+PC34,neg,21,military
+PC34,neg,22,universities
+PC34,neg,23,aid
+PC34,neg,24,affairs
+PC34,neg,25,learning
+PC34,neg,26,information
+PC34,neg,27,administrative
+PC34,neg,28,norway
+PC34,neg,29,horizon
+PC34,neg,30,la
+PC35,pos,1,uk
+PC35,pos,2,risk
+PC35,pos,3,programme
+PC35,pos,4,russian
+PC35,pos,5,digital
+PC35,pos,6,university
+PC35,pos,7,professor
+PC35,pos,8,educational
+PC35,pos,9,russian federation
+PC35,pos,10,aircraft
+PC35,pos,11,federation
+PC35,pos,12,air
+PC35,pos,13,risks
+PC35,pos,14,personal data
+PC35,pos,15,impact
+PC35,pos,16,project
+PC35,pos,17,industry
+PC35,pos,18,personal
+PC35,pos,19,school
+PC35,pos,20,ministry
+PC35,pos,21,digital technologies
+PC35,pos,22,students
+PC35,pos,23,business
+PC35,pos,24,measure
+PC35,pos,25,administrator
+PC35,pos,26,minister
+PC35,pos,27,gov uk
+PC35,pos,28,director
+PC35,pos,29,bias
+PC35,pos,30,assessment
+PC35,neg,1,generative
+PC35,neg,2,public
+PC35,neg,3,liability
+PC35,neg,4,generative ai
+PC35,neg,5,cyber
+PC35,neg,6,training
+PC35,neg,7,cybersecurity
+PC35,neg,8,human
+PC35,neg,9,recognition
+PC35,neg,10,skills
+PC35,neg,11,national
+PC35,neg,12,rights
+PC35,neg,13,research
+PC35,neg,14,damage
+PC35,neg,15,https
+PC35,neg,16,guard
+PC35,neg,17,program
+PC35,neg,18,nairr
+PC35,neg,19,coast guard
+PC35,neg,20,coast
+PC35,neg,21,data
+PC35,neg,22,pilot
+PC35,neg,23,human rights
+PC35,neg,24,authority
+PC35,neg,25,security
+PC35,neg,26,defense
+PC35,neg,27,private
+PC35,neg,28,sector
+PC35,neg,29,applicant
+PC35,neg,30,pilot program
+PC36,pos,1,digital elements
+PC36,pos,2,mity
+PC36,pos,3,conf mity
+PC36,pos,4,cybersecur
+PC36,pos,5,conf
+PC36,pos,6,cybersecur ity
+PC36,pos,7,aircraft
+PC36,pos,8,air
+PC36,pos,9,elements
+PC36,pos,10,generative
+PC36,pos,11,products
+PC36,pos,12,science
+PC36,pos,13,ity
+PC36,pos,14,force
+PC36,pos,15,products digital
+PC36,pos,16,generative ai
+PC36,pos,17,product
+PC36,pos,18,mity assessment
+PC36,pos,19,higher
+PC36,pos,20,higher education
+PC36,pos,21,program
+PC36,pos,22,automated
+PC36,pos,23,regulation
+PC36,pos,24,requirements
+PC36,pos,25,ity requirements
+PC36,pos,26,2024
+PC36,pos,27,product digital
+PC36,pos,28,pilot
+PC36,pos,29,essential cybersecur
+PC36,pos,30,aviation
+PC36,neg,1,ar
+PC36,neg,2,cyber
+PC36,neg,3,ticle
+PC36,neg,4,ar ticle
+PC36,neg,5,health
+PC36,neg,6,security
+PC36,neg,7,risk
+PC36,neg,8,commission
+PC36,neg,9,ministry
+PC36,neg,10,ser
+PC36,neg,11,learning
+PC36,neg,12,online
+PC36,neg,13,project
+PC36,neg,14,super
+PC36,neg,15,visor
+PC36,neg,16,super visor
+PC36,neg,17,ser vices
+PC36,neg,18,vices
+PC36,neg,19,skills
+PC36,neg,20,cybersecurity
+PC36,neg,21,paragraph
+PC36,neg,22,care
+PC36,neg,23,measures
+PC36,neg,24,red
+PC36,neg,25,plan
+PC36,neg,26,digital skills
+PC36,neg,27,coast guard
+PC36,neg,28,coast
+PC36,neg,29,platf
+PC36,neg,30,european
+PC37,pos,1,ministry
+PC37,pos,2,uk
+PC37,pos,3,generative
+PC37,pos,4,generative ai
+PC37,pos,5,programme
+PC37,pos,6,guard
+PC37,pos,7,coast guard
+PC37,pos,8,industry
+PC37,pos,9,coast
+PC37,pos,10,risk
+PC37,pos,11,inserting
+PC37,pos,12,defense
+PC37,pos,13,health
+PC37,pos,14,privacy
+PC37,pos,15,striking
+PC37,pos,16,cyber
+PC37,pos,17,facial
+PC37,pos,18,mity
+PC37,pos,19,conf mity
+PC37,pos,20,facial recognition
+PC37,pos,21,risks
+PC37,pos,22,conf
+PC37,pos,23,digital elements
+PC37,pos,24,training
+PC37,pos,25,universities
+PC37,pos,26,project
+PC37,pos,27,cybersecur
+PC37,pos,28,cybersecur ity
+PC37,pos,29,design
+PC37,pos,30,program
+PC37,neg,1,shall
+PC37,neg,2,learning
+PC37,neg,3,decision
+PC37,neg,4,act
+PC37,neg,5,sec
+PC37,neg,6,automated
+PC37,neg,7,federal
+PC37,neg,8,republic
+PC37,neg,9,european
+PC37,neg,10,data
+PC37,neg,11,2018
+PC37,neg,12,committee
+PC37,neg,13,serbia
+PC37,neg,14,decision making
+PC37,neg,15,making
+PC37,neg,16,strategy
+PC37,neg,17,education
+PC37,neg,18,bank
+PC37,neg,19,report
+PC37,neg,20,ar
+PC37,neg,21,ai
+PC37,neg,22,republic serbia
+PC37,neg,23,ticle
+PC37,neg,24,ar ticle
+PC37,neg,25,china
+PC37,neg,26,date
+PC37,neg,27,financial
+PC37,neg,28,oecd
+PC37,neg,29,commission
+PC37,neg,30,educational
+PC38,pos,1,united
+PC38,pos,2,united states
+PC38,pos,3,states
+PC38,pos,4,liability
+PC38,pos,5,russian
+PC38,pos,6,research
+PC38,pos,7,decision
+PC38,pos,8,australia
+PC38,pos,9,health
+PC38,pos,10,australian
+PC38,pos,11,damage
+PC38,pos,12,russian federation
+PC38,pos,13,forces
+PC38,pos,14,military
+PC38,pos,15,decision making
+PC38,pos,16,federation
+PC38,pos,17,development
+PC38,pos,18,making
+PC38,pos,19,security
+PC38,pos,20,armed
+PC38,pos,21,armed forces
+PC38,pos,22,liable
+PC38,pos,23,applicant
+PC38,pos,24,caused
+PC38,pos,25,strategy
+PC38,pos,26,processing
+PC38,pos,27,china
+PC38,pos,28,damage caused
+PC38,pos,29,digital
+PC38,pos,30,government
+PC38,neg,1,public
+PC38,neg,2,european
+PC38,neg,3,professor
+PC38,neg,4,policy
+PC38,neg,5,director
+PC38,neg,6,programme
+PC38,neg,7,pilot
+PC38,neg,8,university
+PC38,neg,9,nairr
+PC38,neg,10,facial
+PC38,neg,11,eu
+PC38,neg,12,commission
+PC38,neg,13,facial recognition
+PC38,neg,14,defense
+PC38,neg,15,use
+PC38,neg,16,2019
+PC38,neg,17,finland
+PC38,neg,18,online
+PC38,neg,19,program
+PC38,neg,20,law
+PC38,neg,21,board
+PC38,neg,22,doi
+PC38,neg,23,pilot program
+PC38,neg,24,society
+PC38,neg,25,section
+PC38,neg,26,aircraft
+PC38,neg,27,safety
+PC38,neg,28,2018
+PC38,neg,29,ethics
+PC38,neg,30,school
+PC39,pos,1,cyber
+PC39,pos,2,program
+PC39,pos,3,pilot
+PC39,pos,4,cybersecurity
+PC39,pos,5,security
+PC39,pos,6,serbia
+PC39,pos,7,programme
+PC39,pos,8,pilot program
+PC39,pos,9,information
+PC39,pos,10,republic
+PC39,pos,11,project
+PC39,pos,12,federal
+PC39,pos,13,russian
+PC39,pos,14,training
+PC39,pos,15,republic serbia
+PC39,pos,16,eu
+PC39,pos,17,decision
+PC39,pos,18,russian federation
+PC39,pos,19,european
+PC39,pos,20,federation
+PC39,pos,21,institute
+PC39,pos,22,health
+PC39,pos,23,programs
+PC39,pos,24,projects
+PC39,pos,25,industry
+PC39,pos,26,nsf
+PC39,pos,27,decision making
+PC39,pos,28,university
+PC39,pos,29,institutions
+PC39,pos,30,director
+PC39,neg,1,ministry
+PC39,neg,2,force
+PC39,neg,3,defense
+PC39,neg,4,article
+PC39,neg,5,technology
+PC39,neg,6,data
+PC39,neg,7,innovation
+PC39,neg,8,air
+PC39,neg,9,human
+PC39,neg,10,rights
+PC39,neg,11,research
+PC39,neg,12,aid
+PC39,neg,13,science
+PC39,neg,14,people
+PC39,neg,15,recognition
+PC39,neg,16,air force
+PC39,neg,17,facial
+PC39,neg,18,plan
+PC39,neg,19,boe
+PC39,neg,20,technologies
+PC39,neg,21,facial recognition
+PC39,neg,22,research innovation
+PC39,neg,23,human rights
+PC39,neg,24,report
+PC39,neg,25,transformation
+PC39,neg,26,aircraft
+PC39,neg,27,use
+PC39,neg,28,science technology
+PC39,neg,29,economic
+PC39,neg,30,beneficiary
+PC40,pos,1,force
+PC40,pos,2,ministry
+PC40,pos,3,nairr
+PC40,pos,4,air
+PC40,pos,5,training
+PC40,pos,6,government
+PC40,pos,7,brussels
+PC40,pos,8,task force
+PC40,pos,9,national
+PC40,pos,10,liability
+PC40,pos,11,aircraft
+PC40,pos,12,project
+PC40,pos,13,european
+PC40,pos,14,strategy
+PC40,pos,15,air force
+PC40,pos,16,task
+PC40,pos,17,learning
+PC40,pos,18,plan
+PC40,pos,19,nsf
+PC40,pos,20,support
+PC40,pos,21,resources
+PC40,pos,22,space
+PC40,pos,23,civil
+PC40,pos,24,personal data
+PC40,pos,25,projects
+PC40,pos,26,eu
+PC40,pos,27,action
+PC40,pos,28,policy
+PC40,pos,29,report
+PC40,pos,30,commission
+PC40,neg,1,higher
+PC40,neg,2,education
+PC40,neg,3,risk
+PC40,neg,4,higher education
+PC40,neg,5,vietnam
+PC40,neg,6,research
+PC40,neg,7,cyber
+PC40,neg,8,uk
+PC40,neg,9,security
+PC40,neg,10,russian
+PC40,neg,11,public
+PC40,neg,12,cybersecurity
+PC40,neg,13,russian federation
+PC40,neg,14,article
+PC40,neg,15,systems
+PC40,neg,16,services
+PC40,neg,17,transformation
+PC40,neg,18,risks
+PC40,neg,19,information
+PC40,neg,20,industrial
+PC40,neg,21,generative
+PC40,neg,22,doctoral
+PC40,neg,23,digital
+PC40,neg,24,quality
+PC40,neg,25,ai systems
+PC40,neg,26,generative ai
+PC40,neg,27,innovation
+PC40,neg,28,federation
+PC40,neg,29,economy
+PC40,neg,30,universities

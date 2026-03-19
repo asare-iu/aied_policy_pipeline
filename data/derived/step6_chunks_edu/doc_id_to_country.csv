@@ -1,0 +1,883 @@
+doc_id,country,raw_path
+50bac0adfc7b5a3e,Argentina,data/raw/corpus_raw/AI Policies/Argentina/Argentina - Productive Development Plan (TRANSLATED) (2021).pdf
+5f12aa10184be879,Argentina,data/raw/corpus_raw/AI Policies/Argentina/Argentina - Provision 2-23 City of Buenos Aires (TRANSLATED) (2023).pdf
+2e020d8fa65b7349,Argentina,data/raw/corpus_raw/AI Policies/Argentina/Argentina - Resolution 268-2022 (TRANSLATED) (2022).pdf
+92f27d51f32aec54,Argentina,data/raw/corpus_raw/AI Policies/Argentina/Translated - Guidance for Public and Private Entities on Transparency and Personal Data Protection for Responsible Artificial Intelligence2.pdf
+be03ba329f7f62f5,Argentina,data/raw/corpus_raw/AI Policies/Argentina/Argentina - National AI Plan (TRANSLATED) (2019).pdf
+3a74f7ba3631f915,Argentina,data/raw/corpus_raw/AI Policies/Argentina/Argentina - Knowledge Economy Promotion Scheme (TRANSLATED) (2019).pdf
+a613faf52cbfe7a1,Armenia,data/raw/corpus_raw/AI Policies/Armenia/Armenia - Implementation of Armenia's digital agenda strategy (2021).pdf
+c9c72830e0917b55,Armenia,data/raw/corpus_raw/AI Policies/Armenia/Armenia - Armenia Digital Agenda (2017).pdf
+c85793ebb8d337b7,Armenia,data/raw/corpus_raw/AI Policies/Armenia/Armenia - Armenia to go digital as government approves new strategy (2021).pdf
+09bf072c18cc5a02,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Guiding principles for the development of machine learning based technologies (2023).pdf
+0c8c7ac0b430bec6,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Regulation and Ethics (2023).pdf
+e31b8274e640b3a7,Israel,data/raw/corpus_raw/AI Policies/Israel/Translated - Artificial Intelligence in the Financial Sector – Interim Report of the Inter-Agency Task Force on the Use of Artificial Intelligence and Machine Learning in Israels Financial Sector.pdf
+ff07b8256043ed3c,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - The Government of Israel Transitions to Cloud (2022).pdf
+fe1afb5140bb5e30,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Public call for applications to receive support for government projects based on AI (2023).pdf
+ec49133d6cb80d07,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Uses of Copyrighted Materials for Machine Learning (2022).pdf
+d0d09df511f5a1f0,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - The National Initiative for Secured Intelligent Systems (2020).pdf
+36e2ee3035d0b9e4,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Israel is using AI to flag high-risk covid-19 patients (2020).pdf
+18d02f493a531b0f,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Setting up and operation of a NIHPC focused on research and development in AI (2021).pdf
+dec04f2b2bc7c7bd,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - AI and Data Science Committee (TRANSLATED) (2020).pdf
+d04efa0e02a93679,Israel,data/raw/corpus_raw/AI Policies/Israel/Translated - Legal Guide for Designing Regulatory Sandboxes3.pdf
+ab9930b068ba4524,Israel,"data/raw/corpus_raw/AI Policies/Israel/Israel - A program to promote innovation, encourage the growth of the high-tech sector, and strengthen technological and scientific leadership (TRANSLATED) (2021).pdf"
+1aeef3038dbf52cf,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Bill to regulate the activities of Fintech Companies in Israel (2021).pdf
+cb962412f144e305,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - Government Resolution 173 (2023).pdf
+b74006fbc16491e7,Israel,data/raw/corpus_raw/AI Policies/Israel/AI for Science Moonshot.pdf
+73ec5573aa0cad4d,Israel,data/raw/corpus_raw/AI Policies/Israel/Israel - A new interministerial team is exploring the use of AI in the financial sector (2023).pdf
+d9cb73886e100957,Uganda,data/raw/corpus_raw/AI Policies/Uganda/Uganda - Uganda prepares to harness opportunities of 4th Industrial revolution (2019).pdf
+21e2f6976954b893,Uganda,data/raw/corpus_raw/AI Policies/Uganda/Uganda - Uganda installs Huawei's AI-powered facial recognition surveillance system 'nationwide' (2019).pdf
+920ecfc19fa7ee1d,Romania,data/raw/corpus_raw/AI Policies/Romania/Romania - Romania in the era of AI (2019).pdf
+04d5dc971cb2c89b,Romania,"data/raw/corpus_raw/AI Policies/Romania/Romania - National Strategic Framework for AI, 2023-2027 (TRANSLATED) (2023).pdf"
+0fd508cf369356fe,Romania,data/raw/corpus_raw/AI Policies/Romania/Translated - Smart labs.pdf
+2ba7440ba5dfc9e4,Romania,data/raw/corpus_raw/AI Policies/Romania/Translated - National Platform of Technologies and Semiconductors.pdf
+aba1fbe784fa9913,Romania,data/raw/corpus_raw/AI Policies/Romania/Romanian National HPC Competence Center.pdf
+faa4112ce4a27f8b,Romania,data/raw/corpus_raw/AI Policies/Romania/Romania - Country factsheet (2022).pdf
+2f523ea54995c80a,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Serbia becomes a member for Global Parternships in AI (TRANSLATED) (2022).pdf
+b96cbffff37bf58c,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - On the establishment of the Research and Development Institute for AI (TRANSLATED) (2021).pdf
+d90af79e2fb36fae,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Law on the Science Fund of the Republic of Serbia (2018).pdf
+4c64e28e0cdb694a,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Strategy for the Scientific and Technological Development of Serbia from 2021-2025 (TRANSLATED) (2021).pdf
+9307453d3632e5d5,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - National Academy for Public Administration (2018).pdf
+418b89db527d6555,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Law on Innovation Activity (TRANSLATED) (2021).pdf
+594bca15d75bef20,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Serbia's AI Ecosystem (2024).pdf
+14200d5df322c1aa,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Apply to the SТЕ(А)М Challenge! (2023).pdf
+2c877e13a93dc939,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Serbia Accelerating Innnovation and Growth Entrepreneurship (2019).pdf
+2d709454dc8ae35d,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Strategy for the Development of AI in the Republic of Serbia for 2020-2025 (2021).pdf
+6e798fd923de9cf9,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - New steps in the development of the legal framework for autonomous driving (TRANSLATED) (2023).pdf
+8fab508437f89741,Serbia,data/raw/corpus_raw/AI Policies/Serbia/Serbia - Smart specialization strategy from 2020 to 2027 (TRANSLATED) (2020) .pdf
+4e5543a392f40723,Serbia,"data/raw/corpus_raw/AI Policies/Serbia/Serbia - Ethical Guidelines for the Development, Application and Use of Reliable and Responsible AI (TRANSLATED) (2023).pdf"
+1138d5b7b27c63e0,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - Owner's Manual for RISE (TRANSLATED) (2021).pdf
+26ac985b3d682d00,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - National Approach to AI (2018).pdf
+8629b3016b7170ad,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - Mission to promote the ability of small and medium-sized enterprises to use data as a strategic resource (TRANSLATED) (2019).pdf
+76168b8cbb081583,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - Mission to promote public admin's ability to use AI (TRANSLATED) (2021).pdf
+713fc3e2f50cd06b,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Translated - Guidelines for the use of generative AI in the public administration.pdf
+09ede7b8df6a6c3a,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Translated - The Swedish Digitalisation Strategy 2025–2030.pdf
+d1a2bffa811ed7e2,Sweden,data/raw/corpus_raw/AI Policies/Sweden/FFI Traffic Safe Automation.pdf
+1bd61ceb9a8d322c,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - AI in the Nordic-Baltic region (2018).pdf
+06c065ea1b510a5e,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - The Digitalization Council (TRANSLATED) (2019).pdf
+3979a3995c6c2d0d,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - Mission to collaborate on the supply of skills for digital excellence (TRANSLATED) (2019).pdf
+6f3cae68c523599e,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - KOMET (2022).pdf
+f357d94b4839c98e,Sweden,data/raw/corpus_raw/AI Policies/Sweden/Sweden - National Government Assignment to Promote the Public Administration's Ability to use AI (2022).pdf
+1fda09b5e2732a41,Thailand,"data/raw/corpus_raw/AI Policies/Thailand/Thailand - Higher Education, Science, Research and Innovation Policy Council Act (TRANSLATED) (2019).pdf"
+48da4f5276e80b80,Thailand,data/raw/corpus_raw/AI Policies/Thailand/Thailand - Cabinet approved the Draft Thailand National AI Strategy and Action Plan (2022).pdf
+61813bfc4303afee,Thailand,data/raw/corpus_raw/AI Policies/Thailand/Thailand - Twelfth National Economic and Social Development Plan 2017-2021 (2017).pdf
+b29128a79c79cda9,Thailand,data/raw/corpus_raw/AI Policies/Thailand/Thailand - AI Ethics Guidelines (TRANSLATED) (2019).pdf
+a6c2e8f6888b9ad8,Thailand,data/raw/corpus_raw/AI Policies/Thailand/Thailand - Generative AI Governance for Organizations (TRANSLATED) (2024).pdf
+8b3f08a152291963,Thailand,data/raw/corpus_raw/AI Policies/Thailand/Thailand - Conference on the Ethics of Science & Technology and Sustainable Development (2019).pdf
+4c3c43da61ebfbd4,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Is the boss watching you (TRANSLATED) (2022).pdf
+57d708520c34a8f6,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Act on Testing Self-Driving Vehicles (TRANSLATED) (2017).pdf
+892057f082701847,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - National Strategy for Artificial Intelligence (2020).pdf
+7cf5fc924b59bd37,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Act on Amendments to the Health Register Act (TRANSLATED) (2020).pdf
+e1242e99a5706be2,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Guidelines for research ethics in science and technology (2024).pdf
+80036a4592987572,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Quality Assurance Report (TRANSLATED) (2025).pdf
+6da050b0ac18fc12,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Statement on research ethics in AI (2019).pdf
+d5e8cb39bff0b470,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - AI and privacy (2018).pdf
+84af3ba4f134a7af,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - What is DIGITAL? (TRANSLATED) (2021).pdf
+3b66e0d6c7c83cf5,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Portfolio Analysis for Enabling Technology (TRANSLATED) (2022).pdf
+3053b662d5e92c6f,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Norwegian Resource Centre for Sharing and Use of Data (2020).pdf
+86c308f7bd5b2916,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Data as a resource (2020).pdf
+1eb9f011e2abfe3d,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Strategy for Norway's participation in Horizon Europe and the European Research Area (2021).pdf
+8bd5f1810a2056f2,Norway,data/raw/corpus_raw/AI Policies/Norway/Norway - Digital agenda in Norway in brief (2016).pdf
+b70283efe12163c0,Global Partnership on Artificial Intelligence,data/raw/corpus_raw/AI Policies/Global Partnership on Artificial Intelligence/GPAI - Data Governance (2023).pdf
+98f1d09e125448f6,Global Partnership on Artificial Intelligence,data/raw/corpus_raw/AI Policies/Global Partnership on Artificial Intelligence/GPAI - Innovation and commercialization (2023).pdf
+6dfe8bfee1828270,Global Partnership on Artificial Intelligence,data/raw/corpus_raw/AI Policies/Global Partnership on Artificial Intelligence/GPAI - Joint statement from founding members (2020).pdf
+fbd75316ee968dd6,Global Partnership on Artificial Intelligence,data/raw/corpus_raw/AI Policies/Global Partnership on Artificial Intelligence/GPAI - Future of Work (2023).pdf
+511a5097d8e4715b,Global Partnership on Artificial Intelligence,data/raw/corpus_raw/AI Policies/Global Partnership on Artificial Intelligence/GPAI - Responsible AI (2023).pdf
+1858745e73ca4d88,Brazil,data/raw/corpus_raw/AI Policies/Brazil/Brazil - Rights and duties for the use of AI in Brazil (TRANSLATED) (2020).pdf
+9ea9ecb80f0d7309,Brazil,data/raw/corpus_raw/AI Policies/Brazil/Brazil - Summary of the Brazilian Artificial Intelligence Strategy (2021).pdf
+e7a0ed835c9477a1,Brazil,data/raw/corpus_raw/AI Policies/Brazil/Brazil - Artificial Intelligence Centers (TRANSLATED) (2019).pdf
+51fedb16642c9f59,Lithuania,data/raw/corpus_raw/AI Policies/Lithuania/Lithuania - Lithuanian Aritifical Intelligence Strategy (2019).pdf
+0c0c1001b8439a1a,Iceland,data/raw/corpus_raw/AI Policies/Iceland/Iceland - Act on Data Protection and the Processing of Personal Data (2018.pdf
+8d2ba7a94cf95201,Iceland,data/raw/corpus_raw/AI Policies/Iceland/Iceland - Iceland and the Fourth Industrial Revolution (2019).pdf
+866debfa26fd035f,Russia,"data/raw/corpus_raw/AI Policies/Russia/Russia - Technical standardization committee ""Artificial Intelligence"" (2019).pdf"
+33049643637ebaab,Russia,data/raw/corpus_raw/AI Policies/Russia/Russia - Prospective standardization program in AI 2021-2024 (TRANSLATED) (2020).pdf
+ef015716228de9fb,Russia,data/raw/corpus_raw/AI Policies/Russia/Russia - On the development of AI in the Russian Federation (TRANSLATED) (2024).pdf
+ccd37eb62c418da0,Russia,data/raw/corpus_raw/AI Policies/Russia/Russia - Conducting an experiment on the trial operation of highly automated vehicles on public roads (TRANSLATED) (2018).pdf
+74e16f1d55c081b2,Russia,data/raw/corpus_raw/AI Policies/Russia/Russia - AI Systems in Clinical Medicine (TRANSLATED) (2021).pdf
+ac261642fbc53f46,Russia,data/raw/corpus_raw/AI Policies/Russia/Russia - National Digital Economy 2018-2024 (TRANSLATED) (2018).pdf
+0e658d492809cdeb,United Arab Emirates,data/raw/corpus_raw/AI Policies/United Arab Emirates/UAE - AI Ethics Principles & Guidelines (2018).pdf
+503114d994769b1c,United Arab Emirates,data/raw/corpus_raw/AI Policies/United Arab Emirates/UAE - UAE Position on AI Policy (2024).pdf
+b2abe503984a22e0,United Arab Emirates,data/raw/corpus_raw/AI Policies/United Arab Emirates/UAE - AI Lab Playbook (2018).pdf
+9c833713b424ce32,United Arab Emirates,data/raw/corpus_raw/AI Policies/United Arab Emirates/UAE - UAE Announces New Federal Data Law (2021).pdf
+79e05c502d1fc124,United Arab Emirates,data/raw/corpus_raw/AI Policies/United Arab Emirates/UAE - UAE National Strategy for AI (2018).pdf
+77a3c54976de490d,United Arab Emirates,data/raw/corpus_raw/AI Policies/United Arab Emirates/UAE - UAE Charter for the Development & Use of AI (2024).pdf
+02f17f5672db9af3,United Arab Emirates,data/raw/corpus_raw/AI Policies/United Arab Emirates/UAE - Federal Decree Law No. 25 of 2018 on the Projects of Future Nature (2018).pdf
+66cc68bd87ff4e59,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Implementing the AI Act in Belgium (2024).pdf
+e11e7ac3ffd92307,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Executive Summary of the Regional Strategy for Economic Transition 2022-2030 (2022).pdf
+bb6be39a9528259c,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Flanders redistrbution of budget for AI (TRANSLATED) (2019).pdf
+59bfba21c0b6533e,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Joint General Policy Statement of the Brussels-Capital Region Government and the United College of the Joint Community Commission (TRANSLATED) (2019).pdf
+0a3c72bd280460f8,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Translated - Proloog Mobilidata 2.pdf
+ad0e57018442ee87,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - R&D Projects (2021).pdf
+a8b71b293cc039a9,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Smart Education @ Schools.pdf
+8cfe61479e641edf,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Digital Wallonia Strategy (TRANSLATED) (2022).pdf
+430a3b7fd44ceb9c,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Belgium adopts a national plan for the development of artificial intelligence (2022).pdf
+c34a09d464790d6f,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Flemish Policy Plan AI (TRANSLATED) (2019).pdf
+3edaa643bb0617d2,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Plan NextTech Belgium (TRANSLATED) (2017).pdf
+2aba718dfb8da87c,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Translated - Smals.pdf
+492b24b568776978,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - ICON Manual (TRANSLATION) (2023).pdf
+99aeb60267064ce5,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Autonomous vehicles (2015).pdf
+6918bb65a9bd2041,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Royal decree establishing a Steering Committee for AI  (TRANSLATED) (2024).pdf
+a9181b3f5157c391,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Wallonia Policy Change (TRANSLATED) (2024).pdf
+21b847dcb820516b,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - Go4Brussels 2030 Strategy (TRANSLATED) (2021).pdf
+3376db4b7bdadb57,Belgium,data/raw/corpus_raw/AI Policies/Belgium/Belgium - National Convergence Plan for the Development of AI (TRANSLATED) (2022).pdf
+7be7c976d94de17b,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Personal Data Breach Incidents Procedural Guide.pdf
+6e16cc8822d5fcab,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Translated - Global AI Summit.pdf
+fb2427075540afee,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Generative Artificial Intelligence Guidelines for Government.pdf
+e69a3432d2fe25ac,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/National Biotechnology Strategy.pdf
+f25901cb1bfc1452,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Regulation on Personal Data Transfer Outside the Kingdom.pdf
+2f445129a458cf57,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/The Rules Governing the National Register of Controllers Within the Kingdom.pdf
+fa42033cde5c45d5,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Elaboration and Developing Privacy Policy Guideline.pdf
+8b297a8d8cc1634c,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Rules for Appointing Personal Data Protection Officer.pdf
+9651b3ef22aee5d9,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/AI Adoption Framework.pdf
+0702658d36f957f1,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Personal Data Disclosure Cases Guideline.pdf
+2de9606a64c45d2d,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Standard Contractual Clauses for Personal Data Transfer.pdf
+a1c73c97909b52bb,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Deepfakes Guidelines.pdf
+f832f3024543ddf3,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Saudi Arabia - Personal Data Protection Law (2023).pdf
+65c8436ae13d3377,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Minimum Personal Data Determination Guideline.pdf
+2b4147b7e3c5120d,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/National Occupational Standard Framework for Data and Artificial Intelligence (NOSF).pdf
+ab1a0fa9f4eaf8e3,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Saudi Arabia - New amendments have been introduced to the Personal Data Protection Law (2023).pdf
+b4e078117baf7bdc,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Saudi Arabia - National Strategy for Data and AI (2020).pdf
+c4a2451c19eb3e78,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Generative Artificial Intelligence Guidelines Public.pdf
+93e843b8a20a75de,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Data Sharing Policy.pdf
+521d032d6c2f62bf,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Guidelines for Binding Common Rules (BCR) for Personal Data Transfer.pdf
+3c70f930d35f5996,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Personal Data Processing Activities Records Guideline.pdf
+b2bf9a422005b7e4,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Saudi Arabia - Generate AI Guidelines for Government (2024).pdf
+20481f4f162ea7cc,Saudi Arabia,"data/raw/corpus_raw/AI Policies/Saudi Arabia/Personal Data Destruction, Anonymization, and Pseudonymisation Guideline.pdf"
+edb5c454692dc6aa,Saudi Arabia,"data/raw/corpus_raw/AI Policies/Saudi Arabia/Saudi Arabia - Saudi government signs MoU with SDAIA, launches AI centre for energy segment (2021).pdf"
+d3155b628cc399fa,Saudi Arabia,data/raw/corpus_raw/AI Policies/Saudi Arabia/Saudi Arabia - AI Ethics Principles (2023).pdf
+39a18d318dba4f07,Nigeria,data/raw/corpus_raw/AI Policies/Nigeria/Nigeria - National Infromation Technology Development Agency Act 28 (2007).pdf
+da5404dbb584c895,India,data/raw/corpus_raw/AI Policies/India/India - National Strategy for Artificial Intelligence (2018).pdf
+65f46c3b632759a6,India,data/raw/corpus_raw/AI Policies/India/India - Operationalizing Principles for Responsible AI (2021).pdf
+95fa68582bf95912,India,data/raw/corpus_raw/AI Policies/India/India - AJNIFM partners with Microsoft (2021).pdf
+cd6857d026d841eb,India,data/raw/corpus_raw/AI Policies/India/India - Indian Artificial Intelligence Stack (2020).pdf
+0a813db824b82fa5,India,data/raw/corpus_raw/AI Policies/India/India - Responsible AI for Youth (2020).pdf
+4405d2381476db3f,India,data/raw/corpus_raw/AI Policies/India/India - 75-75 India's AI Journey (2020).pdf
+381272dfa3b7a098,India,data/raw/corpus_raw/AI Policies/India/India - Principles for Responsible AI (2021).pdf
+a3ef059eb9c069a8,India,data/raw/corpus_raw/AI Policies/India/India - IndiaAI 2023 (2023).pdf
+a1bcd611533b4970,India,data/raw/corpus_raw/AI Policies/India/India - AI CoEs And Innovation Centres That Opened In India In 2021 (2021).pdf
+a7429a36ab411bcc,India,data/raw/corpus_raw/AI Policies/India/India - Report of Task Force on AI (2018).pdf
+15bd6409b56fd37a,India,"data/raw/corpus_raw/AI Policies/India/India - NITI Aayog, AWS,and Intel Collaborate to Accelerate Digital Innovation in India (2021).pdf"
+4deb23981d3010c8,India,data/raw/corpus_raw/AI Policies/India/India - Digital Personal Data Protection Act 2023 (2023).pdf
+f9ead0722605b5f8,India,data/raw/corpus_raw/AI Policies/India/India - National Language Translation Mission (2021).pdf
+4dddf0e4a4119458,India,"data/raw/corpus_raw/AI Policies/India/India - Biological Data Storage, Access and Sharing Policy of India (2019).pdf"
+f26ab18c4565cfeb,India,data/raw/corpus_raw/AI Policies/India/India - Cabinet Approves Ambitious IndiaAI Mission to Strengthen the AI Innovation Ecosystem (2024).pdf
+837d84cd2efa906e,India,data/raw/corpus_raw/AI Policies/India/India - IISc To Setup AI-ML Centre in Bangalore (2021).pdf
+9696d837edc95464,India,data/raw/corpus_raw/AI Policies/India/India - Building the first quantum computing applications lab in India (2021).pdf
+e320879b4f7a304e,India,data/raw/corpus_raw/AI Policies/India/India - Recommendations on Leveraging AI and Big Data in Telecommunication Sector (2023).pdf
+7855a7502407511b,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Developing the MVP for AI governance testing framework (2021).pdf
+fa3ce29c53c42250,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Singapore launches worlds first AI testing framework and toolkit to promote transparency (2022).pdf
+0d4fa511b728c72a,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Services and Digital Economy Technology Roadmap (2024).pdf
+d688ea560251f6a1,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Road Traffic (Autonomous Motor Vehicles) (2017).pdf
+ec3f9b9cd7ffadcd,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - 100Experiments (NO DATE).pdf
+19a229dff84915c5,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - A Guide to Job Redesign in the Age of AI (2020.pdf
+4a0e255c28d74a1b,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Companion to the Model AI Governance Framework (2020).pdf
+7564b06ab468eb9b,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - National Artificial Intelligence Strategy (2019).pdf
+a64f53ea0c013aa5,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Digital Economy Framework For Action (2018).pdf
+f2d199c826207a25,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Model Artficial Intelligence Governance Framework (2020).pdf
+e44af7c94aa568b1,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Grand Challenges (NO DATE).pdf
+d14cfa397b2db829,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Two New National AI Programmes Launched (2021).pdf
+079875db3de50d07,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Launch of AI Squared (2019).pdf
+40277836e28102b8,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Principles to promote FEAT in the use of AI and data analytics in Singapore's financial sector (2019).pdf
+9e2a0beb4641aea0,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - S'pore to invest additional $180m to accelerate AI research (2021).pdf
+1f4626b19eca6c54,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Digital Economy Agreements (NO DATE).pdf
+094b764529d73ac1,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Artificial Intelligence in Healthcare Guidelines (2021).pdf
+2692befbaa559d3f,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - National programme to deepen AI capabilities in financial services (2021).pdf
+1c25ee69f96ab379,Singapore,data/raw/corpus_raw/AI Policies/Singapore/Singapore - Composition of the Advisory Council on the Ethical Use of Artificial Intelligence and Data (2018).pdf
+0391f1576688ff49,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - AI Business boosted the growth of Finnish AI companies (2022).pdf
+6e0b88bb11f3f199,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - Leading the way into the age of artificial intelligence (2019).pdf
+c254a1cc4f8ea5fe,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - State of AI in Finland (2020).pdf
+2aa454f40919eb2d,Finland,data/raw/corpus_raw/AI Policies/Finland/Participation in the LUMI-Q project1.pdf
+105a2c3835f36e78,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - AuroraAI Program 2020-2022 (TRANSLATION) (2021).pdf
+474922b33f380e4d,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - Helsinki commits to explainable AI and human oversight (2023).pdf
+a796e2d0119e2b91,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - Evaluation memorandum for administration on the regulatory needs of general legislation related to automated decision-making (TRANSLATED) (2020).pdf
+6d5c9060387e49bf,Finland,data/raw/corpus_raw/AI Policies/Finland/Participation in the LUMI-Q project2.pdf
+50e07aa31973a836,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - National AI Program AuroraAI (TRANSLATION) (2020).pdf
+02456bffdb59d512,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - Finnish Center for Artifical Intelligence mission (2024).pdf
+c0902e5a4ca466f3,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - Finland's Age of Artificial Intelligence (2017).pdf
+54a945098b6fc584,Finland,data/raw/corpus_raw/AI Policies/Finland/Chips from the North Strategy.pdf
+d2567481389e1bcd,Finland,data/raw/corpus_raw/AI Policies/Finland/Finland - How can Finland achieve the 2030 artificial intelligence vision (2021).pdf
+a1a70613970fd51e,Chile,data/raw/corpus_raw/AI Policies/Chile/Chile - Relink (2021).pdf
+f524ca6c51654b77,Chile,data/raw/corpus_raw/AI Policies/Chile/CHILE Doc Plan de Acción Politica IA 2024-14-08 (1).pdf
+055411414972eaef,Chile,data/raw/corpus_raw/AI Policies/Chile/Chile - Making digital transformation work for all in Chile (2021).pdf
+ca3df4cc051fa678,Chile,data/raw/corpus_raw/AI Policies/Chile/CHILE Política Nacional de IA Actualizada-2-05 (1).pdf
+6f1dd1be99ae297f,Chile,data/raw/corpus_raw/AI Policies/Chile/CHILE Informe_Cierre_CPPolítica_Inteligencia_Artificial24 (1).pdf
+2af2668500d6e13f,Chile,data/raw/corpus_raw/AI Policies/Chile/Chile - Data Observatory (NO DATE).pdf
+8cbf1f7562bd2011,Chile,"data/raw/corpus_raw/AI Policies/Chile/Chile - Promoting the development of science, technology and innovation in Chile (NO DATE).pdf"
+b28431a8a908bec1,Chile,data/raw/corpus_raw/AI Policies/Chile/Chile - Science Ministry launches a participatory process to contribute to developing the National Artificial Intelligence Policy (2020).pdf
+fd0e6b6440d2cf34,Chile,data/raw/corpus_raw/AI Policies/Chile/Chile - Santiago Declaration on the promotion of ethical AI in Latin America and the Caribbean (TRANSLATED) (2023).pdf
+6d76d168a930d13e,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - DEPA Commitments (2020).pdf
+12cbf6f9e2721709,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - Principles for the safe and effective use of data and analytics (2018).pdf
+979057bf278368d3,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - Callaghan Innovation (2020.pdf
+a44a45b4253202e6,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - DEPA (2020).pdf
+4cea0cf1dc970a25,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - Algorithm Charter for Aotearoa New Zealand (2020).pdf
+2c30de961c752d05,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - Algorithm Assessment Report (2018).pdf
+d7b061cdd6a1d822,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - Catalyst Fund (NO DATE).pdf
+c7c85d4671d4c848,New Zealand,data/raw/corpus_raw/AI Policies/New Zealand/New Zealand - Algorithm Charter (2019).pdf
+9b4880a8756362da,Egypt,data/raw/corpus_raw/AI Policies/Egypt/Egypt - Egypt National AI Strategy (2022).pdf
+7d59762a7ddd63b3,Egypt,data/raw/corpus_raw/AI Policies/Egypt/Egypt - National Council for Artificial Intelligence (2019).pdf
+4ef85cfdb7982874,Egypt,data/raw/corpus_raw/AI Policies/Egypt/Egypt - The Council of Arab Ministers of Communications and Information Technology adopts the Egyptian proposal to form an Arab working group for artificial intelligence (TRANSLATION) (2019).pdf
+daee3fc4889eaddd,Egypt,data/raw/corpus_raw/AI Policies/Egypt/Egypt - Egyptian Charter for Responsible AI (2023).pdf
+58b06a744d21d191,Egypt,data/raw/corpus_raw/AI Policies/Egypt/Egypt - Prime Minister issues decision to establish National Council for Artificial Intelligence (TRANSLATED) (2019).pdf
+beef652fe3c814e0,Egypt,data/raw/corpus_raw/AI Policies/Egypt/Egypt - Sharm el Sheikh Declaration (2019).pdf
+1185170de2edeca5,Egypt,data/raw/corpus_raw/AI Policies/Egypt/Egypt - Etisalat establishes the first center for artificial intelligence applications in the Smart Village (TRANSLATED) (2019).pdf
+1f521d884125e2cf,Korea (Republic of),data/raw/corpus_raw/AI Policies/Korea (Republic of)/Republic of Korea - National Strategy for Artificial Intelligence (2019).pdf
+42ed0c802b37f56d,Korea (Republic of),data/raw/corpus_raw/AI Policies/Korea (Republic of)/Republic of Korea - MSIT The First Mid- and Long-Term National R&D Investment Strategy (2023).pdf
+5d3bde294be69f14,Korea (Republic of),data/raw/corpus_raw/AI Policies/Korea (Republic of)/Republic of Korea - Korean New Deal (2020).pdf
+b6d685cd7dbcef01,Korea (Republic of),data/raw/corpus_raw/AI Policies/Korea (Republic of)/Republic of Korea - 4th Industrial Revolution Government Recommendation (TRANSLATED) (2019).pdf
+6977471ab99d6016,Korea (Republic of),data/raw/corpus_raw/AI Policies/Korea (Republic of)/Republic of Korea - 2025 Ministry of Science and ICT Work Plan (TRANSLATED) (2025).pdf
+ca8edfca44b53fca,Korea (Republic of),data/raw/corpus_raw/AI Policies/Korea (Republic of)/Republic of Korea - Mid to Long Term Master Plan in Preparation for the Intelligent Information Society (2016).pdf
+f73f06567ccf6cb8,Greece,data/raw/corpus_raw/AI Policies/Greece/EquiFund II.pdf
+32a121a3353f8626,Greece,data/raw/corpus_raw/AI Policies/Greece/Greece - AI Centers of Excellecne (2019).pdf
+06904687d6695cc5,Greece,data/raw/corpus_raw/AI Policies/Greece/Greece - Generative AI Greece 2030 (2024).pdf
+a35e4e670a0b5c0f,Greece,data/raw/corpus_raw/AI Policies/Greece/Greece - Digital Transformation Strategy (2019).pdf
+022171a37cc70085,OECD,data/raw/corpus_raw/AI Policies/OECD/OECD - Tools for Trustworthy AI (2021).pdf
+14cfe36633502daa,OECD,data/raw/corpus_raw/AI Policies/OECD/Hiroshima Artificial Intelligence Process Code of Conduct Reporting Framework.pdf
+efc2d7d7d1c45f2c,OECD,data/raw/corpus_raw/AI Policies/OECD/G7 Toolkit for Artificial Intelligence in the Public Sector.pdf
+5ffca5c5b7a80e0a,OECD,data/raw/corpus_raw/AI Policies/OECD/Updated OECD Definition of an AI system.pdf
+9c46e00f1b3ff6de,OECD,data/raw/corpus_raw/AI Policies/OECD/Definition of AI Incidents.pdf
+f12d521b5b984c14,OECD,data/raw/corpus_raw/AI Policies/OECD/OECD - AI & Responsible Business Conduct (2019).pdf
+9330529fff3cbfc6,OECD,data/raw/corpus_raw/AI Policies/OECD/OECD AI Capabilities Indicators.pdf
+5f744925cf84a125,OECD,data/raw/corpus_raw/AI Policies/OECD/OECD - GPAI and OECD unite to advance coordinated international efforts for trustworthy AI (2024).pdf
+e8c1a12dd0f69b56,OECD,data/raw/corpus_raw/AI Policies/OECD/Common Reporting Framework of AI Incidents.pdf
+e3c5f3d32d70b403,Uzbekistan,data/raw/corpus_raw/AI Policies/Uzbekistan/Uzbekistan - Research Institute for the Development of Digital Technologies and Artificial Intelligence established in Tashkent (2021).pdf
+2ccae0482abe713a,Uzbekistan,data/raw/corpus_raw/AI Policies/Uzbekistan/The Strategy for the Development of Artificial Intelligence Technologies until 2030.pdf
+048d84e63736c61e,Uzbekistan,data/raw/corpus_raw/AI Policies/Uzbekistan/Uzbekistan - About approval of Strategy Digital Uzbekistan-2030 and measures for its effective realization (2020).pdf
+9d33d6d24f2f8a9e,Uzbekistan,data/raw/corpus_raw/AI Policies/Uzbekistan/Uzbekistan - About measures for creation of conditions for the accelerated implementation of technologies of artificial intelligence (2021).pdf
+26250ebdfd18c6e3,Mauritius,data/raw/corpus_raw/AI Policies/Mauritius/Finance Act 2024.pdf
+8aa8c28ec0ed5728,Mauritius,data/raw/corpus_raw/AI Policies/Mauritius/Mauritius - Mauritius AI Strategy (2018).pdf
+cef6814be58d8d49,China,data/raw/corpus_raw/AI Policies/China/China - Proposal of the CPC Central Committee on the formulation of the 14th Five-Year Plan for National Economic and Social Development and the Long-Term Goals for 2035 (TRANSLATED) (2020).pdf
+ba29a0267ba78002,China,data/raw/corpus_raw/AI Policies/China/China - China's AI regulations and how they get made (2023).pdf
+9f3643235b38d370,China,data/raw/corpus_raw/AI Policies/China/China - Reflecting on Chinese artificial intelligence and national responsible innovation (2019).pdf
+95ad0c903aad10e0,China,data/raw/corpus_raw/AI Policies/China/China - White paper on trustworthy artificial intelligence (2021).pdf
+83fd3c9e83042dcd,China,data/raw/corpus_raw/AI Policies/China/China - China’s New AI Governance Initiatives Shouldn’t Be Ignored (2022).pdf
+1dc7ce39d9331780,China,data/raw/corpus_raw/AI Policies/China/China - Developing responsible AI (TRANSLATED) (2019).pdf
+5a21415a731c67ff,China,data/raw/corpus_raw/AI Policies/China/China - National Engineering Laboratory for Deep Learning Technology and Applications (TRANSLATED) (2017).pdf
+4af15f82825660a3,China,data/raw/corpus_raw/AI Policies/China/China - The Ministry of Science and Technology held a launch meeting on the development plan of the new generation of artificial intelligence and major scientific and technological projects (TRANSLATED) (2017).pdf
+b3bfe8a8c7e5d5e6,China,data/raw/corpus_raw/AI Policies/China/China - Management Specifications for Road Testing and Demonstration Application of Intelligent Connected Vehicles (Trial) (TRANSLATED) (2021).pdf
+0c82085d4e310adb,China,data/raw/corpus_raw/AI Policies/China/China - AI innovation action plan for institutions of higher education (2018).pdf
+12c9c1f2a444071b,China,data/raw/corpus_raw/AI Policies/China/China - AI Governance (2023).pdf
+bf3e1c42a13d554e,China,"data/raw/corpus_raw/AI Policies/China/China - CloudWalk Technology passed the ""Trustworthy AI face recognition evaluation"" (TRANSLATION) (2021).pdf"
+06236e0a0a9b8339,China,data/raw/corpus_raw/AI Policies/China/China - Internet+ (2016).pdf
+60d759b02ae5bc1a,China,data/raw/corpus_raw/AI Policies/China/China - China's automated driving standard system planning (2021).pdf
+ef33463838103418,China,data/raw/corpus_raw/AI Policies/China/China - China to implement new regulation on algorithm recommendation services (2022).pdf
+4fba1e0cac27b470,China,data/raw/corpus_raw/AI Policies/China/China - Ethical norms for new generation artificial intelligence (2021).pdf
+dcdc8b1c2152c104,China,data/raw/corpus_raw/AI Policies/China/China - China creates national new generation artificial intelligence innovation and development pilot zones (2020).pdf
+c4ff9acdbf7b94e7,China,data/raw/corpus_raw/AI Policies/China/China - Beijing consensus on artificial intelligence and education (2019).pdf
+51c2718834833009,China,data/raw/corpus_raw/AI Policies/China/China - Notice on the issuance of the guiding opinions on strengthening overall governance of internet information service algorithms (2021).pdf
+37ffcbad19bd2c89,China,data/raw/corpus_raw/AI Policies/China/China - Next Generation Artificial Intelligence Development Plan (2017).pdf
+c2867ceeb1e5f594,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Act Amending the Act on the Innovation Fund of Denmark (TRANSLATION) (2024).pdf
+108d18a217d57b5e,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - What is CO-PI? (TRANSLATION) (NO DATE).pdf
+253d26f05d992416,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Sprogteknologi (TRANSLATION) (2020).pdf
+cb88218781045508,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Document 106 from the Minister of Business and Industry on the implementation of the Agreement on initiatives for Denmark's digital growth of 26 February 2018 (TRANSLATED) (2018).pdf
+a456e728584927da,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Executive Order on the grant function under the Innovation Fund of Denmark (2017).pdf
+fc83323ff261ce18,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - National Strategy for Artificial Intelligence (2019).pdf
+215c959a228ef99d,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Technology Pact aims to improve Danes' digital skills (TRANSLATED) (2018).pdf
+c78a7f97382ecb88,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Prepared for the future of work (2019).pdf
+5024a9441c404182,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Act Amending the Act on the Innovation Fund of Denmark (TRANSLATION) (2021).pdf
+c0d8f9ae33a0a98f,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Denmark - Digital Hub Denmark is now launched (2018).pdf
+cc675b7e48fcf0d3,Denmark,data/raw/corpus_raw/AI Policies/Denmark/Strategic Approach to Artificial Intelligence.pdf
+fc83323ff261ce18,Denmark,data/raw/corpus_raw/AI Policies/Denmark/National Strategy for Artificial Intelligence.pdf
+ff41b70bdf49dfa1,Cyprus,data/raw/corpus_raw/AI Policies/Cyprus/Cyprus - National AI Strategy (TRANSLATED) (2020).pdf
+85b7923a57934e2c,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - National Advanced Computing Network Activity Plan (TRANSLATED) (2021).pdf
+6eb47a2519332fa5,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - Call to acquire a new world-class supercomputer in Portugal (2020).pdf
+c2ca5cf0a721abcf,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Translated - National Strategy for Semiconductors.pdf
+c3287572d3eaadff,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Translated - AGRISPACE.pdf
+cffd7b3293cc6806,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - Guidelines on Remote Control in Teleworking Arrangements (TRANSLATED) (2020).pdf
+0fd5125a6bac7388,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - Calls for Proposals for Advanced Computing Projects (TRANSLATED) (2022).pdf
+56d77aac76ca5d45,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - National Digital Strategy (TRANSLATED) (2024).pdf
+8a3de5c434752c65,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - AI Portugal 2030 (2019).pdf
+743ae788a2fb1c06,Portugal,"data/raw/corpus_raw/AI Policies/Portugal/Portugal - Guide to Ethical, Transparent and Responsible AI in Public Administration (TRANSLATED) (2019).pdf"
+92de853e224ba9df,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - Council of Ministers Resolution No. 30-2020 (TRANSLATED) (2020).pdf
+b25905e13cb4aa64,Portugal,data/raw/corpus_raw/AI Policies/Portugal/Portugal - Research in data science and AI applied to public administration (2021).pdf
+b25905e13cb4aa64,Portugal,data/raw/corpus_raw/AI Policies/Portugal/R&D Funds for Data Science and AI.pdf
+f4fac5cdbf18ac5a,Luxembourg,data/raw/corpus_raw/AI Policies/Luxembourg/Luxembourg - Luxembourg Future Fund (2019).pdf
+16564dec040ded79,Luxembourg,"data/raw/corpus_raw/AI Policies/Luxembourg/Luxembourg - MeluXina, a new EuroHPC world-class supercomputer in Luxembourg (2020).pdf"
+1a7b88a07ac115e4,Luxembourg,data/raw/corpus_raw/AI Policies/Luxembourg/Luxembourg - Digital tech fund (2016).pdf
+a27aec8ac4929989,Luxembourg,data/raw/corpus_raw/AI Policies/Luxembourg/Luxembourg - Artificial Intelligence (2020).pdf
+81ddf98434c5918d,Bulgaria,data/raw/corpus_raw/AI Policies/Bulgaria/Short-term Teacher Training Programme.pdf
+ec0f0c9884cb35b0,Bulgaria,data/raw/corpus_raw/AI Policies/Bulgaria/Bulgaria - Concept for the development of AI in Bulgaria until 2030 (2020).pdf
+deeae984b8051b33,Bulgaria,data/raw/corpus_raw/AI Policies/Bulgaria/Translated - Digital Transformation of Bulgaria Strategy 2024-20301.pdf
+d5cd924c00436d36,Bulgaria,data/raw/corpus_raw/AI Policies/Bulgaria/Translated - National Strategy for e-Health and Digitalization of the Health System 2030.pdf
+1002da0c2a4bbb5d,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - Self-driving vehicles (NO DATE).pdf
+6ef3a916e7549179,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - Strategic Action Plan for AI (2019).pdf
+559ebb04181bd77f,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Vision on Generative AI2.pdf
+02d9e6d982b9ece6,Netherlands,"data/raw/corpus_raw/AI Policies/Netherlands/Knowledge and Innovation Agenda for Agriculture, Water and Food (KIA LWV).pdf"
+478e898cd358f032,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Vision on Generative AI1.pdf
+c8c7f6e30b97cdca,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - Public AI Register (2020).pdf
+ab30ea632708d737,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - Knowledge and Innovation Agenda (2018).pdf
+7d02e8589565cc5b,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - Knowledge and Innovation Covenant (2019).pdf
+f2cf5d3c3494e585,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - AIC4NL Agenda 2025-2027 (TRANSLATED) (2025).pdf
+4b4edd4037b56148,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - Non-discrimination by design (TRANSLATED) (NO DATE).pdf
+b7fe5d14f3e43c0a,Netherlands,data/raw/corpus_raw/AI Policies/Netherlands/Netherlands - Algorithm supervisor's notes on implementation (TRANSLATED) (2022).pdf
+2f70e1b1b50ab7fd,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - First 6 AI and Blockchain technology funds backed by InnovFin raise a total of EUR 700m (2020).pdf
+bfbf0758dd02f6a3,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Coordinated Plan on Artificial Intelligence (2018).pdf
+58b7d5ea97740a30,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Directive of the European Parliament and of the Council on open data and the reuse of public sector information (2019).pdf
+7dd97c8f22ceacbc,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - European Digital Innovation Hubs (2024).pdf
+145974e98492b69e,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Council Regulation amending regulation 2021-1173 (2024).pdf
+d54b7c760b34b365,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - AI Alliance (NO DATE).pdf
+06fe8f1936c9df4c,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - European approach to artifical intelligence (2024).pdf
+1fec5937dd3444ee,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Comprehensive European industrial policy on AI and robotics (2019).pdf
+0d100d513136adfa,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Data Act (2023).pdf
+361c5400c7b7c17d,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Digitising European industry (2016).pdf
+720964390b4381c0,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - 10 million euros of funding for the development of the virtual center of excellence ELSA (2022).pdf
+bd84e63f5b622b73,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - General Data Protection Regulation (2016).pdf
+bd98f7b0f2fd0e58,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Scientific advice to European policy in a complex world (2019).pdf
+185321ef063d9a4d,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Motion for a resolution on automated decision making processes (2020).pdf
+b65606757c214256,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - European Big Data Value (2017).pdf
+814a9e864804836b,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - European strategy for data (2020).pdf
+8491ca8d2b748429,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Closing the digital gender gap (2019).pdf
+274680d180e7b7ed,European Union,"data/raw/corpus_raw/AI Policies/European Union/EU - Artifical intelligence, conclusions on the coordinated plan (2019).pdf"
+a1f7ea797c8ccd97,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Joint vision paper for an AI PPP (2019).pdf
+24f42dcab07403a9,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Shaping digital education policy (2020).pdf
+8e76593e79b7152c,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - European Digital Identity Framework (2024).pdf
+36ef7ba6d5f81c43,European Union,"data/raw/corpus_raw/AI Policies/European Union/EU - Framework of ethical aspects of AI, robotics, and related technologies (2020.pdf"
+573b2252996bbdf8,European Union,"data/raw/corpus_raw/AI Policies/European Union/EU - On AI, A European approach to excellence and trust (2020).pdf"
+b89c7c98b0c49041,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - EU AI Act and the Large AI Grand Challenge (NO DATE).pdf
+d7534cc743e50b6e,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Setting up a special committee on artifical intelligence (2020).pdf
+d784030b357ec653,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - IPCEI-CIS (2023).pdf
+07f32ec5dffbc017,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - European data spaces (2023).pdf
+631f5aefb769a13b,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Europe fit for the Digital Age (2021).pdf
+8d07312f187aa8b8,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Interoperable Europe Act (2024).pdf
+443da0a74e1a0019,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - CIvil law rules on robotics (2017).pdf
+e3253375ac05500b,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Artificial intelligence for Europe (2018).pdf
+fcf26e40a1b97c1c,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Building the next generation cloud (2020).pdf
+059624c0b0328c18,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - EDIC (2024).pdf
+a284663011ff49f4,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Towards the engineering of trustworthy AI applications for critical systems (2024).pdf
+04b688f2ea13fc0f,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Digital Services Act (2022).pdf
+649512d2adeec002,European Union,data/raw/corpus_raw/AI Policies/European Union/AI Innovation Package to Support Artificial Intelligence Startups and SMEs.pdf
+eb64a89c31119036,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Humane AI (2022).pdf
+05d2831f581f4630,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - ALTAI (2020).pdf
+e3ecaabddf6e321f,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Cyber Resilience Act (2024).pdf
+f5b8511703884d9a,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - A Stronger Digital Europe (2019).pdf
+0865dd9f2352b900,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Overview of the EU Data Governance Act (2023).pdf
+75815e2e4dd8b249,European Union,"data/raw/corpus_raw/AI Policies/European Union/EU - Report on the safety and liability implications of AI, the Internet of Things and robotics (2020).pdf"
+56042fdd4168152b,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Assessment of current initiatives of the European community (2022).pdf
+dc88bdaa5e146e2d,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Digital Markets Act (2022).pdf
+87c9c05b4aeb8f7a,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Towards a vibrant European network of AI excellence centres (2020).pdf
+32451b824740575c,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Leadership in enabling and industrial technologies (2014).pdf
+a1bd18ea7c19395b,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Intellectual property rights for the development of AI technologies.pdf
+1331c9176233b177,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Civil liability regime for AI (2020).pdf
+66cdd979e1cb23d2,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Harmonised Standards for the European AI Act (2024).pdf
+91d763c538922b40,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Policy and investment recommendations for trustworthy AI (2019).pdf
+bba630444b3278e8,European Union,data/raw/corpus_raw/AI Policies/European Union/Artificial Intelligence Act.pdf
+11df4d5b7abc6ce1,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Sectorial AI testing (2024).pdf
+38cbb47d29bb7f8b,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - AI questions on interpretation and application of international law in so far as the EU is affected (2020).pdf
+f71aa6c7cc081e48,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Horizon Europe (2021).pdf
+f6a416801fe6ae28,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Council Regulation on establishing the EU High Performance Computing Joint Undertaking (2021).pdf
+b75cc999dcdfa7fb,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Autonomous driving in European transport (2018).pdf
+7dcbb8504da1624b,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Digital education action plan (2020).pdf
+5430f8adcdfd8f74,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Robustness and explainability of AI (2020).pdf
+ea56648a6dc5b5af,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Intellectual property rights for the development of AI technologies (2020).pdf
+493bb9f914260f5e,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - EU AI and Blockchain investment fund to invest 100 million euros in startups in 2020 (2018).pdf
+c67a9a0eee589a50,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Horizon 2020 (2024).pdf
+fea96923f848ce98,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Council conclusions on regulatory sandboxes (2020).pdf
+4995391ac1fbfdb3,European Union,"data/raw/corpus_raw/AI Policies/European Union/EU - Strategic Research, Innovation and Deployment Agenda (2020).pdf"
+258754bbfcfa1fd1,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Destination Earth (2024).pdf
+bba630444b3278e8,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - EU AI Act (2024).pdf
+da5088c5065b968c,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Member states and commission to work together to boost artifical intelligence made in Europe (2018).pdf
+e6aef35be51bf845,European Union,data/raw/corpus_raw/AI Policies/European Union/EU - Ethics guidelines for trustworthy AI (2019).pdf
+9fa93459bd75f58b,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Canada-France Statement on Artificial Intelligence (2018).pdf
+d1071a25157f00b6,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Guide on the use of generative artifical intelligence (2024).pdf
+96c59d64321b5e3e,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Digital Charter in Action (2019).pdf
+707915f187d0dcee,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems (2023).pdf
+3a3512dd95a729f0,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - AICan (2020).pdf
+c1bc0778301f3268,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Building a Learning Health System for Canadians (2020).pdf
+f5581c1f716bb0a9,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Directive on Automated Decision-Making (2019).pdf
+b55f8678e82ee5cd,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - The Quebec government supports the AI Quebec Forum to ensure the international development of the Quebec AI ecosystem (TRANSLATION) (2021).pdf
+5a31d0eb9e3e09ea,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Towards Safer and More Responsible AI (2019).pdf
+6fdf3ff0c4988c5e,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Digital Platform Workers' Rights Act (2022).pdf
+160b3e35911ba750,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Terms of Reference of the Government of Canada Advisory Council on Artificial Intelligence (2019).pdf
+92b1c88e691d62a4,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Moffatt v. Air Canada (2024).pdf
+981aad01478de5ba,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Canada and France work with international community to support responsible use of artificial intelligence (2019).pdf
+702554859485b334,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Strategy for the Integration of AI in Quebec's Public Administration (TRANSLATED) (2021).pdf
+3d9cb9a62ecf436c,Canada,data/raw/corpus_raw/AI Policies/Canada/Canada - Invitiation to Qualify (2018).pdf
+1eca3bee6f2a0287,World Economic Forum,data/raw/corpus_raw/AI Policies/World Economic Forum/WEF - AI Procurement in a Box (2020).pdf
+ab0bc8b0e06a0a1a,World Economic Forum,"data/raw/corpus_raw/AI Policies/World Economic Forum/WEF - A Policy Framework for Responsible Limits on Facial Recognition, Law Enforcement (2022).pdf"
+b900036fbecb449e,World Economic Forum,data/raw/corpus_raw/AI Policies/World Economic Forum/WEF - A Framework for Responsible Limits on Facial Recognition (2020).pdf
+4adfab37f736dbf5,African Union,data/raw/corpus_raw/AI Policies/African Union/AfCFTA Digital Trade Protocol2.pdf
+853b6b0341d1d411,African Union,data/raw/corpus_raw/AI Policies/African Union/AfCFTA Digital Trade Protocol1.pdf
+606c6d94cfa15717,Uruguay,data/raw/corpus_raw/AI Policies/Uruguay/Uruguay - Data Science and Machine Learning Roadmap (TRANSLATED) (2019).pdf
+27c1fba7e91f4dcf,Uruguay,data/raw/corpus_raw/AI Policies/Uruguay/Declaration of Montevideo2.pdf
+fee21811fa6e974e,Uruguay,data/raw/corpus_raw/AI Policies/Uruguay/Declaration of Montevideo1.pdf
+2dc05a812a090e7f,Uruguay,data/raw/corpus_raw/AI Policies/Uruguay/Uruguay - AI Strategy for the Digital Government (2019).pdf
+fcae2447c0a519ea,South Africa,data/raw/corpus_raw/AI Policies/South Africa/South Africa - Terms of Reference for the Presidential Commission on the Fourth Industrial Revolution (2019).pdf
+262d42b30807a807,France,"data/raw/corpus_raw/AI Policies/France/France - Jean Zay, France's most powerful supercomputer for research (2020).pdf"
+d661c4582fdb0926,France,data/raw/corpus_raw/AI Policies/France/France - CNIL's questions and answers on teleworking (TRANSLATED) (2020).pdf
+218727096df72b49,France,data/raw/corpus_raw/AI Policies/France/France - Manifesto for Digital Ethics (TRANSLATED) (2021).pdf
+b3d29d5e7b2be719,France,data/raw/corpus_raw/AI Policies/France/France - Report on the ethical matters raised by algorithms and artificial intelligence (2017).pdf
+67f79bb5aa7be641,France,data/raw/corpus_raw/AI Policies/France/France - AI Strategy in France (TRANSLATED) (2017).pdf
+b93778f959d77db4,France,data/raw/corpus_raw/AI Policies/France/France - Decree No. 2023-304 amending Decree No. 2019-1088 (TRANSLATED) (2023).pdf
+97c37eaf32cd34a9,France,data/raw/corpus_raw/AI Policies/France/France - Decree No. 2019-1088 relating to the state information and communication system (TRANSLATED) (2018).pdf
+904b301cdbe470f6,France,data/raw/corpus_raw/AI Policies/France/Translated - Our AI Our Ambition for France.pdf
+5c6cdcef93a3eb6a,France,data/raw/corpus_raw/AI Policies/France/France - Roadmap for a Research and Innovation Betwork on AI between France and Germany (2020).pdf
+2d2f5480f54888fa,France,data/raw/corpus_raw/AI Policies/France/France - Digital Republic Bill explantory memorandum (2016).pdf
+7984ab8b70cde7fa,France,data/raw/corpus_raw/AI Policies/France/France - Research Chairs and Teaching in Artificial Intelligence (TRANSLATED) (2019).pdf
+c21f37f052bb429a,France,data/raw/corpus_raw/AI Policies/France/France - Implementation of ethics by design (TRANSLATED) (2022).pdf
+ebe04c63d0429517,France,data/raw/corpus_raw/AI Policies/France/France - AI Our Ambition for France (2024).pdf
+b19fa3d0a2393159,France,data/raw/corpus_raw/AI Policies/France/France - Adoption of the Law of Mobility Orientation by the French Parliament (2019).pdf
+92f4be29f030ec48,France,data/raw/corpus_raw/AI Policies/France/Accelerating the use of generative AI in the economy.pdf
+f3b7e05ac1042b2d,France,data/raw/corpus_raw/AI Policies/France/France - Calls for expessons of interest in Skills and Careers of the Future (TRANSLATED) (2023).pdf
+8e8be0b69b0692e4,France,data/raw/corpus_raw/AI Policies/France/France - Our Companies Innovate (TRANSLATED) (2018).pdf
+413b84e351eed939,France,data/raw/corpus_raw/AI Policies/France/France - Developing AI we can trust (2021).pdf
+d9f5622a36eb6439,Estonia,"data/raw/corpus_raw/AI Policies/Estonia/Estonia - Burokratt, the next level of development of the digital state (TRANSLATION) (2020).pdf"
+5c09dcafe8825b93,Estonia,data/raw/corpus_raw/AI Policies/Estonia/Estonia - Estonia's Digital Agenda (2021).pdf
+3791e3be1e7126ab,Estonia,data/raw/corpus_raw/AI Policies/Estonia/Estonia - Estonia's national AI strategy 2019-2021 (2019).pdf
+ae29de3feceb3a76,Estonia,"data/raw/corpus_raw/AI Policies/Estonia/Estonia - Estonia created Suve, a state-approved automated chatbot to provide trustworthy information during the COVID-19 situation (2020).pdf"
+b5db7426bd423b5c,Estonia,data/raw/corpus_raw/AI Policies/Estonia/Estonia - Reusable AI components (NO DATE).pdf
+a3c3e085fdbf3a38,Estonia,data/raw/corpus_raw/AI Policies/Estonia/Estonia - AI Support Toolbox (NO DATE).pdf
+38d64a1b27467a89,Estonia,data/raw/corpus_raw/AI Policies/Estonia/Estonia - Report of Estonia's AI Taskforce (2019).pdf
+a7e5838cf9c67ce7,Estonia,"data/raw/corpus_raw/AI Policies/Estonia/Estonia - Burokratt, roadmap for 2021-2023 (TRANSLATION) (2021).pdf"
+cc69ef755697f9fa,Estonia,data/raw/corpus_raw/AI Policies/Estonia/Estonia - Estonia's National AI Strategy or Kratt Strategy for 2022-2023 (2021).pdf
+27357a61954b9a61,Malaysia,data/raw/corpus_raw/AI Policies/Malaysia/MY-AI Portal.pdf
+5df755dce20d8c50,Peru,data/raw/corpus_raw/AI Policies/Peru/Translated - Open-source artificial intelligence algorithm service2.pdf
+ffd46d16d76aa96a,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - Law Promoting the Use of AI (TRANSLATED) (2023).pdf
+2b48118e3ec1863c,Peru,data/raw/corpus_raw/AI Policies/Peru/Translated - Methodology to Identify Lessons Learned1.pdf
+60f08d55e1a668d0,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - National Digital Transformation Plan (PART 3) (TRANSLATED) (2023).pdf
+efcb0d9a4b7f76d4,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - National Digital Transformation Plan (PART 1) (TRANSLATED) (2023).pdf
+8a23b3b467f53979,Peru,data/raw/corpus_raw/AI Policies/Peru/Public-private regulatory sandbox regarding the use of unmanned vehicles1.pdf
+60f08d55e1a668d0,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - National Digital Transformation Plan (PART 2) (TRANSLATED) (2023).pdf
+88692db051241939,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - Emergency Decree Approving the Digital Trust Framework (TRANSLATED) (2020).pdf
+8a23b3b467f53979,Peru,data/raw/corpus_raw/AI Policies/Peru/Open-source artificial intelligence algorithm service1.pdf
+49abb961e8f748ed,Peru,data/raw/corpus_raw/AI Policies/Peru/Translated - Methodology to Identify Lessons Learned2.pdf
+77780ab445563074,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - National Artificial Intelligence Strategy (2021).pdf
+ea83b4dfe69cd696,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - OSIPTEL Digital Transformation (TRANSLATED) (2020).pdf
+588eeaf909e70f10,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - National Digital Transformation Plan (PART 4) (TRANSLATED) (2023).pdf
+36c170bacd333c6a,Peru,data/raw/corpus_raw/AI Policies/Peru/Peru - Regulation of Law 31814 (TRANSLATED) (2024).pdf
+5acf037b93512362,Poland,data/raw/corpus_raw/AI Policies/Poland/Poland - Policy for the Development of AI in Poland (2020).pdf
+3814dbfed83cf9e8,Poland,data/raw/corpus_raw/AI Policies/Poland/Poland - Poland-Taiwan scientific cooperation (2014).pdf
+535b69b0d9d92ccf,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - The Ultimate AI Launchpad (2019).pdf
+9667b5ed3f6ed9b4,Malta,data/raw/corpus_raw/AI Policies/Malta/Course on “Machine Learning and Computer Vision for the Environmental Sciences.pdf
+5ffc8a848d529b6b,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - TARF (2023).pdf
+583ae0a4e87f06ee,Malta,data/raw/corpus_raw/AI Policies/Malta/Smart & Sustainable Investment Grant2.pdf
+f7fbabbf6f475c99,Malta,data/raw/corpus_raw/AI Policies/Malta/AI for Education pilot project.pdf
+153f0fd7f88b4213,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - Get Qualified Scheme (2021).pdf
+16d33d8d19186648,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - Qualifying employment in innovation and creativity (2019).pdf
+7f47434dab75dff4,Malta,data/raw/corpus_raw/AI Policies/Malta/Smart & Sustainable Investment Grant1.pdf
+e3da78c842ebfde7,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - Towards Trustworthy AI (2019).pdf
+65526d9c52247a99,Malta,data/raw/corpus_raw/AI Policies/Malta/Innovation Aid for SMEs Scheme1.pdf
+8e7e80899d260f76,Malta,data/raw/corpus_raw/AI Policies/Malta/Policy on the use of Generative AI.pdf
+16996fe3ed16caf4,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - TAAF Guidelines (2023).pdf
+bf847083c4b58da5,Malta,data/raw/corpus_raw/AI Policies/Malta/Start-up Finance Scheme.pdf
+69f250450a1d43d2,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - AI Applied Research Grant (2023).pdf
+80e140e0d92591de,Malta,"data/raw/corpus_raw/AI Policies/Malta/Malta - Strategy, Policy and Governance (2023).pdf"
+9529a86440cc1235,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - Digital Skills for the AI Revolution Recommendations (2020).pdf
+d6c2938f89334a5e,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - Skills Development (2023).pdf
+6adf1b195fc8d9d1,Malta,data/raw/corpus_raw/AI Policies/Malta/Translated - Innovation Aid for SMEs Scheme2.pdf
+0202754ecda31003,Malta,data/raw/corpus_raw/AI Policies/Malta/Malta - Technology Assurance Sandbox (2022).pdf
+bc6de7f0a484cc64,Malta,data/raw/corpus_raw/AI Policies/Malta/Innovation Aid for SMEs Scheme3.pdf
+baa8a02cd2acf2e1,Colombia,"data/raw/corpus_raw/AI Policies/Colombia/Colombia - In Bogotá, the Government inaugurates the first CEmprende headquarters, a campus for the development of entrepreneurship and innovation (TRANSLATED) (2019).pdf"
+c01e9ca00a2aa41b,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Task force for the development and implementaiton of artificial intelligence (2020).pdf
+1550a626ca3a6870,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Translated - National Policy on Artificial Intelligence (CONPES 4144).pdf
+c57c84089ceadaf2,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Translated -  Roadmap for the Development and Application of Artificial Intelligence in Colombia.pdf
+586dd8fd90b615c6,Colombia,"data/raw/corpus_raw/AI Policies/Colombia/Colombia - Centre for the Fourth Industrial Revolution to Launch in Medellín, Colombia (2024).pdf"
+26b11a1a3fd97fe2,Colombia,data/raw/corpus_raw/AI Policies/Colombia/COLOMBIA  Guía Tecnologías Emergentes (1).pdf
+14a1ddd5dd54ed54,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - National Policy for Digital Transformation and AI (TRANSLATED) (2019).pdf
+61f3e16ffeecc07e,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - National Policy on Trust and Digital Security (TRANSLATED) (2020).pdf
+3a4efbf296e27ce8,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Resolution 0314-2018 (TRANSLATED) (2018).pdf
+0e4fd79952d3e541,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia POLÍTICA NACIONAL DE CONFIANZA Y SEGURIDAD DIGITAL (1).pdf
+7e3660b0c9de0d06,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Translated - Instructions Regarding the Processing of Personal Data and Artificial Intelligence.pdf
+7a45b15201d88448,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Roadmap for AI in Colombia (TRANSLATED) (2024).pdf
+9c4bf1280ef60d16,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia Ley_2069_de_2020 (1).pdf
+ae353bdce1065219,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Economy of Data Exchange (TRANSLATED) (2020).pdf
+e0ebbc495cbc3c51,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Data infrastructure (2020).pdf
+a5176cffe0dad4ce,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Conceptual Model for Regulatory Sandbox in AI (TRANSLATED) (2020).pdf
+ee611489aab57110,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Privacy Sandbox for AI (TRANSLATED) (2020).pdf
+e13bf4ca88af7ea3,Colombia,data/raw/corpus_raw/AI Policies/Colombia/Colombia - Report of the Regional Dialogues on AI (TRANSLATED) (2024).pdf
+9b72d6d672bcce34,Ireland,data/raw/corpus_raw/AI Policies/Ireland/Ireland - AI Here for Good (2021).pdf
+9fbe5a95bc2b8a7c,Ireland,data/raw/corpus_raw/AI Policies/Ireland/National Semiconductor Strategy.pdf
+5800aa50f10c8c81,Ireland,data/raw/corpus_raw/AI Policies/Ireland/Ireland - Data Sharing Governance Framework under the Data Sharing & Governance Act 2019 (2021).pdf
+f619f46697139db9,Ireland,data/raw/corpus_raw/AI Policies/Ireland/Ireland - Future Jobs Ireland (2019).pdf
+967e6d8a83f9d703,Ireland,data/raw/corpus_raw/AI Policies/Ireland/Ireland - Enterprise Digital Advisory Forum Work Programme (2024).pdf
+296eee9a8237754f,Ireland,data/raw/corpus_raw/AI Policies/Ireland/Ireland - Shaping Our Future (2025).pdf
+c1b4bc78e30b40a1,Ireland,data/raw/corpus_raw/AI Policies/Ireland/Digital for Care Digital Health Framework 2024-2030.pdf
+d326d271364c0b21,Ireland,data/raw/corpus_raw/AI Policies/Ireland/Ireland - Interim Guidelines for Use of AI in the Public Service (2024).pdf
+ebac971442e3ea03,Tunisia,data/raw/corpus_raw/AI Policies/Tunisia/Tunisia - Law on the Protection of Personal Data (TRANSLATED) (2004).pdf
+15e530e2dea42617,Tunisia,data/raw/corpus_raw/AI Policies/Tunisia/Tunisia - Law 20 of 2018 (TRANSLATED) (2018).pdf
+5db546d0d865c2fe,Tunisia,data/raw/corpus_raw/AI Policies/Tunisia/Tunisia - Startup Labels (TRANSLATED) (2018).pdf
+e65ca050731c55cd,Tunisia,data/raw/corpus_raw/AI Policies/Tunisia/Tunisia - Implementing the Principles of Open Government (TRANSLATED) (2018).pdf
+a0a45e7ecfcd4151,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - Association Industry 4 (2015).pdf
+f31ea885740a0e2a,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - The Future of Austria with Shaping Robotics and AI in a Positive Way (TRANSLATED) (2018).pdf
+862ea4b3d51e917d,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - Federal Act Concerning the Protection of Personal Data (2024).pdf
+f8c4b0a3a11d0fe1,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - Data Strategy for Austria (TRANSLATED) (2024).pdf
+7bed141a402e3558,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - Digital Roadmap Austria (2016).pdf
+e0c0cf31cde9153b,Austria,data/raw/corpus_raw/AI Policies/Austria/Translated - National Data Strategy.pdf
+8852a48fec609636,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - AIM AT 2030 (2018).pdf
+7571abdc4eeb69f4,Austria,data/raw/corpus_raw/AI Policies/Austria/Translated - Data Strategy for Austria.pdf
+cf6f31c5581dcdf5,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - Testing of Automated Driving on Public Roads (2020).pdf
+6854c4228d77806d,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - GMAR (NO DATE).pdf
+d00983bcd9f935b8,Austria,data/raw/corpus_raw/AI Policies/Austria/Translated - AI in Everyday Consumer Life - Teaching Materials on Artificial Intelligence for Secondary School.pdf
+97bc3b043011bb52,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - National strategic roadmap for the Austrian Digital Decade (2023).pdf
+647e1295dbbde2da,Austria,data/raw/corpus_raw/AI Policies/Austria/Translated - National Funding Call “Mobility Transition 20241 – Mobility Technologies and Components”.pdf
+3b85446a97736157,Austria,data/raw/corpus_raw/AI Policies/Austria/Translated - Agreement Implementation Act 2024.pdf
+cc11c883e20fe848,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - Digital Austria Act (TRANSLATED) (2023).pdf
+450fbb7288935c3c,Austria,data/raw/corpus_raw/AI Policies/Austria/Translated - AI Strategy for the Austrian PES.pdf
+f02be3389f7127b7,Austria,data/raw/corpus_raw/AI Policies/Austria/Austria - Ordinance on Automated Driving (2022).pdf
+a8c1092602eaffdb,Council of Europe,data/raw/corpus_raw/AI Policies/Council of Europe/Council of Europe - Framework Convention on AI (2024).pdf
+1a689750936ab5a1,Slovenia,data/raw/corpus_raw/AI Policies/Slovenia/Slovene Early Stage Innovation Fund.pdf
+8a4541f023aaa44e,Slovenia,data/raw/corpus_raw/AI Policies/Slovenia/Support to SRIP ACS+ Strategic Research Innovation Partnership.pdf
+746883d96d4d9f1c,Slovenia,data/raw/corpus_raw/AI Policies/Slovenia/BrAIn - BRinging Artificial INtelligence towards SMEs.pdf
+a97a0ff416859216,Slovenia,data/raw/corpus_raw/AI Policies/Slovenia/DARS AI Initiative.pdf
+a929c61ad814abea,Slovenia,data/raw/corpus_raw/AI Policies/Slovenia/Support for Slovenian companies involved in IPCEI MECT.pdf
+125c8ea5b58ebfd6,Slovenia,data/raw/corpus_raw/AI Policies/Slovenia/Slovenian national strategy in semiconductor technologies and chips until 20301.pdf
+c811afeff5730283,Slovenia,data/raw/corpus_raw/AI Policies/Slovenia/Slovenian national strategy in semiconductor technologies and chips until 20302.pdf
+e5c7b413ec22c1f5,Croatia,data/raw/corpus_raw/AI Policies/Croatia/AI subject curricula Artificial Intelligence - From Theory to Practice.pdf
+efc2d7d7d1c45f2c,G7,data/raw/corpus_raw/AI Policies/G7/G7 Toolkit for Artificial Intelligence in the Public Sector.pdf
+5601d64083e9b33c,G7,data/raw/corpus_raw/AI Policies/G7/AI Hub for Sustainable Development.pdf
+64eb078c05c001c9,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Government of Spain in collaboration with the European Commission presents a pilot for EU's first AI Regulatory Sandbox (2022).pdf
+0293fdef24d89c59,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - National Artificial Intelligence Strategy (2020).pdf
+054b09753716e5a5,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain -Digital Rights (TRANSLATED) (2021) .pdf
+51c881bf5bd88556,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Instruction 15-V-133 (TRANSLATED) (2015).pdf
+0266d2fe4fd54289,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Manifesto for the Improvement of Digital Competencies of Spanish Citizens (TRANSLATED) (2021).pdf
+1d457e81198cff87,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Decree 632-2022 (TRANSLATED) (2022).pdf
+0fc6dc95f77e104c,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Decree 958-2022 (TRANSLATED) (2022).pdf
+5efe144ccb5bbf80,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - New Economy of Language (TRANSLATED) (2022).pdf
+c91b5250a5cd4e1f,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - National Program of Green Algorithms (TRANSLATED) (2021).pdf
+bdb74f2b76554d23,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Decree 9-2021 (TRANSLATED) (2021).pdf
+2f873685559b79f9,Spain,data/raw/corpus_raw/AI Policies/Spain/Translated - University-Business Chairs on AI.pdf
+cd5444953ba954ab,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - New call to acquire a world-class supercomputer in Spain (2021).pdf
+ed51b9bae7d329dd,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Territorial Networks of Technological Specialization (NO DATE).pdf
+eba2beca41dde8fa,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - GDPR Compliance of Processings that Embed AI (2020).pdf
+6b7c5e34470760cc,Spain,data/raw/corpus_raw/AI Policies/Spain/Translated - Spains AI Advisory Council1.pdf
+a18fd0b86fe62a2b,Spain,data/raw/corpus_raw/AI Policies/Spain/Translated - AI4ES (Network of Excellence in AI)2.pdf
+a215ca2c87e73626,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Spanish Ministry of Labor Interprets the Scope of Company Obligations to Provide Information on Algorithms (2022).pdf
+f0748df9c01afbb7,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Instruction on Assisted Parking of Motor Vehicles (TRANSLATED) (2016).pdf
+6d3827320e4d377e,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Order ETD-1180-2022 (TRANSLATED) (2022).pdf
+f12191ce5842c0db,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Decree 936-2021 (TRANSLATED) (2021).pdf
+ed90755cb0f6a869,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Implementation of Digital Transformative Initiatives (TRANSLATED) (2023).pdf
+3bd1094e427744b9,Spain,data/raw/corpus_raw/AI Policies/Spain/Translated - AI4ES (Network of Excellence in AI)1.pdf
+52ac8b2e69358d8c,Spain,data/raw/corpus_raw/AI Policies/Spain/Translated - Spains AI Advisory Council2.pdf
+d30bd3eb6e02f76b,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Plan to Promote Language Technologies (TRANSLATED) (2015).pdf
+ad782a854b39d1b3,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - National Plan for Digital Skills (2021).pdf
+c6d5747614f01f3c,Spain,data/raw/corpus_raw/AI Policies/Spain/Spain - Creating and regulating the International Advisory Council on AI (TRANSLATED) (2024).pdf
+e6ec8c26a1e61fb6,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Snapshot Paper - AI and Personal Insurance (2019).pdf
+15216af5a0422c53,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Regulatory Sandbox beta review (2021).pdf
+efb3913e529eddaa,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Automated and Electric Vehicles Act 2018 (2018).pdf
+bd6effd1e8d8a49d,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Enabling a National Cyber-Physical Infrastructure to Catalyse Innovation (2022).pdf
+2917c92e35cef4cb,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Review into bias in algorithmic decision-making (2020).pdf
+93e38d0de63b2718,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Establishing a pro-innovation approach to regulating AI (2022).pdf
+7aeb5a15b468ccad,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Evaluation of the Industrial Masters in AI Programme (2022).pdf
+4198e964131efa36,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Introduction to the AI Saferty Summit (2023).pdf
+05a45f3727229dfc,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Business Secretary announces Industrial Strategy Challenge Fund investments (2017).pdf
+124be3cc6fb4dd62,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Guidelines for AI procurement (2020).pdf
+2dc9ba714855a96c,United Kingdom,"data/raw/corpus_raw/AI Policies/United Kingdom/UK - Robotics and AI, projects to create safer work for people (2017).pdf"
+10b67ab2b37e7de9,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Welsh language technology action plan (2018).pdf
+28dcd93aa020aa66,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Public attitudes to science (2019).pdf
+47a8744db52cc8d7,United Kingdom,"data/raw/corpus_raw/AI Policies/United Kingdom/UK - Employment Practices, Monitoring at Work (2022).pdf"
+12bacbf05e7aa538,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - National Data Strategy (2020).pdf
+36bbd3306c45320f,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Growing the AI industry in the UK (2017).pdf
+73dc282d77723dec,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Atos and Graphcore partner to deliver advanced AI HPC solutions worldwide (2021).pdf
+0e1d514a6fdd3ec7,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - New £210 million centre to create jobs of the future with AI and quantum computing (2021).pdf
+f1703a245796c21b,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Snapshot Paper - Deepfakes and Audiovisual Disinformation (2019).pdf
+e8a2be1f6599c4d0,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/Introduction to AI Assurance.pdf
+f2fb872939ed11ce,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - AI and digital design to transform future of UK construction (2019).pdf
+79d0b329134c14d0,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - A Pro-Innovation Approach to AI Regulation (2023).pdf
+0629d1b582bd98ae,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - The King's Speech 2024 (2024).pdf
+4161df772b2341d8,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - National AI Strategy (2021).pdf
+11cdf8a19e38de8f,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Artificial intelligence to tackle insurance fraud and assess flood damage (2019).pdf
+9e14de09800ba581,United Kingdom,"data/raw/corpus_raw/AI Policies/United Kingdom/UK - AI Council, A Roadmap (2021).pdf"
+d9006002f4324838,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Tech sector backs British AI industry with multi million pound investment (2018).pdf
+a59aea1966907f6e,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Project ExplAIn Interim Report (2019).pdf
+33c8f35a7cc7efa3,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Natural Language Processing in Government (2019).pdf
+b75e6293a58a5e0f,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - AI Foundation Models (2023).pdf
+bf05b0350ce5a15f,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Scotland's Artificial Intelligence Strategy (2021).pdf
+022c930c18687f91,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Guidance on AI and Data Protection (2023).pdf
+3ad38f55beee704c,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Artificial Intelligence to help save lives at five new technology centres (2018).pdf
+73f86a464933c773,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Common Regulatory Capacity for AI (2021).pdf
+8ece27abb434b248,United Kingdom,"data/raw/corpus_raw/AI Policies/United Kingdom/UK - Code of Practice, automated vehicle trialling (2023).pdf"
+a7bba2b5dc5422ba,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Declaration of the United States of America and the United Kingdom of Great Britain and Northern Ireland on Cooperation in Artificial Intelligence Research and Development (2020).pdf
+54c82c137a86cdab,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Addressing trust in public sector data use (2020).pdf
+71fb1db3e20f926f,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - AI Barometer (2020).pdf
+d27242d75a7bbacc,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Centre for Data Ethics and Innovation Consultation (2018).pdf
+d1435871adcefeed,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - UKRI (2018).pdf
+fe66740812111f3b,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Comprehensive regulatory framework for self-driving vehicles proposed to Government (2020).pdf
+b3692c9c75b0c497,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Government Technology Innovation Strategy (2019).pdf
+11e180870923f314,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Online Harms White Paper (2019).pdf
+c205f26c583c71df,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Data Ethics Framework (2020).pdf
+d20617536e7b2c99,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Snapshot Paper - Smart Speakers and Voice Assistants (2019).pdf
+d577bf735e96d785,United Kingdom,"data/raw/corpus_raw/AI Policies/United Kingdom/UK - Online targeting, Final report and recommendations (2019).pdf"
+44b536182a0ee873,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Health Secretary announces £250 million investment in artificial intelligence (2019).pdf
+25aa9377c632921d,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - AI Sector Deal (2019).pdf
+a61161191d9918f5,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - AI Ecosystem Survey (2021).pdf
+a2e103d902a0c3e6,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Understanding the UK Artificial Intelligence (AI) Labour Market (2020).pdf
+8c4c56619bc18071,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Evaluation of New Data Science and Artifiical intelligence Conversion Master Courses (2023).pdf
+de98ea95acde3875,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Alan Turing Institute Strategy (2023).pdf
+66bb0a600381c417,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Leading experts appointed to AI Council to supercharge the UK’s artificial intelligence sector (2019).pdf
+f6901795ca2b69c7,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Adapting the UK's pro-innovation approach to AI regulation for foundation models (2023).pdf
+075a88d00e339dd0,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - MoJ Lawtech Grant (2022).pdf
+16296a4e761b4545,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK -  AI Standards Hub (2023).pdf
+14e9372978994c10,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Industrial Strategy (2017).pdf
+cdf2a3b7ae71fb17,United Kingdom,data/raw/corpus_raw/AI Policies/United Kingdom/UK - Snapshot Paper - Facial Recognition Technology (2020).pdf
+d4fd853195db4eec,Hungary,data/raw/corpus_raw/AI Policies/Hungary/Hungary - The Artificial Intelligence National Laboratory and the National Laboratory for Autonomous Systems have been launched under the leadership of SZTAKI (2020).pdf
+dd69ff359db5df61,Hungary,data/raw/corpus_raw/AI Policies/Hungary/Hungary - Hungary's Artificial Intelligence Strategy (2020).pdf
+8fb7549eb54a636b,Hungary,data/raw/corpus_raw/AI Policies/Hungary/Hungary - Artificial Intelligence National Laboratory (2020).pdf
+faccb5134b569dea,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - CIvic Coding (2021).pdf
+82d482cc4cdf5240,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Zero Trust in Industry 4.0 (TRANSLATION) (2024).pdf
+1af81a7a1cf8762b,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - AI in Security Aspects of Industry 4.0 (TRANSLATION) (2019).pdf
+e9989d092230d7b6,Germany,data/raw/corpus_raw/AI Policies/Germany/nxtAIM.pdf
+b2736354d3132883,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Trilateral Call for Proposals on Artifical Intelligence (2019).pdf
+3aa6afc3d8660193,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Gaia-X Ecosystem (2021).pdf
+8fb50c8a7687793e,Germany,"data/raw/corpus_raw/AI Policies/Germany/Germany - DFG, German Research Foundation - Artificial Intelligence, DFG Announces Strategic Funding Initiative (2019).pdf"
+2dce0059c74438bf,Germany,"data/raw/corpus_raw/AI Policies/Germany/Germany - AI Lighthouses for environment, climate, nature and resources (TRANSLATION) (2019).pdf"
+bb96580eed982b8f,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - AI in Government Use (TRANSLATION) (2020).pdf
+33e3505ff7edd9fa,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Digital Hub Initiative (2017).pdf
+7d5c073ef23c9397,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Future Centers (TRANSLATED) (2021).pdf
+04afae0931dcf278,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Final Report of RealLabHH (2022).pdf
+6b7e7404b2af85ec,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - mFUND (2019).pdf
+2ac916a76225ae86,Germany,data/raw/corpus_raw/AI Policies/Germany/Translated - AI Guidelines.pdf
+0c6c6cf9a05b35a6,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Mobility Data Space (NO DATE).pdf
+3da558c782fcbb46,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Ethics Commission on Automated and Connected Driving (2017).pdf
+23c5f30ba7ef0f28,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Dealing with safety risks of industrial applications due to lack of explainability of AI results (TRANSLATION) (2019).pdf
+3a17a5d1e1be54e7,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Eight Act amending the Road Traffic Act (2017).pdf
+e56f011bdcbf0525,Germany,data/raw/corpus_raw/AI Policies/Germany/Generative AI for SMEs.pdf
+6335f88fcef742a2,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - AI for Africa (2021).pdf
+cd4daab6c221bd0a,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - About the AI Observatory (TRANSLATION) (2020).pdf
+3a71b99f039afdd5,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Large AI Models for Germany (2023).pdf
+c7d0f0abd765b562,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Plattform Lernede Systeme (NO DATE).pdf
+22643744f143add5,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Framework Research Plan of the Federal Ministry of Health (TRANSLATION) (2024).pdf
+45b7e0f3c3aa58fe,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - FAIR FORWARD (2022).pdf
+f8ca10f6c05d6900,Germany,data/raw/corpus_raw/AI Policies/Germany/Network of German Centres of Excellence for AI Research.pdf
+072b3d5e75981aff,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Strategy for Automated and Connected Driving (2015).pdf
+8aaa4c9178a95fa8,Germany,data/raw/corpus_raw/AI Policies/Germany/Translated - AI Framework Guiding Statements.pdf
+b6d677cd9601cf8a,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Regulatory Sandboxes (2022).pdf
+1b5ab361a5ed2469,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - AI Talents for Tomorrow (TRANSLATED) (2023).pdf
+54156865b0aa537d,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Road Traffic Act Amendment Allows Driverless Vehicles on Public Roads (2021).pdf
+b3e79368bf82b334,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - BMBP Action Plan for AI (TRANSLATION) (2023).pdf
+80e124f5214e982e,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - AI competence centers (TRANSLATION) (NO DATE).pdf
+9af3006c7d04905c,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Digitization and AI in Mobility Action Plan (TRANSLATED) (2019).pdf
+fb9acd01d0908999,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Legislation in Hesse and Hamburg regarding automated data analysis for the prevention of criminal acts is unconstitutional (2023).pdf
+46d099ab5b6eac37,Germany,data/raw/corpus_raw/AI Policies/Germany/Germany - Opinion of the Data Ethics Commission (2018).pdf
+1aba127f03677756,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - School and early learning STEM initiatives (2024).pdf
+96438ff360b4b564,Australia,data/raw/corpus_raw/AI Policies/Australia/Mandatory Guardrails for Safe and Responsible AI.pdf
+2361ba73de3681a0,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Intellectual Property Laws Amendment (2018).pdf
+599e390fb869dcf9,Australia,data/raw/corpus_raw/AI Policies/Australia/Voluntary AI Safety Standard.pdf
+34a93f801f35b6ef,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Privacy Act Review Report (2023).pdf
+18e7d96015d8b28e,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - NSW govt names inaugural AI committee members (2021).pdf
+1856846149f656e1,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Australia's Generative AI Opportunity (2023).pdf
+4a35fd597a1c0e97,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Australia's Tech Future (NO DATE).pdf
+8e1c868fd9fb329d,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Australia's AI Action Plan (2021).pdf
+f848731867fc32d4,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Australia's AI Ecosystem (2023).pdf
+7aa5a1124a71c7df,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Human Rights and Technology (2021).pdf
+87d44aec605ee8a9,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - ICT Digital Assurance Framework (2021).pdf
+117a02206efad0e4,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - National enforcement guidelines for automated vehicles (2017).pdf
+72551391019c9426,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Responsible AI Index 2022 (2022).pdf
+6079d85035b72930,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Catalysing the AI Opportunity in Our Regions (2021).pdf
+1a9798b1c0056c9d,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Generative AI (2023) .pdf
+4dbe745b4bbbc37e,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Navigating AI (2023).pdf
+7ba807b2300ae450,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Australia's AI Ethics Principles (2024).pdf
+4f2e9722dfa47b99,Australia,"data/raw/corpus_raw/AI Policies/Australia/Australia - Australia 2030, Prosperity Through Innovation (2017).pdf"
+f1b352af95fd8be1,Australia,"data/raw/corpus_raw/AI Policies/Australia/Australia - AI, solving problems growing the economy and improving our quality of life (2019).pdf"
+c48953e5af5e14af,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Australian Framework for Generative AI in Schools (2023).pdf
+8ff3a02ea74b11bb,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Manufacturing Modernisation Fund (2019).pdf
+599e390fb869dcf9,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Voluntary AI Safety Standard (2024).pdf
+148b568b25497c33,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - Safe and responsible AI in Australia consultation (2024).pdf
+1f3ffc1c37ef1e0b,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - An Artifical Intelligence Standards Roadmap (2020).pdf
+ce8a95f8f8dd4615,Australia,data/raw/corpus_raw/AI Policies/Australia/Australia - $44 million to build AI and digital capability centres (2022).pdf
+af133c557b9e4d18,Morocco,data/raw/corpus_raw/AI Policies/Morocco/Morocco - Al-Khawarizmi Program to Support Research in the Field of AI (TRANSLATED) (2019).pdf
+a24fa5809925c50e,Slovakia,data/raw/corpus_raw/AI Policies/Slovakia/Slovakia - Action Plan for the Digital Transformation of Slovakia for 2019-2024 (2019).pdf
+95c7ee1a110e3336,Slovakia,data/raw/corpus_raw/AI Policies/Slovakia/Development and construction of a supercomputer.pdf
+c158511af92bfd1d,Mexico,"data/raw/corpus_raw/AI Policies/Mexico/Mexico - National Plan for Innovation, 2019-2024 (TRANSLATED) (2019).pdf"
+b8bea1fae6ca08cb,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Guide for the Elaboration and Presentation of Evaluation Impacts of Personal Data Protection (TRANSLATED) (2022).pdf
+1f773be061111b0c,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Specific Guidelines for the Compliance with the Principles and Rights that Govern the Data Protection Personnel in AI Projects (TRANSLATED) (2019).pdf
+ca8838cad7518d18,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Recommendations for the Processing of Personal Data Regarding the Use of AI (TRANSLATED) (2024).pdf
+8766efa1bc32351f,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Recommendations for Data Proessing in AI (TRANSLATED) (2019).pdf
+bc2acf3097d54f41,Mexico,"data/raw/corpus_raw/AI Policies/Mexico/Mexico - Proposal for a National AI Agenda, 2024-2030 (TRANSLATED) (2024).pdf"
+4aee1e37a9ee80b6,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Operating Rules for PROSOFT (TRANSLATED) (2019).pdf
+7567221d772296c7,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Translated - Proposal for the National Agenda for Artificial Intelligence for Mexico 2024-2030.pdf
+8e1e34b024518af1,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Elaborating the Evaulations of Privacy Impact (TRANSLATED) (2020).pdf
+66298207d4f16e63,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Compilation of comments from the public consultation on AI in the federal public admin (TRANSLATED) (2018).pdf
+3821c3748b54a493,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Assessing the Readiness of AI (TRANSLATED) (2024).pdf
+ba4bf27684ea341d,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Towards an AI Strategy in Mexico (2018).pdf
+ee0d622458825bd4,Mexico,data/raw/corpus_raw/AI Policies/Mexico/Mexico - Memories of the Privacy Route in AI (TRANSLATED) (2022).pdf
+257f322b64d88fe3,Kenya,data/raw/corpus_raw/AI Policies/Kenya/Kenya - Emerging Digital Technologies for Kenya (2019).pdf
+9534687af353cad3,Kenya,data/raw/corpus_raw/AI Policies/Kenya/Kenya - Digital Economy Blueprint (2019).pdf
+bf584cec6ebfa776,Kenya,data/raw/corpus_raw/AI Policies/Kenya/Kenya - Digital Economy Strategy (2020).pdf
+359a1d413079e468,Kenya,data/raw/corpus_raw/AI Policies/Kenya/Kenya - The Laptop Project (NO DATE).pdf
+4eb86a45589cd457,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/The Medium Term Program (2024-2026).pdf
+dc336109003ee1cb,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Supporting local technology developer SMEs that can contribute to the digitalization process in the manufacturing industry sector (TRANSLATED) (2022).pdf
+3b4370fb319fe8be,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - DENEYAP (2018).pdf
+a87e06d627616ec5,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Human-Centered AI for HR (2021).pdf
+7718c18826d19fa6,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Action Plan on Human Rights (2021).pdf
+b2129071c2e17845,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - National Artificial Intelligence Strategy (2021).pdf
+1b6b6246f2716978,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Eleventh Development Plan 2019-2023 (TRANSLATED) (2019).pdf
+88aa8e138e67896a,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - 100-2000 Doctorate Project (TRANSLATED) (2020).pdf
+b47ec45230a87173,Türkiye,"data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Türkiye Blazes a Trail, ‘Turkish Brain Project’ Realized in Cooperation with DTO and Gazi University (2020).pdf"
+74001ea8d6b3935b,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Industry and Technology Strategy (2019).pdf
+ce5863a9a1ae33fc,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Responding to Covid-19 and Looking Beyond (2020).pdf
+a73aea258c95dfb1,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Translated - Twelfth Development Plan-compressed.pdf
+edf01fc79ee92959,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Safe Schooling and Distance Education Project (2024).pdf
+c8d232765c5a650c,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - TOBB to Provide AI Training to 50000 people (2021).pdf
+048238ce0ea17935,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - FATİH PROJECT (2022).pdf
+68af2c487942202d,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - National Data Dictionary (2019).pdf
+c34860a68ecf32b9,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Personal Data Protection Law (2016).pdf
+0e589e51234b0348,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - Unlocking value from AI in Manufacturing (2022).pdf
+71b974e0c83e10da,Türkiye,data/raw/corpus_raw/AI Policies/Türkiye/Türkiye - OpenData (2023).pdf
+c719d2e3539241fc,Latvia,data/raw/corpus_raw/AI Policies/Latvia/Centre for Excellence in Language Technology.pdf
+a807bbadb881db86,Latvia,data/raw/corpus_raw/AI Policies/Latvia/Swiss Latvian Cooperation Programme – Pre-defined Programme Component in ICT and Smart Energy.pdf
+c3f4a82251efc56d,Latvia,data/raw/corpus_raw/AI Policies/Latvia/3VisionD.pdf
+7358e438f951bdaf,Latvia,data/raw/corpus_raw/AI Policies/Latvia/Latvia - About the Digital Transformation Guidelines for 2021-2027 (TRANSLATED) (2021).pdf
+f595ac111dba722a,Latvia,data/raw/corpus_raw/AI Policies/Latvia/AI in social sciences.pdf
+fb5aa53845cd447c,Kazakhstan,data/raw/corpus_raw/AI Policies/Kazakhstan/Kazakhstan - Fostering Productive Innovations Project (2018).pdf
+5f620d2b09fc7785,Kazakhstan,data/raw/corpus_raw/AI Policies/Kazakhstan/Kazakhstan - Digital Kazakhstan (2017).pdf
+15d5faa92843106d,Kazakhstan,"data/raw/corpus_raw/AI Policies/Kazakhstan/Kazakhstan - On approval of the Roadmap for 2016-2018 aimed at developing competencies in smart technologies, artificial intelligence (TRANSLATED) (2015).pdf"
+beda7a7cc410d822,Italy,data/raw/corpus_raw/AI Policies/Italy/Urban Mobility Data Integration.pdf
+cb39b76582882f48,Italy,"data/raw/corpus_raw/AI Policies/Italy/Italy - Unified Patent Court, Milan candidate city (TRANSLATED) (2020).pdf"
+8ea28dfc6e31072c,Italy,data/raw/corpus_raw/AI Policies/Italy/Italy - Approval of the support program for emerging 5G technologies (TRANSLATED) (2019).pdf
+e2b3b2a37d3d094d,Italy,data/raw/corpus_raw/AI Policies/Italy/Italy - Organizational Model of the National Doctorate in Artificial Intelligence (TRANSLATED) (NO DATE).pdf
+a26ee1d057ff9d63,Italy,data/raw/corpus_raw/AI Policies/Italy/Translated - Italian Strategy For Artificial Intelligence 2024-2026.pdf
+06fd8e3ac3f266f8,Italy,data/raw/corpus_raw/AI Policies/Italy/Italy - Strategic Programme on AI (2021).pdf
+28232e9aee8f0f48,Italy,data/raw/corpus_raw/AI Policies/Italy/Italy - Statute of Future Artifical Intelligence Research (TRANSLATED) (2022).pdf
+465df9cf10df6536,Italy,data/raw/corpus_raw/AI Policies/Italy/Italy - LEONARDO is inaugurated (2022).pdf
+e87dd134fe8fd371,Italy,data/raw/corpus_raw/AI Policies/Italy/Senate Act No. 1146 – Law on Artificial Intelligence.pdf
+4df597e46fd71e02,Italy,data/raw/corpus_raw/AI Policies/Italy/Italy - Release of an AI virtual assistant (TRANSLATED) (2023).pdf
+caa2a17336601b29,Italy,data/raw/corpus_raw/AI Policies/Italy/Italy - Decree for a fund to promote development of AI and blockchain (TRANSLATED) (2020).pdf
+1fffadb53605783a,Costa Rica,data/raw/corpus_raw/AI Policies/Costa Rica/Costa Rica - Law N. 2228 (TRANSLATED) (2019).pdf
+856c462c2780b210,Costa Rica,data/raw/corpus_raw/AI Policies/Costa Rica/Costa Rica - MICITT begins formulating Artificial Intelligence strategy (2023).pdf
+ae3249b0eef54ec9,Costa Rica,data/raw/corpus_raw/AI Policies/Costa Rica/Costa Rica - Government presents Digital Transformation Strategy 2023-2027 (2023).pdf
+f3b36cc9109353a5,Costa Rica,data/raw/corpus_raw/AI Policies/Costa Rica/Costa Rica - Exectuive Order No. 41637-H (TRANSLATED) (2019).pdf
+6e50bb42a7856f81,Costa Rica,data/raw/corpus_raw/AI Policies/Costa Rica/Costa Rica - Executive Order No. 41248 (TRANSLATED) (2018).pdf
+71ca0afaec500687,Czech Republic,data/raw/corpus_raw/AI Policies/Czech Republic/Czech Republic - Testing of autonomous vehicles support in the Czech Republic (2020).pdf
+b078ee55163a3ca6,Czech Republic,data/raw/corpus_raw/AI Policies/Czech Republic/Czech Republic - National Artifical Intelligence Strategy of the Czech Republic (2020).pdf
+3712e3e3a67c986e,Czech Republic,data/raw/corpus_raw/AI Policies/Czech Republic/Czech Republic - Digital Education Strategy until 2020 (TRANSLATED) (2013).pdf
+3df91a69335e2cd9,Czech Republic,data/raw/corpus_raw/AI Policies/Czech Republic/Czech Republic - A new EuroHPC world-class supercomputer in the Czech Republic (2020).pdf
+ea733e58b3d215f8,Czech Republic,data/raw/corpus_raw/AI Policies/Czech Republic/Czech Republic - Innovation Strategy of the Czech Republic (TRANSLATED) (2019).pdf
+c8d0428b4171b204,Czech Republic,data/raw/corpus_raw/AI Policies/Czech Republic/Czech Republic - National Open Strategy Access to Scientific Information in the Czech Republic for 2017-2020 (2018).pdf
+bcfefa9f1167f9bb,Czech Republic,data/raw/corpus_raw/AI Policies/Czech Republic/Czech Republic - Action plan for implementation National Strategy for Open Access to Scientific Information of the Czech Republic for 2017-2020 (TRANSLATED) (2018).pdf
+8b231593428c1c83,United States,data/raw/corpus_raw/AI Policies/United States/USA - Explainable AI (2016).pdf
+4df3297d3429f97a,United States,data/raw/corpus_raw/AI Policies/United States/USA - Executive Order on Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government (2020).pdf
+7049979dc4c0dc2f,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Illinois, Artifical Intelligence Video Interview Act (2020).pdf"
+78e005452a2a0517,United States,data/raw/corpus_raw/AI Policies/United States/USA - Colorado AI Act (2024).pdf
+91954d3a5a4c1551,United States,data/raw/corpus_raw/AI Policies/United States/USA - FAA Reauthorization Act (2024).pdf
+ddb7a400c1c03fe4,United States,data/raw/corpus_raw/AI Policies/United States/USA - AI Risk Management Framework (2024).pdf
+3226705d55a1a145,United States,data/raw/corpus_raw/AI Policies/United States/USA - NSF Program on Fairness in AI in Collaboration with Amazon (2021).pdf
+1d5d294d5de8e299,United States,data/raw/corpus_raw/AI Policies/United States/USA - United States Releases New Federal STEM Education 5-year Strategic Plan (2018).pdf
+80966f58285b3673,United States,data/raw/corpus_raw/AI Policies/United States/USA - Apple and IBM CEOs join Trump's advisory board on workforce policy (2019).pdf
+d53ee8b4b766f58d,United States,data/raw/corpus_raw/AI Policies/United States/USA - Recommendations on the Ethical use of AI by the Department of Defense (2020).pdf
+7dac711ac890ad34,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Aiming for truth, fairness, and equity in your company’s use of AI (2021).pdf"
+1e243785e2a96651,United States,data/raw/corpus_raw/AI Policies/United States/USA - National AI R&D Strategic Plan (2016).pdf
+b9b658c5a5bdc94c,United States,data/raw/corpus_raw/AI Policies/United States/USA - National Robotics Initiative 3.0 (2021).pdf
+f300a0a47fbfb46b,United States,data/raw/corpus_raw/AI Policies/United States/USA - Maintaining American Leadership in Artificial Intelligence (2019).pdf
+1f68c8908aa5ca9d,United States,data/raw/corpus_raw/AI Policies/United States/USA - National Security Commission on AI (2021).pdf
+fe1c2b15852e26be,United States,data/raw/corpus_raw/AI Policies/United States/USA - Memorandum for the Heads of Executive Departments and Agencies (2020).pdf
+6138b6e94cdc1b5b,United States,data/raw/corpus_raw/AI Policies/United States/USA - California AB 1831 (2024).pdf
+2ce3b08cca3f63b3,United States,data/raw/corpus_raw/AI Policies/United States/USA - NSF Program on Fairness in Artificial Intelligence in Collaboration with Amazon (2021).pdf
+b52acac221c22521,United States,data/raw/corpus_raw/AI Policies/United States/USA - US Government Is Developing AI to Identify Authors by Their Writing Style (2022).pdf
+f2e6ea38d7df8c59,United States,data/raw/corpus_raw/AI Policies/United States/USA - AI R&D IWG (2018).pdf
+b2fcfe87820adecb,United States,data/raw/corpus_raw/AI Policies/United States/USA - California SB 1381 (2024).pdf
+ab590d4b71bb8e16,United States,data/raw/corpus_raw/AI Policies/United States/USA - Material Genome Initiative (2014).pdf
+03807803a9187364,United States,data/raw/corpus_raw/AI Policies/United States/USA - National Defense Authorization Act for Fiscal Year 2022 (2021).pdf
+43e21e5c4ebf74eb,United States,data/raw/corpus_raw/AI Policies/United States/USA - Chief Digital and AI Officer (2024).pdf
+932e5524cf150c66,United States,data/raw/corpus_raw/AI Policies/United States/USA - Ongoing Face Recognition Vendor Test (2020).pdf
+ab34b52e55b3f664,United States,data/raw/corpus_raw/AI Policies/United States/USA - Blueprint for an AI Bill of Rights (2022).pdf
+71b6a93c33601b2c,United States,data/raw/corpus_raw/AI Policies/United States/USA - California SB 1120 (2024).pdf
+80321c1e284ef46d,United States,data/raw/corpus_raw/AI Policies/United States/USA - ORNL is in the fight against COVID-19 (2020).pdf
+64caac1fb58ac120,United States,data/raw/corpus_raw/AI Policies/United States/USA - PCAST Working Group on Generative AI Invites Public Input (2023).pdf
+d92b72e52fe48c0d,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Frontiers in AI for Science, Security and Technology (2024).pdf"
+40251bf83094cda0,United States,data/raw/corpus_raw/AI Policies/United States/USA - California AB 3030 (2024).pdf
+d20c1ccb155bcba1,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Fairness, Ethics, Accountability, and Transparency, Enabling Breakthrough Research to Expand Inclusivity in Computer and Information Science and Engineering Research (2018).pdf"
+699d9630b6941513,United States,data/raw/corpus_raw/AI Policies/United States/USA - United States Air Force AI Annex to the Department of Defense AI Strategy (2018).pdf
+b03073832e558af6,United States,"data/raw/corpus_raw/AI Policies/United States/Empowering Education Leaders A Toolkit for Safe, Ethical, and Equitable AI Integration.pdf"
+ecf24069f79f9d8e,United States,data/raw/corpus_raw/AI Policies/United States/USA - National Strategy for CET (2020).pdf
+d04576d061ba84d6,United States,data/raw/corpus_raw/AI Policies/United States/USA - A Plan for Federal Engagement in Developing Technical Standards and Related Tools (2019).pdf
+0f3c0f62510abd15,United States,data/raw/corpus_raw/AI Policies/United States/USA - AI Training for the Acquisition Workforce Act (2022).pdf
+14ad78141c72ae5d,United States,data/raw/corpus_raw/AI Policies/United States/USA - William M. Thornberry National Defense Authorization Act for Fiscal Year 2021 (2020).pdf
+d0f9b599cd53c672,United States,data/raw/corpus_raw/AI Policies/United States/USA - National AI Research Institutes (2023).pdf
+7091c369dd91a7dd,United States,data/raw/corpus_raw/AI Policies/United States/USA - Artificial Intelligence for the American People (2021).pdf
+089453c57c8e7820,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (2023).pdf"
+a83c136ce782766e,United States,data/raw/corpus_raw/AI Policies/United States/National Artificial Intelligence Research Resource Pilot1.pdf
+31a9ce92a6225756,United States,data/raw/corpus_raw/AI Policies/United States/USA - National AI Research Resource Pilot (2024).pdf
+62a380f0643b8a3a,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Request for Information and Comment on Financial Institutions' Use of Artificial Intelligence, including Machine Learning (2021).pdf"
+d66fdd5017af5545,United States,data/raw/corpus_raw/AI Policies/United States/USA - Artificial Intelligence and Machine Learning in Software as a Medical Device (2024).pdf
+0f516c74ce5bcdb0,United States,data/raw/corpus_raw/AI Policies/United States/USA - California AB 2355 (2024).pdf
+769f7ab90b19f232,United States,data/raw/corpus_raw/AI Policies/United States/USA - Big Data to Knowledge (2018).pdf
+eaf7f7f65314f658,United States,data/raw/corpus_raw/AI Policies/United States/2025-07368.pdf
+f196f5302e557890,United States,data/raw/corpus_raw/AI Policies/United States/USA - California AB 2839 (2024).pdf
+efc38f1c28ce9df3,United States,data/raw/corpus_raw/AI Policies/United States/USA - U.S.-EU Trade and Technology Council Inaugural Joint Statement (2021).pdf
+edb96e43e409f69e,United States,data/raw/corpus_raw/AI Policies/United States/USA - Select Committee on Artificial Intelligence (2018).pdf
+27c79e515cb265c0,United States,data/raw/corpus_raw/AI Policies/United States/USA - American Workforce Policy Advisory Board (2018).pdf
+0e32da0721085699,United States,data/raw/corpus_raw/AI Policies/United States/USA - Four Principles of Explainable Artifical Intelligence (2020).pdf
+94acdc33c412524a,United States,data/raw/corpus_raw/AI Policies/United States/USA - Presidential Memorandum for the Secretary of Transportation (2017).pdf
+3ac51f4f6859ca02,United States,data/raw/corpus_raw/AI Policies/United States/National Artificial Intelligence Research Resource Pilot3.pdf
+d25e8d8dd18d2906,United States,data/raw/corpus_raw/AI Policies/United States/National Artificial Intelligence Research Resource Pilot2.pdf
+56cf44c5e127ec08,United States,data/raw/corpus_raw/AI Policies/United States/USA - Maintaining American Leadership in AI (2019).pdf
+e37d3037a2bbcab8,United States,data/raw/corpus_raw/AI Policies/United States/USA - Public Views on AI and IP Policy (2020).pdf
+9f4c302f8da10b21,United States,data/raw/corpus_raw/AI Policies/United States/USA - California SB 1288 (2024).pdf
+b0796c324d4a1109,United States,data/raw/corpus_raw/AI Policies/United States/USA - CHIPS for America Act (2020).pdf
+91d56ab3ddefe43f,United States,data/raw/corpus_raw/AI Policies/United States/Americas AI Action Plan.pdf
+5ba6fe65c3f7f1d2,United States,data/raw/corpus_raw/AI Policies/United States/USA - FDS Framework (2020).pdf
+345d09e99d899618,United States,data/raw/corpus_raw/AI Policies/United States/USA - AI Next (2018).pdf
+4d2dbc4505a7a1f3,United States,"data/raw/corpus_raw/AI Policies/United States/USA - The Americans with Disabilities Act and the Use of Software, Algorithms, and Artificial Intelligence to Assess Job Applicants and Employees (2022).pdf"
+a16b5f93f01a88bb,United States,data/raw/corpus_raw/AI Policies/United States/USA - California SB 942 (2024).pdf
+f9e5345e4086e7d1,United States,data/raw/corpus_raw/AI Policies/United States/USA - COVID-19 High Performance Computing Consortium (2022).pdf
+b19b6eba36e16b27,United States,"data/raw/corpus_raw/AI Policies/United States/USA - A Local Law to amend the administrative code of the city of New York, in relation to automated employment decisions tools (2021).pdf"
+198ecea9b783ced1,United States,data/raw/corpus_raw/AI Policies/United States/USA - Thaler v. Perlmutter (2023).pdf
+346c5704b0a45302,United States,data/raw/corpus_raw/AI Policies/United States/USA - Summary of the 2019 White House Summit on AI in Government (2019).pdf
+3d0e31c34a0a6db7,United States,data/raw/corpus_raw/AI Policies/United States/USA - Ensuring American Leadership in Automated Vehicle Technologies (2020).pdf
+51123b02fbbdeb5c,United States,data/raw/corpus_raw/AI Policies/United States/USA - Resolutions on Compulsory Process (2021).pdf
+4baf513290492630,United States,data/raw/corpus_raw/AI Policies/United States/USA - CFPB Issues Policies to Facilitate Compliance and Promote Innovation (2019).pdf
+f366faecea0ff8da,United States,data/raw/corpus_raw/AI Policies/United States/USA - Request for Information on Update to the 2016 National Artificial Intelligence Research and Development Strategic Plan (2018).pdf
+496b4d3536f2fa86,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Quad Principles on Technology Design, Development, Governance, and Use (2021).pdf"
+4ed206395a26e55f,United States,data/raw/corpus_raw/AI Policies/United States/USA - California AB 1008 (2024).pdf
+87a6998e004b1b22,United States,data/raw/corpus_raw/AI Policies/United States/USA - The Biden Administration Launches the National Artificial Intelligence Research Resource Task Force (2021).pdf
+f560c6d9223fcae2,United States,data/raw/corpus_raw/AI Policies/United States/USA - California AB 2013 (2024).pdf
+83c70423dd57b35b,United States,data/raw/corpus_raw/AI Policies/United States/USA - AIML Based SaMD Action Plan (2021).pdf
+38c18cdd1e651705,United States,data/raw/corpus_raw/AI Policies/United States/USA - National AI Research and Development Strategic Plan (2019).pdf
+334b4764a67e185a,United States,data/raw/corpus_raw/AI Policies/United States/USA - California AB 2876 (2024).pdf
+1978ef52de2cdc5a,United States,data/raw/corpus_raw/AI Policies/United States/USA - Summary of AI Provisions from the National Defense Authorization Act 2022 (2021).pdf
+98c64efe51712be4,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Maryland, Use of Facial Recognition Services, Prohibition (2020).pdf"
+76f73506eb157fef,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Delaware Code, Labor Chpt. 7 (2024).pdf"
+c9a7a588850e61cf,United States,data/raw/corpus_raw/AI Policies/United States/USA - AI Next Campaign (2019).pdf
+3b1348793a6efeb9,United States,data/raw/corpus_raw/AI Policies/United States/USA - Centers of Excellence in Regulatory Science and Innovation (CERSIs) (2024).pdf
+73f8f8c76b05db70,United States,data/raw/corpus_raw/AI Policies/United States/USA - California SB 896 (2024).pdf
+8a6ab8f0239d91cc,United States,data/raw/corpus_raw/AI Policies/United States/USA - Addition of Software Specially Designed to Automate the Anaylsis of Geospatial Imagery to the Export Control Classification Number 0Y521 Series (2020).pdf
+409116d752b75c1d,United States,data/raw/corpus_raw/AI Policies/United States/USA - The AIm Initiative (2018).pdf
+816f979923541208,United States,data/raw/corpus_raw/AI Policies/United States/USA - National Defense Authorization Act for Fiscal Year 2021 (2020).pdf
+33ef25a38c1c14de,United States,data/raw/corpus_raw/AI Policies/United States/USA - Automated Vehicles 3.0 (2018).pdf
+c0bbed8f6fa13b14,United States,data/raw/corpus_raw/AI Policies/United States/USA - Summary of the 2018 Department of Defense AI Strategy (2018).pdf
+f09254a6ac7ea367,United States,data/raw/corpus_raw/AI Policies/United States/USA - Networking & Information Technology R&D Program Supplement to the Presidents' FY2020 Budget (2019).pdf
+b1d6bfcbaec0a41e,United States,data/raw/corpus_raw/AI Policies/United States/USA - Government by Algorithm (2020).pdf
+45fd17484ed8dce6,United States,"data/raw/corpus_raw/AI Policies/United States/USA - FACT SHEET, Biden-Harris Administration Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI (2023).pdf"
+ccf2db66bd6301b9,United States,data/raw/corpus_raw/AI Policies/United States/USA - NAIRR Pilot (2024).pdf
+333c1e5ffec05532,United States,data/raw/corpus_raw/AI Policies/United States/USA - Networking & Information Technology R&D Program and the National AI Initiative Office Supplement to the President's FY2022 Budget (2021).pdf
+91d56ab3ddefe43f,United States,data/raw/corpus_raw/AI Policies/United States/Americas-AI-Action-Plan.pdf
+42863bc8365106a3,United States,data/raw/corpus_raw/AI Policies/United States/USA - Guidance on Implementing the UN Guiding Principles for Transactions Linked to Foreign Government End-Users for Products or Services with Surveillance Capabilities (2020).pdf
+f1ea72a9f768addd,United States,data/raw/corpus_raw/AI Policies/United States/USA - 2016-2019 Progress Report (2019).pdf
+5c14c2f085a1f2fa,United States,"data/raw/corpus_raw/AI Policies/United States/USA - Identifying Priority Access or Quality Improvements for Federal Data and Models for Artificial Intelligence Research and Development (R&amp;D), and Testing; Request for Information (2019).pdf"
+b5accd9623bee3ef,United States,data/raw/corpus_raw/AI Policies/United States/USA - Summary of the 2018 White House Summit on AI for American Industry (2018).pdf
+a4995fe0ba706c07,United States,data/raw/corpus_raw/AI Policies/United States/USA - An Act to Amend the civil rights law in relation to electronic monitoring (2021).pdf
+9558838d1151efbd,Vietnam,data/raw/corpus_raw/AI Policies/Vietnam/Vietnam - Selecting appropriate artificial intelligence development strategy (2019).pdf
+d48317c595e49d66,Vietnam,data/raw/corpus_raw/AI Policies/Vietnam/Vietnam - ISEV (2020).pdf
+20c07e4d14f9b12d,Vietnam,"data/raw/corpus_raw/AI Policies/Vietnam/Vietnam - National Strategy on Research, Development and Application of AI until the year 2030 (2021).pdf"
+c2df6ff10139428a,Vietnam,data/raw/corpus_raw/AI Policies/Vietnam/Vietnam - Vietnam's future digital economy (2019).pdf
+f9c45d4b22b4e682,Vietnam,data/raw/corpus_raw/AI Policies/Vietnam/Vietnam - HCM City rolls out smart city plans (2017).pdf
+5356c3a4c58cd2eb,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - AI Reliability Assessment Guidelines for Plant Safety (TRANSLATED) (2021).pdf
+1ed8bfb736cf1497,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - Call for public comments on AI Governance Guidelines (2021).pdf
+4d46ab437e64b15c,Japan,"data/raw/corpus_raw/AI Policies/Japan/Japan - Further Promotion of ""Safe, Secure and Trustwothy Implementation of AI in Society"" (2022).pdf"
+92ec2da458de47bd,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - A Guide to Designing and Implementing Agile Governance (2021).pdf
+3cd37a1abeb13704,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - AI Strategy 2022 (TRANSLATED) (2022).pdf
+45a9e0cb3a3133eb,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - AI Governance in Japan (2021).pdf
+db0e779838dadc2c,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - Report “GOVERNANCE INNOVATION Redesigning Law and Architecture for Society 5.0” Compiled (2020).pdf
+bb994d4f2b124731,Japan,data/raw/corpus_raw/AI Policies/Japan/AI Guidelines for Business Ver1.0.pdf
+4445ade5091a3520,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - Tentative Summary of AI Issues (NO DATE).pdf
+9404e0bcff9bb92f,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - ABCI Security Whitepaper (TRANSLATED) (2022).pdf
+f8ee25dc5e2b6cb5,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - Draft AI R&D Guidelines for International Discussions (2017).pdf
+e5bd02d630604563,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - A practical guidebook for data provision aimed at developing AI (TRANSLATED) (2019).pdf
+b00f2b493e5f5806,Japan,"data/raw/corpus_raw/AI Policies/Japan/Japan - How Governments, Businesses and Civil Society Can Create a Better World (2022).pdf"
+21a6c63f1cc02732,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - AI Utilization Guidelines (2019).pdf
+e54bdbcd482fdb58,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - Machine Learning Quality Management Guideline (2023).pdf
+3e89ada0c7bdaf1e,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - AI Introduction Guidebook Overview (TRANSLATED) (2024).pdf
+cda1df27051b3a68,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - Social Principles of Human Centric AI (2019).pdf
+d5071a6dfeb6537c,Japan,data/raw/corpus_raw/AI Policies/Japan/Japan - Global Communications Plan 2025 (2020).pdf
+fed5408c25b61745,United Nations,data/raw/corpus_raw/AI Policies/United Nations/UN - Governing AI for Humanity (2024).pdf
+2000e310572a1fcd,United Nations,"data/raw/corpus_raw/AI Policies/United Nations/UN - Draft Resolution, Seizing the opportunities of safe, secure and trustworthy AI systems for sustainable development (2024).pdf"
+46033496f2c86cc0,Rwanda,data/raw/corpus_raw/AI Policies/Rwanda/Rwanda - Rwanda's National AI Policy (2023).pdf
+fdfa51c2341a45f9,Rwanda,data/raw/corpus_raw/AI Policies/Rwanda/Rwanda - Law relating to the protection of personal data and privacy (2021).pdf
+c2170ec528a9aff3,Rwanda,"data/raw/corpus_raw/AI Policies/Rwanda/Rwanda - Government of Rwanda, Babyl partner to provide digital healthcare to all Rwandans (2020).pdf"
+1b4c4c6522608e1d,Rwanda,data/raw/corpus_raw/AI Policies/Rwanda/Rwanda - The Government of Rwanda Announces the Establishment of a Center of Excellence in the Areas of Digitalization and AI (2020).pdf
+382eb1f1dd68fb79,Switzerland,"data/raw/corpus_raw/AI Policies/Switzerland/Switzerland - CSCS, HPE, and NVIDIA Announce World's Most Powerful AI-Capable Supercomputer (2021) .pdf"
+8b3f791b04265bb0,Switzerland,data/raw/corpus_raw/AI Policies/Switzerland/Switzerland - Digital Society Initative Roadmap 2024-2025 (2023).pdf
+24e98e84927e2589,Switzerland,data/raw/corpus_raw/AI Policies/Switzerland/Switzerland - Report of the interdepartmental working group AI to the Federal Council (TRANSLATED) (2019).pdf
+fa0085010716e12a,Switzerland,data/raw/corpus_raw/AI Policies/Switzerland/Switzerland - Digital Switzerland Strategy (2023).pdf
+cb34a35de68e644b,Indonesia,data/raw/corpus_raw/AI Policies/Indonesia/Indonesia - National AI Strategy (TRANSLATED) (2024).pdf
+2154e84ccbd12627,Ukraine,data/raw/corpus_raw/AI Policies/Ukraine/Translated - Instructional and Methodological Recommendations Regarding the Introduction and Use of Artificial Intelligence Technologies in General Secondary Education Institutions.pdf
+2404ec53747f74f1,Ukraine,data/raw/corpus_raw/AI Policies/Ukraine/Sectoral Analysis of AI and Initial Vision of AI Development in Ukraine.pdf
+95cdc1a62313424b,Ukraine,data/raw/corpus_raw/AI Policies/Ukraine/Ukraine - Ukraine’s roadmap to an artificial intelligence future (2021).pdf
+8a188b655b7c0042,Ukraine,data/raw/corpus_raw/AI Policies/Ukraine/Translated - Human Rights in the Age of Artificial Intelligence.pdf

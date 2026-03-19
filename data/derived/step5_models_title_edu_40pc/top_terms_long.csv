@@ -1,0 +1,2401 @@
+pc,side,rank,term
+PC1,pos,1,на
+PC1,pos,2,за
+PC1,pos,3,да
+PC1,pos,4,се
+PC1,pos,5,от
+PC1,pos,6,по
+PC1,pos,7,обучение
+PC1,pos,8,да се
+PC1,pos,9,които
+PC1,pos,10,са
+PC1,pos,11,като
+PC1,pos,12,образованието
+PC1,pos,13,при
+PC1,pos,14,не
+PC1,pos,15,трансформация
+PC1,pos,16,студентите
+PC1,pos,17,дигитална
+PC1,pos,18,или
+PC1,pos,19,на образованието
+PC1,pos,20,оценяване
+PC1,pos,21,проблеми
+PC1,pos,22,обучението
+PC1,pos,23,трансформация на
+PC1,pos,24,към
+PC1,pos,25,решения
+PC1,pos,26,акредитация
+PC1,pos,27,дигитална трансформация
+PC1,pos,28,това
+PC1,pos,29,че
+PC1,pos,30,технологии
+PC1,neg,1,007 017
+PC1,neg,2,005 017
+PC1,neg,3,012 038
+PC1,neg,4,046 008
+PC1,neg,5,047 110
+PC1,neg,6,038 002
+PC1,neg,7,000 002
+PC1,neg,8,008 011
+PC1,neg,9,895
+PC1,neg,10,033 100
+PC1,neg,11,261
+PC1,neg,12,008 018
+PC1,neg,13,006 014
+PC1,neg,14,013 003
+PC1,neg,15,012 036
+PC1,neg,16,000 194
+PC1,neg,17,025 057
+PC1,neg,18,596
+PC1,neg,19,031 074
+PC1,neg,20,029 069
+PC1,neg,21,554
+PC1,neg,22,069 009
+PC1,neg,23,367
+PC1,neg,24,450
+PC1,neg,25,022 049
+PC1,neg,26,057 012
+PC1,neg,27,012 048
+PC1,neg,28,115 013
+PC1,neg,29,009 031
+PC1,neg,30,014 025
+PC2,pos,1,ai
+PC2,pos,2,digital
+PC2,pos,3,quality
+PC2,pos,4,learning
+PC2,pos,5,education
+PC2,pos,6,machine
+PC2,pos,7,machine learning
+PC2,pos,8,use
+PC2,pos,9,data
+PC2,pos,10,skills
+PC2,pos,11,training
+PC2,pos,12,educational
+PC2,pos,13,government
+PC2,pos,14,students
+PC2,pos,15,digital skills
+PC2,pos,16,research
+PC2,pos,17,external
+PC2,pos,18,development
+PC2,pos,19,safety
+PC2,pos,20,technologies
+PC2,pos,21,support
+PC2,pos,22,systems
+PC2,pos,23,external quality
+PC2,pos,24,level
+PC2,pos,25,based
+PC2,pos,26,intelligence
+PC2,pos,27,set
+PC2,pos,28,elements
+PC2,pos,29,public
+PC2,pos,30,requirements
+PC2,neg,1,на
+PC2,neg,2,да
+PC2,neg,3,за
+PC2,neg,4,се
+PC2,neg,5,от
+PC2,neg,6,по
+PC2,neg,7,да се
+PC2,neg,8,които
+PC2,neg,9,са
+PC2,neg,10,като
+PC2,neg,11,не
+PC2,neg,12,обучение
+PC2,neg,13,или
+PC2,neg,14,при
+PC2,neg,15,това
+PC2,neg,16,че
+PC2,neg,17,трябва
+PC2,neg,18,студентите
+PC2,neg,19,към
+PC2,neg,20,може
+PC2,neg,21,трябва да
+PC2,neg,22,процес
+PC2,neg,23,може да
+PC2,neg,24,чрез
+PC2,neg,25,до
+PC2,neg,26,ще
+PC2,neg,27,могат
+PC2,neg,28,могат да
+PC2,neg,29,бъдат
+PC2,neg,30,което
+PC3,pos,1,quality
+PC3,pos,2,machine learning
+PC3,pos,3,machine
+PC3,pos,4,learning
+PC3,pos,5,external
+PC3,pos,6,external quality
+PC3,pos,7,safety
+PC3,pos,8,learning elements
+PC3,pos,9,elements
+PC3,pos,10,quality use
+PC3,pos,11,plant
+PC3,pos,12,internal quality
+PC3,pos,13,requirements
+PC3,pos,14,operation
+PC3,pos,15,internal
+PC3,pos,16,level
+PC3,pos,17,case
+PC3,pos,18,set
+PC3,pos,19,data
+PC3,pos,20,use
+PC3,pos,21,use case
+PC3,pos,22,guidelines
+PC3,pos,23,guideline
+PC3,pos,24,reliability
+PC3,pos,25,common
+PC3,pos,26,learning element
+PC3,pos,27,items
+PC3,pos,28,required
+PC3,pos,29,components
+PC3,pos,30,aversion
+PC3,neg,1,digital
+PC3,neg,2,education
+PC3,neg,3,ai
+PC3,neg,4,skills
+PC3,neg,5,digital skills
+PC3,neg,6,training
+PC3,neg,7,educational
+PC3,neg,8,technologies
+PC3,neg,9,students
+PC3,neg,10,government
+PC3,neg,11,research
+PC3,neg,12,plan
+PC3,neg,13,support
+PC3,neg,14,malta
+PC3,neg,15,digital technologies
+PC3,neg,16,european
+PC3,neg,17,schools
+PC3,neg,18,public
+PC3,neg,19,teachers
+PC3,neg,20,intelligence
+PC3,neg,21,school
+PC3,neg,22,national
+PC3,neg,23,strategy
+PC3,neg,24,ministry
+PC3,neg,25,teaching
+PC3,neg,26,transformation
+PC3,neg,27,artificial
+PC3,neg,28,new
+PC3,neg,29,artificial intelligence
+PC3,neg,30,eu
+PC4,pos,1,ai
+PC4,pos,2,malta
+PC4,pos,3,generative
+PC4,pos,4,use ai
+PC4,pos,5,educational
+PC4,pos,6,intelligence
+PC4,pos,7,students
+PC4,pos,8,educators
+PC4,pos,9,artificial
+PC4,pos,10,generative ai
+PC4,pos,11,tools
+PC4,pos,12,use
+PC4,pos,13,artificial intelligence
+PC4,pos,14,ai systems
+PC4,pos,15,leaders
+PC4,pos,16,educational leaders
+PC4,pos,17,student
+PC4,pos,18,risks
+PC4,pos,19,ai tools
+PC4,pos,20,systems
+PC4,pos,21,instructional
+PC4,pos,22,data
+PC4,pos,23,pages
+PC4,pos,24,2024
+PC4,pos,25,human
+PC4,pos,26,ethical
+PC4,pos,27,ai education
+PC4,pos,28,privacy
+PC4,pos,29,ai literacy
+PC4,pos,30,content
+PC4,neg,1,digital
+PC4,neg,2,digital skills
+PC4,neg,3,skills
+PC4,neg,4,1e
+PC4,neg,5,3e
+PC4,neg,6,training
+PC4,neg,7,education
+PC4,neg,8,quality
+PC4,neg,9,masked
+PC4,neg,10,03
+PC4,neg,11,02
+PC4,neg,12,plan
+PC4,neg,13,digital technologies
+PC4,neg,14,government
+PC4,neg,15,transformation
+PC4,neg,16,ministry
+PC4,neg,17,digital education
+PC4,neg,18,brussels
+PC4,neg,19,01
+PC4,neg,20,digital transformation
+PC4,neg,21,european
+PC4,neg,22,vocational
+PC4,neg,23,machine learning
+PC4,neg,24,ict
+PC4,neg,25,national
+PC4,neg,26,masked masked
+PC4,neg,27,technologies
+PC4,neg,28,vocational training
+PC4,neg,29,04
+PC4,neg,30,external
+PC5,pos,1,1e
+PC5,pos,2,3e
+PC5,pos,3,masked
+PC5,pos,4,03
+PC5,pos,5,02
+PC5,pos,6,ai
+PC5,pos,7,01
+PC5,pos,8,masked masked
+PC5,pos,9,03 3e
+PC5,pos,10,1e 03
+PC5,pos,11,3e 03
+PC5,pos,12,3e 02
+PC5,pos,13,1e 02
+PC5,pos,14,02 3e
+PC5,pos,15,02 1e
+PC5,pos,16,03 1e
+PC5,pos,17,06
+PC5,pos,18,1e 01
+PC5,pos,19,unmasked
+PC5,pos,20,fmr
+PC5,pos,21,05
+PC5,pos,22,04
+PC5,pos,23,false
+PC5,pos,24,match
+PC5,pos,25,match rate
+PC5,pos,26,mask
+PC5,pos,27,face
+PC5,pos,28,rate
+PC5,pos,29,unmasked masked
+PC5,pos,30,algorithms
+PC5,neg,1,digital
+PC5,neg,2,digital skills
+PC5,neg,3,skills
+PC5,neg,4,training
+PC5,neg,5,education
+PC5,neg,6,quality
+PC5,neg,7,digital technologies
+PC5,neg,8,government
+PC5,neg,9,plan
+PC5,neg,10,digital education
+PC5,neg,11,ministry
+PC5,neg,12,technologies
+PC5,neg,13,transformation
+PC5,neg,14,brussels
+PC5,neg,15,machine learning
+PC5,neg,16,digital transformation
+PC5,neg,17,european
+PC5,neg,18,external
+PC5,neg,19,vocational
+PC5,neg,20,ict
+PC5,neg,21,ministry education
+PC5,neg,22,machine
+PC5,neg,23,learning
+PC5,neg,24,vocational training
+PC5,neg,25,education training
+PC5,neg,26,external quality
+PC5,neg,27,skills training
+PC5,neg,28,national
+PC5,neg,29,programme
+PC5,neg,30,action
+PC6,pos,1,digital
+PC6,pos,2,digital skills
+PC6,pos,3,skills
+PC6,pos,4,education
+PC6,pos,5,learning
+PC6,pos,6,ai
+PC6,pos,7,educational
+PC6,pos,8,students
+PC6,pos,9,technologies
+PC6,pos,10,digital technologies
+PC6,pos,11,teachers
+PC6,pos,12,teaching
+PC6,pos,13,use
+PC6,pos,14,digital education
+PC6,pos,15,machine learning
+PC6,pos,16,educators
+PC6,pos,17,quality
+PC6,pos,18,literacy
+PC6,pos,19,3e
+PC6,pos,20,education training
+PC6,pos,21,1e
+PC6,pos,22,tools
+PC6,pos,23,schools
+PC6,pos,24,online
+PC6,pos,25,school
+PC6,pos,26,ict
+PC6,pos,27,skills training
+PC6,pos,28,student
+PC6,pos,29,teacher
+PC6,pos,30,plan digital
+PC6,neg,1,government
+PC6,neg,2,brussels
+PC6,neg,3,policy
+PC6,neg,4,aid
+PC6,neg,5,research
+PC6,neg,6,article
+PC6,neg,7,public
+PC6,neg,8,region
+PC6,neg,9,order
+PC6,neg,10,section
+PC6,neg,11,law
+PC6,neg,12,innovation
+PC6,neg,13,shall
+PC6,neg,14,research innovation
+PC6,neg,15,council
+PC6,neg,16,boe
+PC6,neg,17,policy council
+PC6,neg,18,project
+PC6,neg,19,science
+PC6,neg,20,science research
+PC6,neg,21,beneficiary
+PC6,neg,22,support
+PC6,neg,23,chair
+PC6,neg,24,accordance
+PC6,neg,25,regulations
+PC6,neg,26,translated
+PC6,neg,27,machine translated
+PC6,neg,28,regional
+PC6,neg,29,translated google
+PC6,neg,30,expenses
+PC7,pos,1,да
+PC7,pos,2,government
+PC7,pos,3,се
+PC7,pos,4,brussels
+PC7,pos,5,да се
+PC7,pos,6,за
+PC7,pos,7,3e
+PC7,pos,8,от
+PC7,pos,9,трябва
+PC7,pos,10,region
+PC7,pos,11,трябва да
+PC7,pos,12,които
+PC7,pos,13,1e
+PC7,pos,14,не
+PC7,pos,15,по
+PC7,pos,16,като
+PC7,pos,17,support
+PC7,pos,18,policy
+PC7,pos,19,или
+PC7,pos,20,това
+PC7,pos,21,може
+PC7,pos,22,може да
+PC7,pos,23,regional
+PC7,pos,24,training
+PC7,pos,25,public
+PC7,pos,26,могат
+PC7,pos,27,са
+PC7,pos,28,могат да
+PC7,pos,29,social
+PC7,pos,30,бъдат
+PC7,neg,1,трансформация
+PC7,neg,2,оценяване акредитация
+PC7,neg,3,оценяване
+PC7,neg,4,дигитална трансформация
+PC7,neg,5,проблеми решения
+PC7,neg,6,решения оценяване
+PC7,neg,7,конференция дигитална
+PC7,neg,8,образованието проблеми
+PC7,neg,9,национална конференция
+PC7,neg,10,акредитация
+PC7,neg,11,трансформация на
+PC7,neg,12,конференция
+PC7,neg,13,национална
+PC7,neg,14,дигитална
+PC7,neg,15,решения
+PC7,neg,16,на образованието
+PC7,neg,17,проблеми
+PC7,neg,18,образованието
+PC7,neg,19,https
+PC7,neg,20,aid
+PC7,neg,21,article
+PC7,neg,22,2020
+PC7,neg,23,000
+PC7,neg,24,2022
+PC7,neg,25,research
+PC7,neg,26,university
+PC7,neg,27,www
+PC7,neg,28,10
+PC7,neg,29,000 000
+PC7,neg,30,boe
+PC8,pos,1,government
+PC8,pos,2,brussels
+PC8,pos,3,region
+PC8,pos,4,3e
+PC8,pos,5,support
+PC8,pos,6,policy
+PC8,pos,7,трансформация
+PC8,pos,8,оценяване акредитация
+PC8,pos,9,оценяване
+PC8,pos,10,дигитална трансформация
+PC8,pos,11,проблеми решения
+PC8,pos,12,акредитация
+PC8,pos,13,решения оценяване
+PC8,pos,14,трансформация на
+PC8,pos,15,конференция дигитална
+PC8,pos,16,образованието проблеми
+PC8,pos,17,национална конференция
+PC8,pos,18,конференция
+PC8,pos,19,национална
+PC8,pos,20,дигитална
+PC8,pos,21,решения
+PC8,pos,22,на образованието
+PC8,pos,23,образованието
+PC8,pos,24,проблеми
+PC8,pos,25,regional
+PC8,pos,26,1e
+PC8,pos,27,social
+PC8,pos,28,housing
+PC8,pos,29,urban
+PC8,pos,30,local
+PC8,neg,1,aid
+PC8,neg,2,article
+PC8,neg,3,boe
+PC8,neg,4,law
+PC8,neg,5,да
+PC8,neg,6,000
+PC8,neg,7,000 000
+PC8,neg,8,research
+PC8,neg,9,beneficiary
+PC8,neg,10,section
+PC8,neg,11,chair
+PC8,neg,12,https
+PC8,neg,13,expenses
+PC8,neg,14,2022
+PC8,neg,15,accordance
+PC8,neg,16,december
+PC8,neg,17,application
+PC8,neg,18,digital
+PC8,neg,19,submitted
+PC8,neg,20,es
+PC8,neg,21,iii
+PC8,neg,22,provisions
+PC8,neg,23,38 2003
+PC8,neg,24,2003
+PC8,neg,25,november
+PC8,neg,26,shall
+PC8,neg,27,law 38
+PC8,neg,28,transformation
+PC8,neg,29,official
+PC8,neg,30,face
+PC9,pos,1,3e
+PC9,pos,2,1e
+PC9,pos,3,03
+PC9,pos,4,02
+PC9,pos,5,research
+PC9,pos,6,innovation
+PC9,pos,7,science
+PC9,pos,8,research innovation
+PC9,pos,9,education
+PC9,pos,10,policy council
+PC9,pos,11,3e 02
+PC9,pos,12,02 1e
+PC9,pos,13,02 3e
+PC9,pos,14,1e 02
+PC9,pos,15,03 1e
+PC9,pos,16,1e 03
+PC9,pos,17,03 3e
+PC9,pos,18,3e 03
+PC9,pos,19,1e 01
+PC9,pos,20,masked masked
+PC9,pos,21,council
+PC9,pos,22,aid
+PC9,pos,23,section
+PC9,pos,24,science research
+PC9,pos,25,article
+PC9,pos,26,shall
+PC9,pos,27,04
+PC9,pos,28,higher education
+PC9,pos,29,law
+PC9,pos,30,05
+PC9,neg,1,000
+PC9,neg,2,000 000
+PC9,neg,3,mask
+PC9,neg,4,match rate
+PC9,neg,5,face
+PC9,neg,6,false
+PC9,neg,7,match
+PC9,neg,8,rate
+PC9,neg,9,001
+PC9,neg,10,government
+PC9,neg,11,fnmr
+PC9,neg,12,algorithms
+PC9,neg,13,002
+PC9,neg,14,brussels
+PC9,neg,15,021e 01
+PC9,neg,16,021e
+PC9,neg,17,031e
+PC9,neg,18,041e
+PC9,neg,19,061e 051e
+PC9,neg,20,041e 031e
+PC9,neg,21,031e 021e
+PC9,neg,22,061e
+PC9,neg,23,051e
+PC9,neg,24,051e 041e
+PC9,neg,25,1e 061e
+PC9,neg,26,2020
+PC9,neg,27,005
+PC9,neg,28,non match
+PC9,neg,29,images
+PC9,neg,30,false non
+PC10,pos,1,education
+PC10,pos,2,research
+PC10,pos,3,science
+PC10,pos,4,innovation
+PC10,pos,5,research innovation
+PC10,pos,6,policy council
+PC10,pos,7,science research
+PC10,pos,8,higher education
+PC10,pos,9,council
+PC10,pos,10,higher
+PC10,pos,11,policy
+PC10,pos,12,educational
+PC10,pos,13,technologies
+PC10,pos,14,act
+PC10,pos,15,education science
+PC10,pos,16,ministry education
+PC10,pos,17,digital technologies
+PC10,pos,18,office
+PC10,pos,19,schools
+PC10,pos,20,education youth
+PC10,pos,21,youth sports
+PC10,pos,22,ministry
+PC10,pos,23,sports
+PC10,pos,24,shall
+PC10,pos,25,school
+PC10,pos,26,technology
+PC10,pos,27,youth
+PC10,pos,28,national science
+PC10,pos,29,budget
+PC10,pos,30,nrct
+PC10,neg,1,digital skills
+PC10,neg,2,skills
+PC10,neg,3,ai
+PC10,neg,4,training
+PC10,neg,5,aid
+PC10,neg,6,digital
+PC10,neg,7,article
+PC10,neg,8,plan
+PC10,neg,9,malta
+PC10,neg,10,boe
+PC10,neg,11,law
+PC10,neg,12,beneficiary
+PC10,neg,13,public
+PC10,neg,14,european
+PC10,neg,15,action
+PC10,neg,16,transformation
+PC10,neg,17,eu
+PC10,neg,18,3e
+PC10,neg,19,skills training
+PC10,neg,20,recovery
+PC10,neg,21,chair
+PC10,neg,22,es
+PC10,neg,23,expenses
+PC10,neg,24,applications
+PC10,neg,25,iii
+PC10,neg,26,actions
+PC10,neg,27,costs
+PC10,neg,28,project
+PC10,neg,29,order
+PC10,neg,30,2022
+PC11,pos,1,digital skills
+PC11,pos,2,skills
+PC11,pos,3,innovation
+PC11,pos,4,research innovation
+PC11,pos,5,policy council
+PC11,pos,6,science
+PC11,pos,7,malta
+PC11,pos,8,ai
+PC11,pos,9,science research
+PC11,pos,10,council
+PC11,pos,11,national
+PC11,pos,12,research
+PC11,pos,13,act
+PC11,pos,14,training
+PC11,pos,15,policy
+PC11,pos,16,shall
+PC11,pos,17,higher education
+PC11,pos,18,higher
+PC11,pos,19,section
+PC11,pos,20,nrct
+PC11,pos,21,national science
+PC11,pos,22,committee
+PC11,pos,23,office
+PC11,pos,24,nstda
+PC11,pos,25,digital
+PC11,pos,26,education science
+PC11,pos,27,fund
+PC11,pos,28,innovation policy
+PC11,pos,29,science technology
+PC11,pos,30,skills training
+PC11,neg,1,educational
+PC11,neg,2,education
+PC11,neg,3,digital technologies
+PC11,neg,4,school
+PC11,neg,5,schools
+PC11,neg,6,sports
+PC11,neg,7,technologies
+PC11,neg,8,education youth
+PC11,neg,9,youth sports
+PC11,neg,10,youth
+PC11,neg,11,ministry education
+PC11,neg,12,teachers
+PC11,neg,13,31 12
+PC11,neg,14,students
+PC11,neg,15,31
+PC11,neg,16,aid
+PC11,neg,17,teaching
+PC11,neg,18,state
+PC11,neg,19,article
+PC11,neg,20,state budget
+PC11,neg,21,brussels
+PC11,neg,22,ministry
+PC11,neg,23,activities
+PC11,neg,24,implementation
+PC11,neg,25,cooperation
+PC11,neg,26,support
+PC11,neg,27,op
+PC11,neg,28,deadline
+PC11,neg,29,12
+PC11,neg,30,boe
+PC12,pos,1,pages
+PC12,pos,2,consumer
+PC12,pos,3,content entire
+PC12,pos,4,entire pages
+PC12,pos,5,individual content
+PC12,pos,6,unauthorized
+PC12,pos,7,copyright
+PC12,pos,8,intelligence
+PC12,pos,9,2024
+PC12,pos,10,artificial
+PC12,pos,11,individual
+PC12,pos,12,entire
+PC12,pos,13,artificial intelligence
+PC12,pos,14,content
+PC12,pos,15,topic
+PC12,pos,16,texts
+PC12,pos,17,links
+PC12,pos,18,consumer protection
+PC12,pos,19,rights reserved
+PC12,pos,20,websites
+PC12,pos,21,texts images
+PC12,pos,22,images graphics
+PC12,pos,23,reserved
+PC12,pos,24,worldwide copyright
+PC12,pos,25,pages protected
+PC12,pos,26,layout pages
+PC12,pos,27,protected worldwide
+PC12,pos,28,expressly permitted
+PC12,pos,29,links website
+PC12,pos,30,website expressly
+PC12,neg,1,ai
+PC12,neg,2,malta
+PC12,neg,3,educational
+PC12,neg,4,000 000
+PC12,neg,5,educators
+PC12,neg,6,leaders
+PC12,neg,7,000
+PC12,neg,8,educational leaders
+PC12,neg,9,use ai
+PC12,neg,10,module
+PC12,neg,11,strategy
+PC12,neg,12,student
+PC12,neg,13,aid
+PC12,neg,14,vision
+PC12,neg,15,evidence
+PC12,neg,16,community
+PC12,neg,17,ai literacy
+PC12,neg,18,privacy
+PC12,neg,19,tools
+PC12,neg,20,ai education
+PC12,neg,21,ethical
+PC12,neg,22,district
+PC12,neg,23,task force
+PC12,neg,24,adoption
+PC12,neg,25,malta ai
+PC12,neg,26,enabled
+PC12,neg,27,actions
+PC12,neg,28,leader
+PC12,neg,29,instructional
+PC12,neg,30,launchpad
+PC13,pos,1,000 000
+PC13,pos,2,000
+PC13,pos,3,3e
+PC13,pos,4,003
+PC13,pos,5,med
+PC13,pos,6,sha pe
+PC13,pos,7,sha
+PC13,pos,8,006
+PC13,pos,9,pe
+PC13,pos,10,001
+PC13,pos,11,lo med
+PC13,pos,12,hi
+PC13,pos,13,med hi
+PC13,pos,14,03
+PC13,pos,15,lo
+PC13,pos,16,02
+PC13,pos,17,004
+PC13,pos,18,002
+PC13,pos,19,007
+PC13,pos,20,pe wide
+PC13,pos,21,008
+PC13,pos,22,hi lo
+PC13,pos,23,template
+PC13,pos,24,на
+PC13,pos,25,06
+PC13,pos,26,009
+PC13,pos,27,col
+PC13,pos,28,012
+PC13,pos,29,wide sha
+PC13,pos,30,fte
+PC13,neg,1,mask
+PC13,neg,2,1e 061e
+PC13,neg,3,061e 051e
+PC13,neg,4,051e 041e
+PC13,neg,5,051e
+PC13,neg,6,041e
+PC13,neg,7,031e
+PC13,neg,8,061e
+PC13,neg,9,041e 031e
+PC13,neg,10,031e 021e
+PC13,neg,11,021e
+PC13,neg,12,021e 01
+PC13,neg,13,false
+PC13,neg,14,match rate
+PC13,neg,15,match
+PC13,neg,16,01 1e
+PC13,neg,17,200 500
+PC13,neg,18,020 050
+PC13,neg,19,100 200
+PC13,neg,20,050 100
+PC13,neg,21,005 010
+PC13,neg,22,050
+PC13,neg,23,010 020
+PC13,neg,24,rate
+PC13,neg,25,masked
+PC13,neg,26,001 002
+PC13,neg,27,002 005
+PC13,neg,28,face
+PC13,neg,29,да
+PC13,neg,30,500
+PC14,pos,1,да
+PC14,pos,2,се
+PC14,pos,3,да се
+PC14,pos,4,трябва
+PC14,pos,5,трябва да
+PC14,pos,6,не
+PC14,pos,7,решения оценяване
+PC14,pos,8,образованието проблеми
+PC14,pos,9,конференция дигитална
+PC14,pos,10,национална конференция
+PC14,pos,11,оценяване акредитация
+PC14,pos,12,проблеми решения
+PC14,pos,13,акредитация
+PC14,pos,14,конференция
+PC14,pos,15,оценяване
+PC14,pos,16,решения
+PC14,pos,17,трансформация на
+PC14,pos,18,национална
+PC14,pos,19,проблеми
+PC14,pos,20,които
+PC14,pos,21,образованието
+PC14,pos,22,може
+PC14,pos,23,на образованието
+PC14,pos,24,дигитална трансформация
+PC14,pos,25,за да
+PC14,pos,26,трансформация
+PC14,pos,27,може да
+PC14,pos,28,дигитална
+PC14,pos,29,могат
+PC14,pos,30,че
+PC14,neg,1,на
+PC14,neg,2,обучение
+PC14,neg,3,унсс
+PC14,neg,4,качеството
+PC14,neg,5,за
+PC14,neg,6,използване
+PC14,neg,7,използване на
+PC14,neg,8,на качеството
+PC14,neg,9,управление
+PC14,neg,10,на обучение
+PC14,neg,11,качеството на
+PC14,neg,12,образование
+PC14,neg,13,прилагане
+PC14,neg,14,прилагане на
+PC14,neg,15,обучение на
+PC14,neg,16,bg
+PC14,neg,17,развитие на
+PC14,neg,18,във
+PC14,neg,19,управление на
+PC14,neg,20,за управление
+PC14,neg,21,осигуряване
+PC14,neg,22,на унсс
+PC14,neg,23,дистанционно обучение
+PC14,neg,24,при
+PC14,neg,25,дистанционно
+PC14,neg,26,системи
+PC14,neg,27,обучението
+PC14,neg,28,системи за
+PC14,neg,29,дисциплини
+PC14,neg,30,българия
+PC15,pos,1,malta
+PC15,pos,2,intelligence
+PC15,pos,3,artificial
+PC15,pos,4,artificial intelligence
+PC15,pos,5,smart
+PC15,pos,6,design engineering
+PC15,pos,7,physical systems
+PC15,pos,8,cyber physical
+PC15,pos,9,smart technologies
+PC15,pos,10,cyber
+PC15,pos,11,future energy
+PC15,pos,12,energy design
+PC15,pos,13,technologies artificial
+PC15,pos,14,energy
+PC15,pos,15,engineering
+PC15,pos,16,ministry education
+PC15,pos,17,strategy
+PC15,pos,18,physical
+PC15,pos,19,ministry
+PC15,pos,20,integration cyber
+PC15,pos,21,intelligence integration
+PC15,pos,22,information ministry
+PC15,pos,23,systems future
+PC15,pos,24,technologies
+PC15,pos,25,design
+PC15,pos,26,future
+PC15,pos,27,launchpad
+PC15,pos,28,integration
+PC15,pos,29,ultimate
+PC15,pos,30,ultimate ai
+PC15,neg,1,educational
+PC15,neg,2,students
+PC15,neg,3,educators
+PC15,neg,4,leaders
+PC15,neg,5,use
+PC15,neg,6,educational leaders
+PC15,neg,7,policy council
+PC15,neg,8,student
+PC15,neg,9,module
+PC15,neg,10,research innovation
+PC15,neg,11,council
+PC15,neg,12,policy
+PC15,neg,13,content
+PC15,neg,14,tools
+PC15,neg,15,000 000
+PC15,neg,16,section
+PC15,neg,17,risks
+PC15,neg,18,use ai
+PC15,neg,19,science research
+PC15,neg,20,community
+PC15,neg,21,digital
+PC15,neg,22,shall
+PC15,neg,23,generative
+PC15,neg,24,act
+PC15,neg,25,skills
+PC15,neg,26,digital skills
+PC15,neg,27,instructional
+PC15,neg,28,privacy
+PC15,neg,29,pages
+PC15,neg,30,evidence
+PC16,pos,1,data
+PC16,pos,2,common
+PC16,pos,3,sex
+PC16,pos,4,operation
+PC16,pos,5,case
+PC16,pos,6,check data
+PC16,pos,7,check
+PC16,pos,8,data design
+PC16,pos,9,data set
+PC16,pos,10,coverage
+PC16,pos,11,aisl0
+PC16,pos,12,test
+PC16,pos,13,implementation operation
+PC16,pos,14,subversive
+PC16,pos,15,range
+PC16,pos,16,set coverage
+PC16,pos,17,deterioration
+PC16,pos,18,factors
+PC16,pos,19,sufficiency
+PC16,pos,20,use case
+PC16,pos,21,model
+PC16,pos,22,design
+PC16,pos,23,analysis
+PC16,pos,24,maintaining
+PC16,pos,25,maintaining quality
+PC16,pos,26,aipl2
+PC16,pos,27,quality operation
+PC16,pos,28,accuracy
+PC16,pos,29,lv1
+PC16,pos,30,aipl1
+PC16,neg,1,external
+PC16,neg,2,external quality
+PC16,neg,3,quality
+PC16,neg,4,safety
+PC16,neg,5,machine learning
+PC16,neg,6,learning elements
+PC16,neg,7,elements
+PC16,neg,8,ai
+PC16,neg,9,quality use
+PC16,neg,10,machine
+PC16,neg,11,reliability
+PC16,neg,12,learning
+PC16,neg,13,guideline
+PC16,neg,14,setting
+PC16,neg,15,education
+PC16,neg,16,safety related
+PC16,neg,17,systems
+PC16,neg,18,site
+PC16,neg,19,external safety
+PC16,neg,20,guidelines
+PC16,neg,21,quality assurance
+PC16,neg,22,assurance
+PC16,neg,23,evaluation
+PC16,neg,24,development
+PC16,neg,25,https
+PC16,neg,26,learning based
+PC16,neg,27,review
+PC16,neg,28,related systems
+PC16,neg,29,items
+PC16,neg,30,intelligence
+PC17,pos,1,malta
+PC17,pos,2,education youth
+PC17,pos,3,youth sports
+PC17,pos,4,sports
+PC17,pos,5,ai
+PC17,pos,6,youth
+PC17,pos,7,strategy
+PC17,pos,8,digital
+PC17,pos,9,31 12
+PC17,pos,10,digital technologies
+PC17,pos,11,31
+PC17,pos,12,state budget
+PC17,pos,13,budget
+PC17,pos,14,ministry education
+PC17,pos,15,quality
+PC17,pos,16,12
+PC17,pos,17,vision
+PC17,pos,18,launchpad
+PC17,pos,19,ministry
+PC17,pos,20,malta ai
+PC17,pos,21,ultimate ai
+PC17,pos,22,ultimate
+PC17,pos,23,pages
+PC17,pos,24,ai launchpad
+PC17,pos,25,strategy vision
+PC17,pos,26,op
+PC17,pos,27,intelligence malta
+PC17,pos,28,vision artificial
+PC17,pos,29,malta ultimate
+PC17,pos,30,state
+PC17,neg,1,training
+PC17,neg,2,smart
+PC17,neg,3,design engineering
+PC17,neg,4,physical systems
+PC17,neg,5,cyber physical
+PC17,neg,6,energy design
+PC17,neg,7,future energy
+PC17,neg,8,engineering
+PC17,neg,9,learning
+PC17,neg,10,smart technologies
+PC17,neg,11,cyber
+PC17,neg,12,systems
+PC17,neg,13,physical
+PC17,neg,14,technologies artificial
+PC17,neg,15,design
+PC17,neg,16,intelligence
+PC17,neg,17,future
+PC17,neg,18,artificial
+PC17,neg,19,artificial intelligence
+PC17,neg,20,energy
+PC17,neg,21,integration cyber
+PC17,neg,22,integration
+PC17,neg,23,intelligence integration
+PC17,neg,24,systems future
+PC17,neg,25,information ministry
+PC17,neg,26,students
+PC17,neg,27,generative
+PC17,neg,28,educational
+PC17,neg,29,scientific
+PC17,neg,30,generative ai
+PC18,pos,1,education
+PC18,pos,2,learning
+PC18,pos,3,malta
+PC18,pos,4,https
+PC18,pos,5,project
+PC18,pos,6,internships
+PC18,pos,7,org
+PC18,pos,8,10
+PC18,pos,9,higher education
+PC18,pos,10,higher
+PC18,pos,11,www
+PC18,pos,12,programme
+PC18,pos,13,doi
+PC18,pos,14,smart education
+PC18,pos,15,technology
+PC18,pos,16,stem
+PC18,pos,17,2023
+PC18,pos,18,2019
+PC18,pos,19,https www
+PC18,pos,20,virtual
+PC18,pos,21,training
+PC18,pos,22,education training
+PC18,pos,23,online
+PC18,pos,24,process
+PC18,pos,25,doi org
+PC18,pos,26,org 10
+PC18,pos,27,projects
+PC18,pos,28,education schools
+PC18,pos,29,teachers
+PC18,pos,30,university
+PC18,neg,1,ministry
+PC18,neg,2,generative
+PC18,neg,3,ministry education
+PC18,neg,4,digital skills
+PC18,neg,5,generative ai
+PC18,neg,6,design engineering
+PC18,neg,7,physical systems
+PC18,neg,8,cyber physical
+PC18,neg,9,energy design
+PC18,neg,10,future energy
+PC18,neg,11,smart technologies
+PC18,neg,12,technologies artificial
+PC18,neg,13,cyber
+PC18,neg,14,energy
+PC18,neg,15,sports
+PC18,neg,16,use
+PC18,neg,17,education youth
+PC18,neg,18,youth sports
+PC18,neg,19,physical
+PC18,neg,20,integration cyber
+PC18,neg,21,youth
+PC18,neg,22,information ministry
+PC18,neg,23,ai
+PC18,neg,24,systems future
+PC18,neg,25,skills
+PC18,neg,26,intelligence integration
+PC18,neg,27,31 12
+PC18,neg,28,engineering
+PC18,neg,29,education science
+PC18,neg,30,integration
+PC19,pos,1,generative
+PC19,pos,2,generative ai
+PC19,pos,3,australian
+PC19,pos,4,schools
+PC19,pos,5,ai tools
+PC19,pos,6,digital
+PC19,pos,7,use generative
+PC19,pos,8,tools
+PC19,pos,9,framework
+PC19,pos,10,intelligence schools
+PC19,pos,11,australian framework
+PC19,pos,12,learning
+PC19,pos,13,generative artificial
+PC19,pos,14,framework generative
+PC19,pos,15,consultation
+PC19,pos,16,artificial
+PC19,pos,17,https
+PC19,pos,18,intelligence
+PC19,pos,19,artificial intelligence
+PC19,pos,20,government
+PC19,pos,21,used
+PC19,pos,22,principle
+PC19,pos,23,brussels
+PC19,pos,24,consultation paper
+PC19,pos,25,principle aims
+PC19,pos,26,education
+PC19,pos,27,schools consultation
+PC19,pos,28,human
+PC19,pos,29,paper
+PC19,pos,30,stem
+PC19,neg,1,training
+PC19,neg,2,educational
+PC19,neg,3,leaders
+PC19,neg,4,educational leaders
+PC19,neg,5,project
+PC19,neg,6,france
+PC19,neg,7,ami
+PC19,neg,8,module
+PC19,neg,9,cma
+PC19,neg,10,educators
+PC19,neg,11,projects
+PC19,neg,12,professional
+PC19,neg,13,france 2030
+PC19,neg,14,future
+PC19,neg,15,ami cma
+PC19,neg,16,ministry education
+PC19,neg,17,ministry
+PC19,neg,18,expressions
+PC19,neg,19,risks
+PC19,neg,20,skills
+PC19,neg,21,use ai
+PC19,neg,22,2030
+PC19,neg,23,needs
+PC19,neg,24,future ami
+PC19,neg,25,careers future
+PC19,neg,26,research
+PC19,neg,27,task force
+PC19,neg,28,careers
+PC19,neg,29,expressions skills
+PC19,neg,30,evidence
+PC20,pos,1,training
+PC20,pos,2,generative
+PC20,pos,3,generative ai
+PC20,pos,4,project
+PC20,pos,5,schools
+PC20,pos,6,projects
+PC20,pos,7,programme
+PC20,pos,8,france
+PC20,pos,9,ami
+PC20,pos,10,cma
+PC20,pos,11,france 2030
+PC20,pos,12,smart education
+PC20,pos,13,ami cma
+PC20,pos,14,ai tools
+PC20,pos,15,skills
+PC20,pos,16,expressions
+PC20,pos,17,professional
+PC20,pos,18,2030
+PC20,pos,19,education schools
+PC20,pos,20,future ami
+PC20,pos,21,careers
+PC20,pos,22,careers future
+PC20,pos,23,anr
+PC20,pos,24,tools
+PC20,pos,25,expressions skills
+PC20,pos,26,skills careers
+PC20,pos,27,australian
+PC20,pos,28,use generative
+PC20,pos,29,support
+PC20,pos,30,education youth
+PC20,neg,1,digital
+PC20,neg,2,educational
+PC20,neg,3,government
+PC20,neg,4,brussels
+PC20,neg,5,https
+PC20,neg,6,educational leaders
+PC20,neg,7,educators
+PC20,neg,8,leaders
+PC20,neg,9,digital transformation
+PC20,neg,10,module
+PC20,neg,11,european
+PC20,neg,12,eu
+PC20,neg,13,cyber
+PC20,neg,14,org
+PC20,neg,15,doi
+PC20,neg,16,technologies
+PC20,neg,17,transformation
+PC20,neg,18,technology
+PC20,neg,19,10
+PC20,neg,20,design engineering
+PC20,neg,21,learning
+PC20,neg,22,physical systems
+PC20,neg,23,cyber physical
+PC20,neg,24,policy
+PC20,neg,25,physical
+PC20,neg,26,energy design
+PC20,neg,27,future energy
+PC20,neg,28,region
+PC20,neg,29,smart technologies
+PC20,neg,30,design
+PC21,pos,1,test
+PC21,pos,2,safety
+PC21,pos,3,vehicle
+PC21,pos,4,machine learning
+PC21,pos,5,automated
+PC21,pos,6,learning
+PC21,pos,7,test driver
+PC21,pos,8,systems
+PC21,pos,9,driver
+PC21,pos,10,machine
+PC21,pos,11,test manager
+PC21,pos,12,vehicles
+PC21,pos,13,roads
+PC21,pos,14,traffic
+PC21,pos,15,sil
+PC21,pos,16,manager
+PC21,pos,17,testing
+PC21,pos,18,driver test
+PC21,pos,19,tested
+PC21,pos,20,code practice
+PC21,pos,21,plant
+PC21,pos,22,face
+PC21,pos,23,elements
+PC21,pos,24,learning elements
+PC21,pos,25,reliability
+PC21,pos,26,code
+PC21,pos,27,tests
+PC21,pos,28,safety related
+PC21,pos,29,driving
+PC21,pos,30,road
+PC21,neg,1,quality
+PC21,neg,2,external quality
+PC21,neg,3,education
+PC21,neg,4,quality use
+PC21,neg,5,external
+PC21,neg,6,common
+PC21,neg,7,set
+PC21,neg,8,programme
+PC21,neg,9,internal quality
+PC21,neg,10,use
+PC21,neg,11,internal
+PC21,neg,12,smart education
+PC21,neg,13,smart
+PC21,neg,14,brussels
+PC21,neg,15,041e
+PC21,neg,16,021e
+PC21,neg,17,1e 061e
+PC21,neg,18,061e
+PC21,neg,19,051e 041e
+PC21,neg,20,061e 051e
+PC21,neg,21,051e
+PC21,neg,22,031e 021e
+PC21,neg,23,031e
+PC21,neg,24,021e 01
+PC21,neg,25,041e 031e
+PC21,neg,26,schools
+PC21,neg,27,sex
+PC21,neg,28,level
+PC21,neg,29,use external
+PC21,neg,30,000 000
+PC22,pos,1,test
+PC22,pos,2,programme
+PC22,pos,3,smart
+PC22,pos,4,smart education
+PC22,pos,5,schools
+PC22,pos,6,vehicle
+PC22,pos,7,quality
+PC22,pos,8,malta
+PC22,pos,9,education schools
+PC22,pos,10,automated
+PC22,pos,11,external quality
+PC22,pos,12,external
+PC22,pos,13,test driver
+PC22,pos,14,driver
+PC22,pos,15,manager
+PC22,pos,16,test manager
+PC22,pos,17,imec
+PC22,pos,18,vehicles
+PC22,pos,19,testing
+PC22,pos,20,schools programme
+PC22,pos,21,teachers
+PC22,pos,22,traffic
+PC22,pos,23,roads
+PC22,pos,24,use
+PC22,pos,25,quality use
+PC22,pos,26,driver test
+PC22,pos,27,driven
+PC22,pos,28,code practice
+PC22,pos,29,teacher driven
+PC22,pos,30,digital
+PC22,neg,1,learning
+PC22,neg,2,ai
+PC22,neg,3,training
+PC22,neg,4,machine
+PC22,neg,5,https
+PC22,neg,6,sports
+PC22,neg,7,machine learning
+PC22,neg,8,education youth
+PC22,neg,9,youth sports
+PC22,neg,10,youth
+PC22,neg,11,org
+PC22,neg,12,2020
+PC22,neg,13,31 12
+PC22,neg,14,2023
+PC22,neg,15,ministry education
+PC22,neg,16,doi
+PC22,neg,17,ministry
+PC22,neg,18,31
+PC22,neg,19,2019
+PC22,neg,20,common
+PC22,neg,21,12
+PC22,neg,22,methodological
+PC22,neg,23,recommendations
+PC22,neg,24,brussels
+PC22,neg,25,intelligence
+PC22,neg,26,state budget
+PC22,neg,27,org 10
+PC22,neg,28,doi org
+PC22,neg,29,google
+PC22,neg,30,skills
+PC23,pos,1,quality
+PC23,pos,2,https
+PC23,pos,3,test
+PC23,pos,4,external quality
+PC23,pos,5,org
+PC23,pos,6,face
+PC23,pos,7,10
+PC23,pos,8,external
+PC23,pos,9,2020
+PC23,pos,10,quality use
+PC23,pos,11,masks
+PC23,pos,12,doi
+PC23,pos,13,2023
+PC23,pos,14,2019
+PC23,pos,15,12
+PC23,pos,16,generative
+PC23,pos,17,doi org
+PC23,pos,18,org 10
+PC23,pos,19,generative ai
+PC23,pos,20,www
+PC23,pos,21,use
+PC23,pos,22,https doi
+PC23,pos,23,digital skills
+PC23,pos,24,sports
+PC23,pos,25,education youth
+PC23,pos,26,https www
+PC23,pos,27,youth sports
+PC23,pos,28,nist
+PC23,pos,29,youth
+PC23,pos,30,ministry education
+PC23,neg,1,learning
+PC23,neg,2,machine learning
+PC23,neg,3,safety
+PC23,neg,4,machine
+PC23,neg,5,000 000
+PC23,neg,6,malta
+PC23,neg,7,1e 061e
+PC23,neg,8,031e
+PC23,neg,9,021e
+PC23,neg,10,021e 01
+PC23,neg,11,031e 021e
+PC23,neg,12,051e 041e
+PC23,neg,13,061e
+PC23,neg,14,061e 051e
+PC23,neg,15,041e
+PC23,neg,16,041e 031e
+PC23,neg,17,051e
+PC23,neg,18,sil
+PC23,neg,19,technologies
+PC23,neg,20,process
+PC23,neg,21,digital
+PC23,neg,22,learning elements
+PC23,neg,23,1e
+PC23,neg,24,digital technologies
+PC23,neg,25,elements
+PC23,neg,26,01 1e
+PC23,neg,27,plant
+PC23,neg,28,020 050
+PC23,neg,29,200 500
+PC23,neg,30,050 100
+PC24,pos,1,programme
+PC24,pos,2,smart education
+PC24,pos,3,smart
+PC24,pos,4,education schools
+PC24,pos,5,schools
+PC24,pos,6,safety
+PC24,pos,7,digital skills
+PC24,pos,8,imec
+PC24,pos,9,machine learning
+PC24,pos,10,schools programme
+PC24,pos,11,driven
+PC24,pos,12,research
+PC24,pos,13,teacher driven
+PC24,pos,14,fosters teacher
+PC24,pos,15,programme fosters
+PC24,pos,16,driven technological
+PC24,pos,17,technological innovation
+PC24,pos,18,fosters
+PC24,pos,19,team
+PC24,pos,20,plant
+PC24,pos,21,research programme
+PC24,pos,22,edtech
+PC24,pos,23,technological
+PC24,pos,24,machine
+PC24,pos,25,itec
+PC24,pos,26,reliability
+PC24,pos,27,sil
+PC24,pos,28,data
+PC24,pos,29,module
+PC24,pos,30,education research
+PC24,neg,1,quality
+PC24,neg,2,test
+PC24,neg,3,training
+PC24,neg,4,education
+PC24,neg,5,external quality
+PC24,neg,6,higher education
+PC24,neg,7,higher
+PC24,neg,8,vehicle
+PC24,neg,9,digital education
+PC24,neg,10,external
+PC24,neg,11,internships
+PC24,neg,12,education training
+PC24,neg,13,automated
+PC24,neg,14,quality use
+PC24,neg,15,ami
+PC24,neg,16,france
+PC24,neg,17,cma
+PC24,neg,18,test driver
+PC24,neg,19,driver
+PC24,neg,20,technologies
+PC24,neg,21,test manager
+PC24,neg,22,european
+PC24,neg,23,professional
+PC24,neg,24,ami cma
+PC24,neg,25,keywords
+PC24,neg,26,vehicles
+PC24,neg,27,2030
+PC24,neg,28,000 000
+PC24,neg,29,france 2030
+PC24,neg,30,teaching
+PC25,pos,1,face
+PC25,pos,2,masks
+PC25,pos,3,algorithms
+PC25,pos,4,images
+PC25,pos,5,malta
+PC25,pos,6,recognition
+PC25,pos,7,technologies
+PC25,pos,8,fnmr
+PC25,pos,9,face recognition
+PC25,pos,10,digital technologies
+PC25,pos,11,false
+PC25,pos,12,nist
+PC25,pos,13,students
+PC25,pos,14,internships
+PC25,pos,15,frvt
+PC25,pos,16,rate
+PC25,pos,17,algorithm
+PC25,pos,18,match
+PC25,pos,19,image
+PC25,pos,20,covid
+PC25,pos,21,use
+PC25,pos,22,report
+PC25,pos,23,using
+PC25,pos,24,fmr
+PC25,pos,25,digital
+PC25,pos,26,used
+PC25,pos,27,unmasked
+PC25,pos,28,match rate
+PC25,pos,29,nstda
+PC25,pos,30,masked
+PC25,neg,1,test
+PC25,neg,2,https
+PC25,neg,3,021e
+PC25,neg,4,021e 01
+PC25,neg,5,1e 061e
+PC25,neg,6,061e
+PC25,neg,7,051e
+PC25,neg,8,041e
+PC25,neg,9,031e
+PC25,neg,10,041e 031e
+PC25,neg,11,061e 051e
+PC25,neg,12,051e 041e
+PC25,neg,13,031e 021e
+PC25,neg,14,vehicle
+PC25,neg,15,000 000
+PC25,neg,16,www
+PC25,neg,17,2023
+PC25,neg,18,education
+PC25,neg,19,01
+PC25,neg,20,research
+PC25,neg,21,01 1e
+PC25,neg,22,020 050
+PC25,neg,23,200 500
+PC25,neg,24,1e
+PC25,neg,25,050 100
+PC25,neg,26,https www
+PC25,neg,27,002 005
+PC25,neg,28,100 200
+PC25,neg,29,org
+PC25,neg,30,050
+PC26,pos,1,malta
+PC26,pos,2,leaders
+PC26,pos,3,module
+PC26,pos,4,school
+PC26,pos,5,educational leaders
+PC26,pos,6,generative
+PC26,pos,7,australian
+PC26,pos,8,community
+PC26,pos,9,training
+PC26,pos,10,generative ai
+PC26,pos,11,stem
+PC26,pos,12,educators
+PC26,pos,13,privacy
+PC26,pos,14,task force
+PC26,pos,15,district
+PC26,pos,16,risks
+PC26,pos,17,2030
+PC26,pos,18,strategy
+PC26,pos,19,safety
+PC26,pos,20,https
+PC26,pos,21,france
+PC26,pos,22,force
+PC26,pos,23,ami
+PC26,pos,24,machine learning
+PC26,pos,25,cma
+PC26,pos,26,leader
+PC26,pos,27,technology
+PC26,pos,28,security
+PC26,pos,29,france 2030
+PC26,pos,30,vision
+PC26,neg,1,ai
+PC26,neg,2,research
+PC26,neg,3,programme
+PC26,neg,4,smart education
+PC26,neg,5,recommendations
+PC26,neg,6,quality
+PC26,neg,7,methodological recommendations
+PC26,neg,8,methodological
+PC26,neg,9,instructional methodological
+PC26,neg,10,recommendations ai
+PC26,neg,11,zzso
+PC26,neg,12,ai zzso
+PC26,neg,13,test
+PC26,neg,14,ai systems
+PC26,neg,15,instructional
+PC26,neg,16,smart
+PC26,neg,17,education schools
+PC26,neg,18,text
+PC26,neg,19,noticeable
+PC26,neg,20,imec
+PC26,neg,21,education
+PC26,neg,22,restrictions
+PC26,neg,23,scientific
+PC26,neg,24,schools programme
+PC26,neg,25,brussels
+PC26,neg,26,digital skills
+PC26,neg,27,analysis
+PC26,neg,28,zzso machine
+PC26,neg,29,google instructional
+PC26,neg,30,driven
+PC27,pos,1,internships
+PC27,pos,2,education
+PC27,pos,3,common
+PC27,pos,4,reliability
+PC27,pos,5,higher
+PC27,pos,6,implementation
+PC27,pos,7,internship
+PC27,pos,8,higher education
+PC27,pos,9,internal
+PC27,pos,10,operation
+PC27,pos,11,generative
+PC27,pos,12,ai
+PC27,pos,13,generative ai
+PC27,pos,14,guidelines
+PC27,pos,15,implementation operation
+PC27,pos,16,safety
+PC27,pos,17,virtual internships
+PC27,pos,18,internal quality
+PC27,pos,19,sex
+PC27,pos,20,quality
+PC27,pos,21,training
+PC27,pos,22,virtual
+PC27,pos,23,plant safety
+PC27,pos,24,plant
+PC27,pos,25,ministry
+PC27,pos,26,face
+PC27,pos,27,education training
+PC27,pos,28,business
+PC27,pos,29,management
+PC27,pos,30,quality operation
+PC27,neg,1,use
+PC27,neg,2,digital technologies
+PC27,neg,3,https
+PC27,neg,4,recommendations
+PC27,neg,5,data
+PC27,neg,6,use case
+PC27,neg,7,instructional
+PC27,neg,8,methodological recommendations
+PC27,neg,9,methodological
+PC27,neg,10,text
+PC27,neg,11,instructional methodological
+PC27,neg,12,recommendations ai
+PC27,neg,13,zzso
+PC27,neg,14,ai zzso
+PC27,neg,15,thickness
+PC27,neg,16,case
+PC27,neg,17,technologies
+PC27,neg,18,quality use
+PC27,neg,19,school
+PC27,neg,20,noticeable
+PC27,neg,21,abnormality
+PC27,neg,22,set
+PC27,neg,23,anr
+PC27,neg,24,maintenance
+PC27,neg,25,using
+PC27,neg,26,projects
+PC27,neg,27,ai systems
+PC27,neg,28,external quality
+PC27,neg,29,stem
+PC27,neg,30,visual
+PC28,pos,1,internships
+PC28,pos,2,virtual
+PC28,pos,3,students
+PC28,pos,4,internship
+PC28,pos,5,virtual internships
+PC28,pos,6,malta
+PC28,pos,7,pilot
+PC28,pos,8,business
+PC28,pos,9,implementation
+PC28,pos,10,project
+PC28,pos,11,digital skills
+PC28,pos,12,model
+PC28,pos,13,activities
+PC28,pos,14,stem
+PC28,pos,15,ict
+PC28,pos,16,student
+PC28,pos,17,dimps
+PC28,pos,18,developed
+PC28,pos,19,australian
+PC28,pos,20,results
+PC28,pos,21,instructional
+PC28,pos,22,transnational
+PC28,pos,23,tourism
+PC28,pos,24,educational
+PC28,pos,25,companies
+PC28,pos,26,quality
+PC28,pos,27,academic
+PC28,pos,28,implementation virtual
+PC28,pos,29,text
+PC28,pos,30,mathematics
+PC28,neg,1,education
+PC28,neg,2,training
+PC28,neg,3,education training
+PC28,neg,4,digital education
+PC28,neg,5,european
+PC28,neg,6,ai
+PC28,neg,7,eu
+PC28,neg,8,face
+PC28,neg,9,ai education
+PC28,neg,10,aid
+PC28,neg,11,member states
+PC28,neg,12,masks
+PC28,neg,13,states
+PC28,neg,14,member
+PC28,neg,15,regulation
+PC28,neg,16,council
+PC28,neg,17,article
+PC28,neg,18,commission
+PC28,neg,19,policy
+PC28,neg,20,safety
+PC28,neg,21,systems
+PC28,neg,22,educators
+PC28,neg,23,law
+PC28,neg,24,parliament
+PC28,neg,25,case
+PC28,neg,26,algorithms
+PC28,neg,27,european parliament
+PC28,neg,28,future
+PC28,neg,29,brussels
+PC28,neg,30,ami
+PC29,pos,1,internships
+PC29,pos,2,education
+PC29,pos,3,virtual
+PC29,pos,4,internship
+PC29,pos,5,virtual internships
+PC29,pos,6,higher
+PC29,pos,7,higher education
+PC29,pos,8,use case
+PC29,pos,9,european
+PC29,pos,10,table
+PC29,pos,11,thickness
+PC29,pos,12,maintenance
+PC29,pos,13,use
+PC29,pos,14,от
+PC29,pos,15,programme
+PC29,pos,16,abnormality
+PC29,pos,17,case
+PC29,pos,18,systems
+PC29,pos,19,set
+PC29,pos,20,eu
+PC29,pos,21,deterioration
+PC29,pos,22,learning element
+PC29,pos,23,element
+PC29,pos,24,bg
+PC29,pos,25,wall
+PC29,pos,26,output
+PC29,pos,27,quality use
+PC29,pos,28,12
+PC29,pos,29,visual
+PC29,pos,30,figure
+PC29,neg,1,stem
+PC29,neg,2,digital technologies
+PC29,neg,3,australian
+PC29,neg,4,mathematics
+PC29,neg,5,research
+PC29,neg,6,technologies
+PC29,neg,7,teaching
+PC29,neg,8,early learning
+PC29,neg,9,learning stem
+PC29,neg,10,stem initiatives
+PC29,neg,11,science
+PC29,neg,12,school
+PC29,neg,13,quality
+PC29,neg,14,chair
+PC29,neg,15,common
+PC29,neg,16,internal quality
+PC29,neg,17,internal
+PC29,neg,18,science technology
+PC29,neg,19,school early
+PC29,neg,20,scientific
+PC29,neg,21,teachers
+PC29,neg,22,initiatives
+PC29,neg,23,reliability
+PC29,neg,24,curriculum
+PC29,neg,25,guidelines
+PC29,neg,26,anr
+PC29,neg,27,australian curriculum
+PC29,neg,28,chairs
+PC29,neg,29,technology
+PC29,neg,30,face
+PC30,pos,1,training
+PC30,pos,2,learning
+PC30,pos,3,stem
+PC30,pos,4,australian
+PC30,pos,5,malta
+PC30,pos,6,ministry
+PC30,pos,7,vocational training
+PC30,pos,8,mathematics
+PC30,pos,9,vocational
+PC30,pos,10,test
+PC30,pos,11,education
+PC30,pos,12,science
+PC30,pos,13,learning stem
+PC30,pos,14,early learning
+PC30,pos,15,job
+PC30,pos,16,stem initiatives
+PC30,pos,17,early
+PC30,pos,18,ministry education
+PC30,pos,19,digital skills
+PC30,pos,20,employment
+PC30,pos,21,sports
+PC30,pos,22,government
+PC30,pos,23,youth
+PC30,pos,24,model
+PC30,pos,25,courses
+PC30,pos,26,skills training
+PC30,pos,27,job seekers
+PC30,pos,28,education youth
+PC30,pos,29,initiatives
+PC30,pos,30,school early
+PC30,neg,1,anr
+PC30,neg,2,european
+PC30,neg,3,projects
+PC30,neg,4,digital
+PC30,neg,5,project
+PC30,neg,6,reliability
+PC30,neg,7,eu
+PC30,neg,8,data
+PC30,neg,9,scientific
+PC30,neg,10,fr
+PC30,neg,11,chairs
+PC30,neg,12,digital education
+PC30,neg,13,evaluation
+PC30,neg,14,safety
+PC30,neg,15,guidelines
+PC30,neg,16,information
+PC30,neg,17,digital technologies
+PC30,neg,18,plant
+PC30,neg,19,france
+PC30,neg,20,internships
+PC30,neg,21,commission
+PC30,neg,22,submission
+PC30,neg,23,technologies
+PC30,neg,24,development
+PC30,neg,25,site
+PC30,neg,26,union
+PC30,neg,27,proposal
+PC30,neg,28,europe
+PC30,neg,29,internal quality
+PC30,neg,30,research
+PC31,pos,1,research
+PC31,pos,2,scientific
+PC31,pos,3,chair
+PC31,pos,4,internships
+PC31,pos,5,ai
+PC31,pos,6,case
+PC31,pos,7,anr
+PC31,pos,8,use case
+PC31,pos,9,stem
+PC31,pos,10,chairs
+PC31,pos,11,thickness
+PC31,pos,12,abnormality
+PC31,pos,13,equipment
+PC31,pos,14,table
+PC31,pos,15,maintenance
+PC31,pos,16,diagnosis
+PC31,pos,17,deterioration
+PC31,pos,18,activities
+PC31,pos,19,wall
+PC31,pos,20,science
+PC31,pos,21,learning element
+PC31,pos,22,use
+PC31,pos,23,education
+PC31,pos,24,element
+PC31,pos,25,wall thickness
+PC31,pos,26,quality use
+PC31,pos,27,output
+PC31,pos,28,related
+PC31,pos,29,pipe
+PC31,pos,30,aisl
+PC31,neg,1,educational
+PC31,neg,2,nstda
+PC31,neg,3,common
+PC31,neg,4,malta
+PC31,neg,5,artificial intelligence
+PC31,neg,6,artificial
+PC31,neg,7,instructional
+PC31,neg,8,intelligence
+PC31,neg,9,internal
+PC31,neg,10,text
+PC31,neg,11,nrct
+PC31,neg,12,internal quality
+PC31,neg,13,programme
+PC31,neg,14,recommendations
+PC31,neg,15,от
+PC31,neg,16,shall
+PC31,neg,17,methodological recommendations
+PC31,neg,18,instructional methodological
+PC31,neg,19,quality
+PC31,neg,20,implementation operation
+PC31,neg,21,recommendations ai
+PC31,neg,22,zzso
+PC31,neg,23,ai zzso
+PC31,neg,24,sex
+PC31,neg,25,noticeable
+PC31,neg,26,operation
+PC31,neg,27,check
+PC31,neg,28,council
+PC31,neg,29,ai systems
+PC31,neg,30,methodological
+PC32,pos,1,от
+PC32,pos,2,се
+PC32,pos,3,са
+PC32,pos,4,stem
+PC32,pos,5,не
+PC32,pos,6,че
+PC32,pos,7,унсс
+PC32,pos,8,mathematics
+PC32,pos,9,качеството
+PC32,pos,10,показатели
+PC32,pos,11,училища
+PC32,pos,12,australian
+PC32,pos,13,иио
+PC32,pos,14,early learning
+PC32,pos,15,learning stem
+PC32,pos,16,stem initiatives
+PC32,pos,17,ще
+PC32,pos,18,reliability
+PC32,pos,19,bg
+PC32,pos,20,science
+PC32,pos,21,или
+PC32,pos,22,на качеството
+PC32,pos,23,plant
+PC32,pos,24,оценка
+PC32,pos,25,образование
+PC32,pos,26,един
+PC32,pos,27,при
+PC32,pos,28,early
+PC32,pos,29,safety
+PC32,pos,30,internships
+PC32,neg,1,обучение
+PC32,neg,2,технологии
+PC32,neg,3,ресурси
+PC32,neg,4,използване
+PC32,neg,5,да
+PC32,neg,6,използване на
+PC32,neg,7,учебни
+PC32,neg,8,дигитални
+PC32,neg,9,образователни
+PC32,neg,10,интерактивни
+PC32,neg,11,educational
+PC32,neg,12,инструменти
+PC32,neg,13,изкуства
+PC32,neg,14,процес
+PC32,neg,15,нови
+PC32,neg,16,създаване
+PC32,neg,17,обучението
+PC32,neg,18,на дигитални
+PC32,neg,19,по изкуства
+PC32,neg,20,създаване на
+PC32,neg,21,възможности
+PC32,neg,22,преподавателите
+PC32,neg,23,мултимедиини
+PC32,neg,24,могат
+PC32,neg,25,дистанционно обучение
+PC32,neg,26,учебни програми
+PC32,neg,27,могат да
+PC32,neg,28,дистанционно
+PC32,neg,29,иновативни
+PC32,neg,30,за обучение
+PC33,pos,1,reliability
+PC33,pos,2,nstda
+PC33,pos,3,safety
+PC33,pos,4,plant
+PC33,pos,5,plant safety
+PC33,pos,6,nrct
+PC33,pos,7,guideline
+PC33,pos,8,ai
+PC33,pos,9,обучение
+PC33,pos,10,damage
+PC33,pos,11,use
+PC33,pos,12,digital technologies
+PC33,pos,13,technologies
+PC33,pos,14,guidelines
+PC33,pos,15,https
+PC33,pos,16,thickness
+PC33,pos,17,reliability evaluation
+PC33,pos,18,bg
+PC33,pos,19,reliability assessment
+PC33,pos,20,section
+PC33,pos,21,teachers
+PC33,pos,22,case
+PC33,pos,23,director
+PC33,pos,24,training
+PC33,pos,25,diagnosis
+PC33,pos,26,aisl
+PC33,pos,27,executive
+PC33,pos,28,field
+PC33,pos,29,за
+PC33,pos,30,company
+PC33,neg,1,learning
+PC33,neg,2,machine learning
+PC33,neg,3,data
+PC33,neg,4,research
+PC33,neg,5,machine
+PC33,neg,6,learning elements
+PC33,neg,7,elements
+PC33,neg,8,anr
+PC33,neg,9,scientific
+PC33,neg,10,malta
+PC33,neg,11,european
+PC33,neg,12,educational
+PC33,neg,13,от
+PC33,neg,14,chair
+PC33,neg,15,components
+PC33,neg,16,force
+PC33,neg,17,task force
+PC33,neg,18,student
+PC33,neg,19,chairs
+PC33,neg,20,task
+PC33,neg,21,national
+PC33,neg,22,на
+PC33,neg,23,privacy
+PC33,neg,24,digital skills
+PC33,neg,25,ще
+PC33,neg,26,funding
+PC33,neg,27,external
+PC33,neg,28,module
+PC33,neg,29,tools
+PC33,neg,30,systems
+PC34,pos,1,от
+PC34,pos,2,обучение
+PC34,pos,3,по
+PC34,pos,4,са
+PC34,pos,5,студентите
+PC34,pos,6,студенти
+PC34,pos,7,език
+PC34,pos,8,data
+PC34,pos,9,време
+PC34,pos,10,български
+PC34,pos,11,обучението
+PC34,pos,12,онлаин
+PC34,pos,13,обучението по
+PC34,pos,14,education
+PC34,pos,15,български език
+PC34,pos,16,дистанционно обучение
+PC34,pos,17,се
+PC34,pos,18,дистанционно
+PC34,pos,19,по време
+PC34,pos,20,време на
+PC34,pos,21,2020
+PC34,pos,22,по български
+PC34,pos,23,използване на
+PC34,pos,24,стаи
+PC34,pos,25,учениците
+PC34,pos,26,използване
+PC34,pos,27,стая
+PC34,pos,28,виртуална
+PC34,pos,29,research
+PC34,pos,30,expenses
+PC34,neg,1,да
+PC34,neg,2,на
+PC34,neg,3,качеството
+PC34,neg,4,operation
+PC34,neg,5,образование
+PC34,neg,6,на качеството
+PC34,neg,7,качеството на
+PC34,neg,8,intelligence
+PC34,neg,9,nstda
+PC34,neg,10,artificial
+PC34,neg,11,унсс
+PC34,neg,12,висшите
+PC34,neg,13,internships
+PC34,neg,14,трябва
+PC34,neg,15,висшите училища
+PC34,neg,16,artificial intelligence
+PC34,neg,17,трябва да
+PC34,neg,18,висшето
+PC34,neg,19,висшето образование
+PC34,neg,20,училища
+PC34,neg,21,educational
+PC34,neg,22,на висшето
+PC34,neg,23,implementation
+PC34,neg,24,дигиталната
+PC34,neg,25,implementation operation
+PC34,neg,26,model
+PC34,neg,27,управление
+PC34,neg,28,nrct
+PC34,neg,29,leaders
+PC34,neg,30,бъде
+PC35,pos,1,educational
+PC35,pos,2,operation
+PC35,pos,3,transformation
+PC35,pos,4,от
+PC35,pos,5,digital transformation
+PC35,pos,6,implementation operation
+PC35,pos,7,research
+PC35,pos,8,process
+PC35,pos,9,generative
+PC35,pos,10,common
+PC35,pos,11,maintaining quality
+PC35,pos,12,maintaining
+PC35,pos,13,generative ai
+PC35,pos,14,sex
+PC35,pos,15,quality operation
+PC35,pos,16,leaders
+PC35,pos,17,educational leaders
+PC35,pos,18,keywords
+PC35,pos,19,technologies
+PC35,pos,20,scientific
+PC35,pos,21,abstract
+PC35,pos,22,university
+PC35,pos,23,educational process
+PC35,pos,24,chairs
+PC35,pos,25,sil
+PC35,pos,26,equipment
+PC35,pos,27,chair
+PC35,pos,28,malta
+PC35,pos,29,strategy
+PC35,pos,30,implementation
+PC35,neg,1,data
+PC35,neg,2,internships
+PC35,neg,3,stem
+PC35,neg,4,education
+PC35,neg,5,eu
+PC35,neg,6,digital education
+PC35,neg,7,european
+PC35,neg,8,mathematics
+PC35,neg,9,education training
+PC35,neg,10,states
+PC35,neg,11,check data
+PC35,neg,12,internship
+PC35,neg,13,nstda
+PC35,neg,14,stem initiatives
+PC35,neg,15,early learning
+PC35,neg,16,learning stem
+PC35,neg,17,check
+PC35,neg,18,member
+PC35,neg,19,guidelines
+PC35,neg,20,member states
+PC35,neg,21,virtual internships
+PC35,neg,22,initiatives
+PC35,neg,23,project
+PC35,neg,24,australian
+PC35,neg,25,recommendations
+PC35,neg,26,virtual
+PC35,neg,27,privacy
+PC35,neg,28,task force
+PC35,neg,29,coverage
+PC35,neg,30,educators
+PC36,pos,1,european
+PC36,pos,2,operation
+PC36,pos,3,eu
+PC36,pos,4,stem
+PC36,pos,5,internships
+PC36,pos,6,intelligence
+PC36,pos,7,implementation operation
+PC36,pos,8,task force
+PC36,pos,9,artificial
+PC36,pos,10,common
+PC36,pos,11,task
+PC36,pos,12,artificial intelligence
+PC36,pos,13,commission
+PC36,pos,14,union
+PC36,pos,15,implementation
+PC36,pos,16,force
+PC36,pos,17,се
+PC36,pos,18,regulation
+PC36,pos,19,обучение
+PC36,pos,20,australian
+PC36,pos,21,european union
+PC36,pos,22,quality operation
+PC36,pos,23,sex
+PC36,pos,24,maintaining
+PC36,pos,25,maintaining quality
+PC36,pos,26,mathematics
+PC36,pos,27,council
+PC36,pos,28,regulation eu
+PC36,pos,29,студентите
+PC36,pos,30,european parliament
+PC36,neg,1,data
+PC36,neg,2,образование
+PC36,neg,3,education
+PC36,neg,4,digital transformation
+PC36,neg,5,training
+PC36,neg,6,да
+PC36,neg,7,transformation
+PC36,neg,8,information
+PC36,neg,9,public
+PC36,neg,10,malta
+PC36,neg,11,bg
+PC36,neg,12,expenses
+PC36,neg,13,check data
+PC36,neg,14,government
+PC36,neg,15,училища
+PC36,neg,16,costs
+PC36,neg,17,check
+PC36,neg,18,design
+PC36,neg,19,privacy
+PC36,neg,20,process
+PC36,neg,21,висшето
+PC36,neg,22,org
+PC36,neg,23,https
+PC36,neg,24,doi
+PC36,neg,25,2023
+PC36,neg,26,висшето образование
+PC36,neg,27,services
+PC36,neg,28,generative ai
+PC36,neg,29,висшите
+PC36,neg,30,higher education
+PC37,pos,1,nstda
+PC37,pos,2,project
+PC37,pos,3,nrct
+PC37,pos,4,operation
+PC37,pos,5,costs
+PC37,pos,6,expenses
+PC37,pos,7,learning
+PC37,pos,8,public
+PC37,pos,9,ai
+PC37,pos,10,housing
+PC37,pos,11,government
+PC37,pos,12,implementation operation
+PC37,pos,13,director
+PC37,pos,14,common
+PC37,pos,15,digital skills
+PC37,pos,16,nstda executive
+PC37,pos,17,executive
+PC37,pos,18,eligible
+PC37,pos,19,director nstda
+PC37,pos,20,external
+PC37,pos,21,annual
+PC37,pos,22,education
+PC37,pos,23,quality operation
+PC37,pos,24,sex
+PC37,pos,25,corresponding
+PC37,pos,26,implementation
+PC37,pos,27,development
+PC37,pos,28,maintaining
+PC37,pos,29,skills
+PC37,pos,30,maintaining quality
+PC37,neg,1,reliability
+PC37,neg,2,brussels
+PC37,neg,3,guidelines
+PC37,neg,4,plant
+PC37,neg,5,training
+PC37,neg,6,plant safety
+PC37,neg,7,artificial
+PC37,neg,8,artificial intelligence
+PC37,neg,9,ministry
+PC37,neg,10,internships
+PC37,neg,11,data
+PC37,neg,12,за
+PC37,neg,13,transformation
+PC37,neg,14,intelligence
+PC37,neg,15,innovation
+PC37,neg,16,national
+PC37,neg,17,guideline
+PC37,neg,18,school
+PC37,neg,19,technology
+PC37,neg,20,economic
+PC37,neg,21,university
+PC37,neg,22,higher
+PC37,neg,23,field
+PC37,neg,24,science
+PC37,neg,25,higher education
+PC37,neg,26,georgi
+PC37,neg,27,economy
+PC37,neg,28,application
+PC37,neg,29,reliability assessment
+PC37,neg,30,module
+PC38,pos,1,за
+PC38,pos,2,eu
+PC38,pos,3,instructional
+PC38,pos,4,operation
+PC38,pos,5,bg
+PC38,pos,6,tools
+PC38,pos,7,energy
+PC38,pos,8,обучение
+PC38,pos,9,ministry
+PC38,pos,10,https
+PC38,pos,11,instructional core
+PC38,pos,12,www
+PC38,pos,13,да
+PC38,pos,14,education training
+PC38,pos,15,generative ai
+PC38,pos,16,implementation operation
+PC38,pos,17,systems
+PC38,pos,18,plan
+PC38,pos,19,boe
+PC38,pos,20,https www
+PC38,pos,21,cyber
+PC38,pos,22,malta
+PC38,pos,23,government
+PC38,pos,24,generative
+PC38,pos,25,maintaining
+PC38,pos,26,core
+PC38,pos,27,learning
+PC38,pos,28,public
+PC38,pos,29,students
+PC38,pos,30,common
+PC38,neg,1,intelligence
+PC38,neg,2,artificial
+PC38,neg,3,artificial intelligence
+PC38,neg,4,project
+PC38,neg,5,brussels
+PC38,neg,6,data
+PC38,neg,7,school
+PC38,neg,8,по
+PC38,neg,9,task force
+PC38,neg,10,на
+PC38,neg,11,internships
+PC38,neg,12,digital technologies
+PC38,neg,13,force
+PC38,neg,14,revolution
+PC38,neg,15,costs
+PC38,neg,16,course
+PC38,neg,17,technologies
+PC38,neg,18,task
+PC38,neg,19,schools
+PC38,neg,20,intelligence education
+PC38,neg,21,се
+PC38,neg,22,expenses
+PC38,neg,23,digital skills
+PC38,neg,24,evaluation
+PC38,neg,25,от
+PC38,neg,26,law
+PC38,neg,27,article
+PC38,neg,28,district
+PC38,neg,29,check data
+PC38,neg,30,human
+PC39,pos,1,training
+PC39,pos,2,chair
+PC39,pos,3,nstda
+PC39,pos,4,task force
+PC39,pos,5,research
+PC39,pos,6,nrct
+PC39,pos,7,activities
+PC39,pos,8,task
+PC39,pos,9,force
+PC39,pos,10,education training
+PC39,pos,11,section
+PC39,pos,12,образование
+PC39,pos,13,action
+PC39,pos,14,support
+PC39,pos,15,work
+PC39,pos,16,member
+PC39,pos,17,scientific
+PC39,pos,18,от
+PC39,pos,19,boe
+PC39,pos,20,brussels
+PC39,pos,21,educators
+PC39,pos,22,eu
+PC39,pos,23,thematic
+PC39,pos,24,action plan
+PC39,pos,25,team
+PC39,pos,26,staff
+PC39,pos,27,costs
+PC39,pos,28,malta
+PC39,pos,29,case
+PC39,pos,30,digital education
+PC39,neg,1,project
+PC39,neg,2,housing
+PC39,neg,3,stem
+PC39,neg,4,за
+PC39,neg,5,law
+PC39,neg,6,article
+PC39,neg,7,science
+PC39,neg,8,france
+PC39,neg,9,technology
+PC39,neg,10,aid
+PC39,neg,11,ami
+PC39,neg,12,ai
+PC39,neg,13,2020
+PC39,neg,14,educational
+PC39,neg,15,digital transformation
+PC39,neg,16,transformation
+PC39,neg,17,projects
+PC39,neg,18,се
+PC39,neg,19,cma
+PC39,neg,20,france 2030
+PC39,neg,21,risk
+PC39,neg,22,ami cma
+PC39,neg,23,law 38
+PC39,neg,24,2003
+PC39,neg,25,38 2003
+PC39,neg,26,data
+PC39,neg,27,expressions
+PC39,neg,28,november
+PC39,neg,29,november 17
+PC39,neg,30,skills
+PC40,pos,1,project
+PC40,pos,2,expenses
+PC40,pos,3,costs
+PC40,pos,4,baseline
+PC40,pos,5,education
+PC40,pos,6,plant
+PC40,pos,7,reliability
+PC40,pos,8,00
+PC40,pos,9,june 30
+PC40,pos,10,artificial
+PC40,pos,11,target
+PC40,pos,12,transformation
+PC40,pos,13,artificial intelligence
+PC40,pos,14,current
+PC40,pos,15,digital transformation
+PC40,pos,16,intelligence
+PC40,pos,17,се
+PC40,pos,18,p173997
+PC40,pos,19,text
+PC40,pos,20,use
+PC40,pos,21,project p173997
+PC40,pos,22,turkiye
+PC40,pos,23,hours
+PC40,pos,24,national
+PC40,pos,25,june
+PC40,pos,26,equipment
+PC40,pos,27,operation
+PC40,pos,28,diagnosis
+PC40,pos,29,baseline current
+PC40,pos,30,guidelines
+PC40,neg,1,technologies
+PC40,neg,2,digital technologies
+PC40,neg,3,internships
+PC40,neg,4,nstda
+PC40,neg,5,ai
+PC40,neg,6,aid
+PC40,neg,7,nrct
+PC40,neg,8,обучение
+PC40,neg,9,bg
+PC40,neg,10,set
+PC40,neg,11,level
+PC40,neg,12,teachers
+PC40,neg,13,sil
+PC40,neg,14,external
+PC40,neg,15,да
+PC40,neg,16,2019
+PC40,neg,17,teaching
+PC40,neg,18,2020
+PC40,neg,19,образование
+PC40,neg,20,article
+PC40,neg,21,aisl
+PC40,neg,22,skills
+PC40,neg,23,schools
+PC40,neg,24,external quality
+PC40,neg,25,data
+PC40,neg,26,accordance
+PC40,neg,27,government
+PC40,neg,28,school
+PC40,neg,29,students
+PC40,neg,30,17
