@@ -1,0 +1,22 @@
+corpus,sample_bucket_primary,n
+Education-in-title,aggregation,2
+Education-in-title,boundary,8
+Education-in-title,choice,8
+Education-in-title,information,8
+Education-in-title,payoff,7
+Education-in-title,position,7
+Education-in-title,scope,5
+Education-relevant,aggregation,8
+Education-relevant,boundary,8
+Education-relevant,choice,8
+Education-relevant,information,8
+Education-relevant,payoff,8
+Education-relevant,position,8
+Education-relevant,scope,8
+Full corpus,aggregation,8
+Full corpus,boundary,8
+Full corpus,choice,8
+Full corpus,information,8
+Full corpus,payoff,8
+Full corpus,position,8
+Full corpus,scope,8
