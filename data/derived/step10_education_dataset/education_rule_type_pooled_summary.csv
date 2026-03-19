@@ -1,0 +1,16 @@
+summary_type,rule_type,n,share_of_edu_rules
+binary_hit,boundary,63,0.11496350364963503
+binary_hit,position,255,0.4653284671532847
+binary_hit,choice,548,1.0
+binary_hit,information,266,0.4854014598540146
+binary_hit,scope,113,0.2062043795620438
+binary_hit,aggregation,37,0.06751824817518248
+binary_hit,payoff,235,0.42883211678832117
+primary_type,boundary,63,0.11496350364963503
+primary_type,position,42,0.07664233576642336
+primary_type,choice,56,0.10218978102189781
+primary_type,information,138,0.2518248175182482
+primary_type,scope,19,0.03467153284671533
+primary_type,aggregation,35,0.06386861313868614
+primary_type,payoff,195,0.35583941605839414
+primary_type,unclassified,0,0.0
