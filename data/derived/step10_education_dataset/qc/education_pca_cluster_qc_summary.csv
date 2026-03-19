@@ -1,0 +1,9 @@
+metric,value
+best_k,5.0
+best_silhouette,0.1513831001718378
+pc1_variance,0.2055374000695603
+pc2_variance,0.177708011713435
+pc1_pc2_cumulative,0.3832454117829954
+n_clusters_realized,5.0
+largest_cluster_size,45.0
+smallest_cluster_size,2.0
