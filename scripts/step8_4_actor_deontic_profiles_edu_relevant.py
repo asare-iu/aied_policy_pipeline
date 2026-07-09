@@ -78,7 +78,7 @@ def main() -> None:
     d_presence["percent_within_actor"] = d_presence.groupby("actor_group")["count"].transform(lambda x: 100 * x / x.sum())
 
     out_csv = out_dir / "edu_relevant_deontic_presence_by_actor.csv"
-    d_presence.to_csv(out_csv, index=False)
+    d_presence.to_csv(out_csv, index=False, escapechar="\\")
     print(f"Saved → {out_csv}")
 
     # --- Plot: stacked bar (100%) D present vs absent ---
@@ -112,7 +112,7 @@ def main() -> None:
     )
     dclass["percent_within_actor_Dpresent"] = dclass.groupby("actor_group")["count"].transform(lambda x: 100 * x / x.sum())
     out_dclass = out_dir / "edu_relevant_deontic_class_by_actor.csv"
-    dclass.to_csv(out_dclass, index=False)
+    dclass.to_csv(out_dclass, index=False, escapechar="\\")
     print(f"Saved → {out_dclass}")
 
     # --- Exemplars: where educators/students are explicitly targeted ---

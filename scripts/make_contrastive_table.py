@@ -253,7 +253,7 @@ def write_markdown(df: pd.DataFrame, path: Path) -> None:
     try:
         path.write_text(pretty.to_markdown(index=False) + "\n", encoding="utf-8")
     except Exception:
-        path.write_text(pretty.to_csv(index=False), encoding="utf-8")
+        path.write_text(pretty.to_csv(index=False, escapechar="\\"), encoding="utf-8")
 
 
 def main() -> None:
@@ -327,8 +327,8 @@ def main() -> None:
     long_csv = out_dir / "contrastive_table_full_vs_edu_vs_title_long.csv"
     md_path = out_dir / "contrastive_table_full_vs_edu_vs_title.md"
 
-    wide.to_csv(wide_csv, index=False)
-    long_df.to_csv(long_csv, index=False)
+    wide.to_csv(wide_csv, index=False, escapechar="\\")
+    long_df.to_csv(long_csv, index=False, escapechar="\\")
     write_markdown(wide, md_path)
 
     print(f"Saved → {wide_csv}")

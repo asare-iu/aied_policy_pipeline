@@ -428,11 +428,11 @@ def main() -> None:
     long_csv = out_dir / "top_actors_contrastive_long.csv"
     md_path = out_dir / "top_actors_contrastive.md"
 
-    wide.to_csv(wide_csv, index=False)
+    wide.to_csv(wide_csv, index=False, escapechar="\\")
     long_keep.sort_values(
         ["corpus", "statements", "unique_docs", "actor_norm"],
         ascending=[True, False, False, True],
-    ).to_csv(long_csv, index=False)
+    ).to_csv(long_csv, index=False, escapechar="\\")
     md_path.write_text(build_markdown_table(wide), encoding="utf-8")
 
     print(f"Saved → {wide_csv}")
