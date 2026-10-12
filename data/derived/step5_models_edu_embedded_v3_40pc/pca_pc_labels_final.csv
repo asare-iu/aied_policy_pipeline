@@ -1,0 +1,41 @@
+pc,component_type,component_label
+PC1,mixed/general,"General AI, digital development, and education"
+PC2,documentary/geographic,SmartLabs / school infrastructure program
+PC3,documentary/institutional,SmartLabs and AI versus U.S. legislative text
+PC4,mixed/documentary,U.S. defense AI versus digital education/transformation
+PC5,mixed/terminological,Research/science AI versus digital skills and training
+PC6,documentary/institutional,U.S. defense legislative program language
+PC7,substantive,"Research, innovation, and higher education"
+PC8,substantive,Public-sector data governance and privacy
+PC9,documentary,Citation and reference formatting
+PC10,substantive,Digital transformation/governance versus education and workforce
+PC11,substantive,"Industry, workforce, skills, and talent"
+PC12,substantive,Social rights and employment versus research infrastructure
+PC13,substantive,"Education systems, teaching, and science policy"
+PC14,documentary/geographic,Legislative amendment and Serbia-specific text
+PC15,mixed/institutional,Research computing and cybersecurity infrastructure
+PC16,documentary,Legislative amendment/provision language
+PC17,substantive,Generative AI adoption in public services and schools
+PC18,mixed/institutional,"Ministries, universities, and public institutions"
+PC19,substantive,"Generative AI, research, rights, and European governance"
+PC20,mixed/geographic,Public research/governance versus digital-economy country material
+PC21,mixed/geographic,Science and technological development versus legal/registration text
+PC22,substantive,Higher education and public-sector capacity
+PC23,substantive,"Schools, teachers, students, and digital transformation"
+PC24,substantive/mixed,National research infrastructure and skills versus higher education
+PC25,mixed/institutional,"Universities, professors, rights, and institutional actors"
+PC26,substantive,"Health, care, social access, and inclusion"
+PC27,mixed/geographic,National research resources and jurisdictional text
+PC28,mixed/institutional,Defense/research programs and higher education
+PC29,geographic/documentary,Russian federal digital-development administration
+PC30,substantive,"Health, children, schools, and social services"
+PC31,substantive/mixed,Liability and damages versus inclusion and skills
+PC32,mixed,Liability/security with education and youth
+PC33,substantive,"Liability, disability, health, and rights versus labor/security"
+PC34,mixed/substantive,Cybersecurity and student-facing program material
+PC35,substantive,"Skills, universities, public sector, and labor"
+PC36,substantive/mixed,"Research, personal data, and access"
+PC37,mixed/sectoral,"Health, higher education, policy indicators, and services"
+PC38,mixed/geographic,Public administration and personal-data governance
+PC39,geographic/sectoral,"Finland/Ireland talent, health, and industry programs"
+PC40,mixed/substantive,Personal-data protection and higher-education/student content
