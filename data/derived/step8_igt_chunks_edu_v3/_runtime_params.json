@@ -1,0 +1,15 @@
+{
+  "b_lexicon_path": "/home/isakntiasare/aied_policy_pipeline/resources/lexicons/biophysical_object.txt",
+  "b_lexicon_sha256": "c91ff3de207755a85fd3518373c36e5f8d12b3594e08c2e4ac00327b57ed429b",
+  "b_lexicon_terms_count": 36,
+  "spacy_model": "en_core_web_sm",
+  "spacy_version": "3.8.11",
+  "step8_3_chunks_processed": 7782,
+  "step8_3_elapsed_seconds": 1143.0866916179657,
+  "step8_3_input": "data/derived/step8_igt_chunks_edu_v3/chunks_edu.parquet",
+  "step8_3_output_csv": "data/derived/step8_igt_chunks_edu_v3/igt_statements_full.csv",
+  "step8_3_output_parquet": "data/derived/step8_igt_chunks_edu_v3/igt_statements_full.parquet",
+  "step8_3_parse_failures": 0,
+  "step8_3_ran_at": "2026-08-24T04:10:43.323886Z",
+  "step8_3_rows_written": 29929
+}

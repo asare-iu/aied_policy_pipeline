@@ -1,0 +1,295 @@
+metric,value
+gate_version,edu_gate_v3.0
+gate_status,frozen_for_v3_run
+input_chunks,47512
+education_chunks,7782
+education_chunk_share,0.1637902
+input_documents,865
+education_documents,591
+education_document_share,0.68323699
+subgroup::workforce_capacity,3718
+subgroup::pedagogy,2527
+subgroup::higher_ed_explicit,1295
+subgroup::k12_explicit,914
+subgroup::k12_and_higher_ed,188
+subgroup::formal_vet,123
+subgroup::teacher_development,81
+subgroup::higher_ed_research,19
+anchor_group::general_education,7363
+anchor_group::education_actor,3384
+anchor_group::formal_education,3087
+anchor_group::pedagogy,1417
+anchor_group::higher_ed,1370
+anchor_group::k12,982
+anchor_group::education_governance,691
+anchor_group::edtech,440
+anchor_group::higher_ed_actor,186
+anchor_group::k12_actor,185
+anchor_group::k12_pedagogy,177
+anchor_group::formal_vet,130
+anchor_group::teacher_development,87
+anchor_group::k12_governance,75
+anchor_group::k12_edtech,1
+anchor_canonical::Education,5511
+anchor_canonical::Students,2239
+anchor_canonical::Schools,2033
+anchor_canonical::Educational,1852
+anchor_canonical::Higher education,1156
+anchor_canonical::Teachers,899
+anchor_canonical::Teaching,710
+anchor_canonical::Curriculum,605
+anchor_canonical::Government educational bodies,559
+anchor_canonical::Educational systems,492
+anchor_canonical::Secondary schools,367
+anchor_canonical::Educational institutions,315
+anchor_canonical::Educators,237
+anchor_canonical::Secondary education,215
+anchor_canonical::Higher education institutions,202
+anchor_canonical::Classroom,175
+anchor_canonical::Technical and vocational education,130
+anchor_canonical::Pupils,118
+anchor_canonical::Electronic learning,112
+anchor_canonical::Primary schools,108
+anchor_canonical::Formal education,106
+anchor_canonical::Online courses,103
+anchor_canonical::Graduate students,89
+anchor_canonical::Educational technology,87
+anchor_canonical::Teacher education,85
+anchor_canonical::Distance education,79
+anchor_canonical::Basic education,71
+anchor_canonical::Upper secondary education,70
+anchor_canonical::Educational policy,69
+anchor_canonical::Public education,63
+anchor_canonical::College students,61
+anchor_canonical::Elementary Secondary Education,54
+anchor_canonical::Preschool,49
+anchor_canonical::Teaching methods,40
+anchor_canonical::Secondary school students,36
+anchor_canonical::School districts,33
+anchor_canonical::Open educational resources,32
+anchor_canonical::Educational organizations,29
+anchor_canonical::Primary education,28
+anchor_canonical::School administration,24
+anchor_canonical::Public schools,23
+anchor_canonical::Curriculum development,23
+anchor_canonical::Early childhood education,22
+anchor_canonical::Middle schools,21
+anchor_canonical::College faculty,20
+anchor_canonical::Student assessment,19
+anchor_canonical::Intelligent tutoring systems,17
+anchor_canonical::Undergraduate students,16
+anchor_canonical::Lower secondary education,16
+anchor_canonical::Curriculum design,13
+anchor_canonical::Boards of Education,12
+anchor_canonical::Postsecondary education,12
+anchor_canonical::Educational quality,12
+anchor_canonical::Schoolchildren,11
+anchor_canonical::Private schools,9
+anchor_canonical::Admission (School),9
+anchor_canonical::Private education,7
+anchor_canonical::Virtual classrooms,7
+anchor_canonical::Primary school students,6
+anchor_canonical::Educational administration,5
+anchor_canonical::Head teachers,5
+anchor_canonical::Grades (Scholastic),4
+anchor_canonical::Primary school teachers,4
+anchor_canonical::Educational software,3
+anchor_canonical::School policy,3
+anchor_canonical::Student teachers,3
+anchor_canonical::Teacher role,3
+anchor_canonical::School personnel,3
+anchor_canonical::Secondary school teachers,2
+anchor_canonical::State Boards of Education,2
+anchor_canonical::Inservice teacher education,2
+anchor_canonical::Educational personnel,2
+anchor_canonical::Primary school curriculum,2
+anchor_canonical::Examination boards,2
+anchor_canonical::Educational legislation,1
+anchor_canonical::Teacher certification,1
+anchor_canonical::Teacher-student relationship,1
+anchor_canonical::Virtual schools,1
+anchor_canonical::Educational accountability,1
+anchor_canonical::Student-centered learning,1
+anchor_canonical::Classroom environment,1
+anchor_canonical::Educational administrators,1
+anchor_canonical::Student rights,1
+anchor_canonical::School inspection,1
+anchor_canonical::Academic standards,1
+anchor_canonical::Educational assessment,1
+anchor_term::education,5511
+anchor_term::educational,1852
+anchor_term::students,1654
+anchor_term::school,1222
+anchor_term::higher education,1069
+anchor_term::schools,811
+anchor_term::teaching,710
+anchor_term::teachers,585
+anchor_term::student,585
+anchor_term::ministry of education,465
+anchor_term::curriculum,358
+anchor_term::teacher,314
+anchor_term::education system,293
+anchor_term::educational institutions,276
+anchor_term::curricula,247
+anchor_term::secondary education,215
+anchor_term::educators,210
+anchor_term::high school,197
+anchor_term::higher education institutions,194
+anchor_term::vocational education,123
+anchor_term::classroom,119
+anchor_term::formal education,106
+anchor_term::pupils,90
+anchor_term::educational system,83
+anchor_term::basic education,71
+anchor_term::department of education,71
+anchor_term::upper secondary education,70
+anchor_term::online courses,67
+anchor_term::secondary schools,67
+anchor_term::public education,63
+anchor_term::education systems,63
+anchor_term::secondary school,62
+anchor_term::teacher training,62
+anchor_term::edtech,60
+anchor_term::classrooms,56
+anchor_term::e-learning,55
+anchor_term::university education,52
+anchor_term::education policy,46
+anchor_term::distance learning,45
+anchor_term::online learning,45
+anchor_term::primary school,44
+anchor_term::doctoral students,42
+anchor_term::high schools,41
+anchor_term::educational institution,39
+anchor_term::teaching methods,38
+anchor_term::k-12,38
+anchor_term::university students,37
+anchor_term::online course,36
+anchor_term::tertiary education,35
+anchor_term::graduate students,34
+anchor_term::distance education,30
+anchor_term::pupil,28
+anchor_term::primary schools,28
+anchor_term::preschool,27
+anchor_term::elementary school,27
+anchor_term::educator,27
+anchor_term::open educational resources,27
+anchor_term::primary education,26
+anchor_term::educational technology,26
+anchor_term::school system,23
+anchor_term::teacher education,22
+anchor_term::educational organizations,22
+anchor_term::curriculum development,21
+anchor_term::student assessment,19
+anchor_term::high school students,18
+anchor_term::school management,18
+anchor_term::university faculty,18
+anchor_term::kindergarten,18
+anchor_term::education policies,17
+anchor_term::college student,17
+anchor_term::k12,16
+anchor_term::school systems,16
+anchor_term::lower secondary education,16
+anchor_term::middle school,15
+anchor_term::education ministry,15
+anchor_term::educational systems,14
+anchor_term::intelligent tutoring systems,14
+anchor_term::undergraduate students,13
+anchor_term::public schools,13
+anchor_term::curriculum design,13
+anchor_term::early childhood education,12
+anchor_term::school district,12
+anchor_term::school districts,11
+anchor_term::secondary school students,11
+anchor_term::public school,10
+anchor_term::elementary schools,9
+anchor_term::education quality,9
+anchor_term::school board,8
+anchor_term::lea,8
+anchor_term::preschool education,8
+anchor_term::higher education institution,8
+anchor_term::post-secondary education,7
+anchor_term::college students,7
+anchor_term::schoolchildren,7
+anchor_term::educational organization,7
+anchor_term::private education,7
+anchor_term::graduate student,7
+anchor_term::technical and vocational education,7
+anchor_term::ministries of education,6
+anchor_term::private schools,6
+anchor_term::doctoral student,6
+anchor_term::school administration,6
+anchor_term::educational policy,6
+anchor_term::postsecondary education,5
+anchor_term::oer,5
+anchor_term::school pupils,4
+anchor_term::elementary school students,4
+anchor_term::remote learning,4
+anchor_term::virtual classrooms,4
+anchor_term::high school student,4
+anchor_term::education administration,3
+anchor_term::private school,3
+anchor_term::primary school teachers,3
+anchor_term::board of education,3
+anchor_term::middle schools,3
+anchor_term::elearning,3
+anchor_term::educational software,3
+anchor_term::school admissions,3
+anchor_term::school policy,3
+anchor_term::nursery school,3
+anchor_term::undergraduate student,3
+anchor_term::educational quality,3
+anchor_term::virtual classroom,3
+anchor_term::electronic learning,3
+anchor_term::intelligent tutoring system,3
+anchor_term::mobile learning,3
+anchor_term::headmasters,3
+anchor_term::middle school students,3
+anchor_term::teacher roles,3
+anchor_term::school staff,3
+anchor_term::student admission,3
+anchor_term::virtual education,3
+anchor_term::local education agency,2
+anchor_term::grade point average,2
+anchor_term::early childhood care and education,2
+anchor_term::state board of education,2
+anchor_term::curriculum reform,2
+anchor_term::student teachers,2
+anchor_term::school grades,2
+anchor_term::departments of education,2
+anchor_term::college faculty,2
+anchor_term::primary school curriculum,2
+anchor_term::educational administration,2
+anchor_term::primary school students,2
+anchor_term::examination boards,2
+anchor_term::teaching method,2
+anchor_term::elementary education,2
+anchor_term::college admission,2
+anchor_term::junior high school,2
+anchor_term::secondary school teachers,1
+anchor_term::education legislation,1
+anchor_term::teacher certification,1
+anchor_term::teacher preparation,1
+anchor_term::teacher-student relationship,1
+anchor_term::elementary school teachers,1
+anchor_term::in-service teacher education,1
+anchor_term::junior high schools,1
+anchor_term::virtual school,1
+anchor_term::educational accountability,1
+anchor_term::education personnel,1
+anchor_term::student-centred learning,1
+anchor_term::boards of education,1
+anchor_term::preschools,1
+anchor_term::preservice teachers,1
+anchor_term::classroom environment,1
+anchor_term::head teachers,1
+anchor_term::in-service teacher training,1
+anchor_term::education administrators,1
+anchor_term::head teacher,1
+anchor_term::educational personnel,1
+anchor_term::student rights,1
+anchor_term::ed-tech,1
+anchor_term::school inspection,1
+anchor_term::academic standards,1
+anchor_term::high school teachers,1
+anchor_term::school admission,1
+anchor_term::educational assessment,1

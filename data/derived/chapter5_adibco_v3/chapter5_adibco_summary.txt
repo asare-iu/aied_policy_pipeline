@@ -1,0 +1,44 @@
+CHAPTER 5 V3 FULL ADIBCO SUMMARY
+================================
+
+Statements: 29,929
+Documents: 568
+Source chunks represented: 6,768
+
+COMPONENT PRESENCE
+------------------
+A: 24,634 (82.31%)
+D: 13,890 (46.41%)
+I: 28,813 (96.27%)
+B: 7,801 (26.07%)
+C: 8,535 (28.52%)
+O: 752 (2.51%)
+
+STATEMENT TYPES
+---------------
+strategy_candidate: 16,039 (53.59%)
+norm_candidate: 12,317 (41.15%)
+other_low_confidence: 1,116 (3.73%)
+rule_candidate: 457 (1.53%)
+
+TOP ADIBCO CONFIGURATIONS
+-------------------------
+AI: 6,694 (22.37%)
+ADI: 5,387 (18.00%)
+AIC: 2,533 (8.46%)
+ADIC: 2,425 (8.10%)
+ADIB: 2,297 (7.67%)
+I: 2,253 (7.53%)
+AIB: 2,069 (6.91%)
+ADIBC: 1,002 (3.35%)
+AIBC: 758 (2.53%)
+IC: 698 (2.33%)
+DI: 564 (1.88%)
+IB: 563 (1.88%)
+AD: 412 (1.38%)
+DIC: 262 (0.88%)
+DIB: 261 (0.87%)
+
+OR ELSE
+-------
+O present: 752 (2.51%)

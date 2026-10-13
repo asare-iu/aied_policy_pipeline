@@ -1,0 +1,5 @@
+statement_type,absent,present,absent__row_pct,present__row_pct
+norm_candidate,12317,0,100.0,0.0
+other_low_confidence,1100,16,98.56630824372759,1.4336917562724014
+rule_candidate,0,457,0.0,100.0
+strategy_candidate,15760,279,98.26049005548974,1.7395099445102562

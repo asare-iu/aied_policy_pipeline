@@ -1,0 +1,33 @@
+{
+  "gate_version": "edu_gate_v3.0",
+  "gate_status": "frozen_for_v3_run",
+  "construct": {
+    "name": "education-sector relevance",
+    "unit": "paragraph-based chunk",
+    "note": "Vocabulary derived from ERIC Thesaurus, UNESCO Thesaurus, and ISCED. Recommended gate roles reflect application to a heterogeneous AI-governance corpus, not the controlled vocabularies' own indexing rules."
+  },
+  "selection_principles": [
+    "Standalone anchors explicitly denote educational systems, levels, institutions, actors, pedagogical constructs, education governance, or education-specific technologies.",
+    "Context-dependent terms are valid education concepts but have common noneducation senses in AI-governance text and should not independently establish education relevance.",
+    "Workforce/capacity terms are descriptive tags only so their prevalence can be measured rather than built into corpus selection.",
+    "Higher-education research-only terms are treated cautiously because a university or professor can be mentioned in a research role without the chunk governing education."
+  ],
+  "source_framework": {
+    "ERIC": "https://eric.ed.gov/default.aspx?ti=all",
+    "UNESCO_Thesaurus": "https://vocabularies.unesco.org/en/about",
+    "UNESCO_latest_export": "https://vocabularies.unesco.org/exports/thesaurus/latest/",
+    "ISCED_2011": "https://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf",
+    "UIS_ISCED": "https://www.uis.unesco.org/en/methods-and-tools/isced"
+  },
+  "input_path": "data/derived/step4_chunks_tagged/chunks_normalized_tagged.jsonl",
+  "input_sha256": "0e0391fda9b318207af99939ed3ab082a6c3e216a338c8751dd4c6ecdf463356",
+  "lexicon_path": "resources/edu_lexicon_v3.yml",
+  "lexicon_sha256": "d00bad897d463b42071cb0e26715941f52a6470f1310d4b5dfa0815bf48caf93",
+  "input_chunks": 47512,
+  "education_chunks": 7782,
+  "input_documents": 865,
+  "education_documents": 591,
+  "core_inclusion_rule": "one_or_more_source_backed_anchor_terms",
+  "contextual_terms_affect_inclusion": false,
+  "tag_only_terms_affect_inclusion": false
+}

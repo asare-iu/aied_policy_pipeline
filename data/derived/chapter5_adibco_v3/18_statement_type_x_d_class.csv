@@ -1,0 +1,5 @@
+statement_type,(missing),obligation,permission,prohibition,(missing)__row_pct,obligation__row_pct,permission__row_pct,prohibition__row_pct
+norm_candidate,0,6220,5557,540,0.0,50.49930989689047,45.11650564260778,4.3841844605017455
+other_low_confidence,0,564,483,69,0.0,50.53763440860215,43.27956989247312,6.182795698924731
+rule_candidate,0,147,293,17,0.0,32.16630196936542,64.11378555798687,3.7199124726477026
+strategy_candidate,16039,0,0,0,100.0,0.0,0.0,0.0

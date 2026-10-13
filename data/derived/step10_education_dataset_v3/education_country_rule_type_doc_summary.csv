@@ -1,0 +1,2 @@
+n_edu_rule_statements_total,n_docs_with_edu_rules_total,n_countries_total,typed_input_used,source_input_used,lookup_input_used
+278,128,49,,data/derived/step8_9_regime_closure_v3/igt_statements_full_with_edu_flags.parquet,data/derived/step9_country_dataset/doc_country_lookup.csv

@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-08-24T05:36:40.235714+00:00",
+  "input_igt": "data/derived/step8_igt_chunks_edu_v3/igt_statements_full.parquet",
+  "input_igt_sha256": "14c30c11a679e70920227875335f8581a5e5efbc73fd8ab9858d51a7a63af528",
+  "input_chunks": "data/derived/step8_igt_chunks_edu_v3/chunks_edu.parquet",
+  "input_chunks_sha256": "f638185b6836794f68999bdfb65cbdf091a33e95074de133b0eac1715ecb3a75",
+  "rows": 29929,
+  "documents": 568,
+  "source_chunks": 6768,
+  "subgroup_columns": [
+    "k12_explicit_signal",
+    "higher_ed_explicit_signal",
+    "formal_vet_signal",
+    "pedagogy_signal",
+    "teacher_development_signal",
+    "workforce_capacity_signal",
+    "higher_ed_research_signal"
+  ],
+  "output_directory": "data/derived/chapter5_adibco_v3",
+  "note": "This stage aggregates the already-completed V3 ADIBCO extraction. It does not re-run institutional grammar parsing."
+}

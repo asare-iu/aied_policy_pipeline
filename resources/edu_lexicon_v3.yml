@@ -1,0 +1,1105 @@
+version: edu_gate_v3.0
+status: frozen_for_v3_run
+construct:
+  name: education-sector relevance
+  unit: paragraph-based chunk
+  note: Vocabulary derived from ERIC Thesaurus, UNESCO Thesaurus, and ISCED. Recommended gate roles reflect application to
+    a heterogeneous AI-governance corpus, not the controlled vocabularies' own indexing rules.
+selection_principles:
+- Standalone anchors explicitly denote educational systems, levels, institutions, actors, pedagogical constructs, education
+  governance, or education-specific technologies.
+- Context-dependent terms are valid education concepts but have common noneducation senses in AI-governance text and should
+  not independently establish education relevance.
+- Workforce/capacity terms are descriptive tags only so their prevalence can be measured rather than built into corpus selection.
+- Higher-education research-only terms are treated cautiously because a university or professor can be mentioned in a research
+  role without the chunk governing education.
+anchors:
+  edtech:
+  - canonical: Computer assisted instruction
+    terms:
+    - computer assisted instruction
+    - computer-assisted instruction
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept family
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Computer uses in education
+    terms:
+    - computer uses in education
+    - educational computing
+    source: ERIC; UNESCO
+    source_status: ERIC narrower descriptor / UNESCO preferred concept + entry term
+    source_url: https://eric.ed.gov/default.aspx?ti=Technology+Uses+in+Education
+  - canonical: Distance education
+    terms:
+    - distance education
+    - distance learning
+    - remote learning
+    source: ERIC
+    source_status: Preferred descriptor + use-for terms
+    source_url: https://eric.ed.gov/default.aspx?ti=Distance+Education
+  - canonical: Educational software
+    terms:
+    - educational software
+    - courseware
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept6028
+  - canonical: Educational technology
+    terms:
+    - educational technology
+    - edtech
+    - ed-tech
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept + ERIC use-for term
+    source_url: https://eric.ed.gov/?qt=educational+innovation&ti=Educational+Technology
+  - canonical: Electronic learning
+    terms:
+    - electronic learning
+    - elearning
+    - e-learning
+    - online learning
+    - virtual education
+    - mobile learning
+    - mlearning
+    source: ERIC
+    source_status: Preferred descriptor + use-for terms
+    source_url: https://eric.ed.gov/default.aspx?ti=Electronic+Learning
+  - canonical: Intelligent tutoring systems
+    terms:
+    - intelligent tutoring system
+    - intelligent tutoring systems
+    - intelligent tutor
+    - intelligent tutors
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Online courses
+    terms:
+    - online course
+    - online courses
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Online+Courses
+  - canonical: Open educational resources
+    terms:
+    - open educational resource
+    - open educational resources
+    - oer
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept family
+    source_url: https://eric.ed.gov/default.aspx?ti=Electronic+Learning
+  - canonical: Technology uses in education
+    terms:
+    - technology uses in education
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Technology+Uses+in+Education
+  - canonical: Virtual classrooms
+    terms:
+    - virtual classroom
+    - virtual classrooms
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Virtual+Classrooms
+  - canonical: Web based instruction
+    terms:
+    - web based instruction
+    - web-based instruction
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  education_actor:
+  - canonical: Educational administrators
+    terms:
+    - educational administrator
+    - educational administrators
+    - education administrator
+    - education administrators
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept1371
+  - canonical: Educational personnel
+    terms:
+    - educational personnel
+    - education personnel
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/browser/thesaurus/fr/page/?clang=en&uri=http%3A%2F%2Fvocabularies.unesco.org%2Fthesaurus%2Fconcept75
+  - canonical: Educators
+    terms:
+    - educator
+    - educators
+    source: ERIC/UNESCO education personnel usage
+    source_status: Common education-personnel form
+    source_url: https://eric.ed.gov/?ti=360
+  - canonical: Student role
+    terms:
+    - student role
+    - students' role
+    - student roles
+    source: ERIC
+    source_status: Related descriptor in education governance
+    source_url: https://eric.ed.gov/default.aspx?ti=Role+of+Education
+  - canonical: Student teachers
+    terms:
+    - student teacher
+    - student teachers
+    - preservice teacher
+    - preservice teachers
+    source: ERIC; UNESCO
+    source_status: Preferred/narrower descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Student+Teachers
+  - canonical: Students
+    terms:
+    - student
+    - students
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/?qt=college+students&ti=Students
+  - canonical: Teacher educators
+    terms:
+    - teacher educator
+    - teacher educators
+    source: ERIC; UNESCO
+    source_status: Preferred/narrower descriptor/concept
+    source_url: https://eric.ed.gov/?ti=360
+  - canonical: Teacher role
+    terms:
+    - teacher role
+    - teachers' role
+    - teacher roles
+    source: ERIC
+    source_status: Related descriptor in education governance
+    source_url: https://eric.ed.gov/default.aspx?ti=Role+of+Education
+  - canonical: Teachers
+    terms:
+    - teacher
+    - teachers
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Teachers
+  education_governance:
+  - canonical: Academic standards
+    terms:
+    - academic standards
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor / preferred UNESCO term
+    source_url: https://eric.ed.gov/default.aspx?ti=Academic+Standards
+  - canonical: Admission (School)
+    terms:
+    - school admission
+    - school admissions
+    - student admission
+    - student admissions
+    - college admission
+    - college admissions
+    source: ERIC
+    source_status: Preferred/related descriptors
+    source_url: https://eric.ed.gov/?ti=320
+  - canonical: Educational accountability
+    terms:
+    - educational accountability
+    - school accountability
+    source: ERIC education-governance usage
+    source_status: Education-specific compound
+    source_url: https://eric.ed.gov/?ti=330
+  - canonical: Educational administration
+    terms:
+    - educational administration
+    - education administration
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Educational+Administration
+  - canonical: Educational administrative structure
+    terms:
+    - educational administrative structure
+    - educational organizational structure
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept9133
+  - canonical: Educational assessment
+    terms:
+    - educational assessment
+    - college outcomes assessment
+    source: ERIC
+    source_status: Preferred descriptor + narrower descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Educational+Assessment
+  - canonical: Educational autonomy
+    terms:
+    - educational autonomy
+    - educational self management
+    - educational self-management
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  - canonical: Educational decentralization
+    terms:
+    - educational decentralization
+    - educational centralization
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/browser/thesaurus/fr/page/?clang=en&uri=http%3A%2F%2Fvocabularies.unesco.org%2Fthesaurus%2Fconcept7501
+  - canonical: Educational governing boards
+    terms:
+    - educational governing board
+    - educational governing boards
+    source: UNESCO
+    source_status: Narrower concept under Educational supervision
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  - canonical: Educational legislation
+    terms:
+    - educational legislation
+    - education legislation
+    source: ERIC
+    source_status: Related descriptor under Education; ERIC policy literature
+    source_url: https://eric.ed.gov/default.aspx?ti=Education
+  - canonical: Educational organizations
+    terms:
+    - educational organization
+    - educational organizations
+    - educational administrative body
+    - educational administrative bodies
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept23
+  - canonical: Educational policy
+    terms:
+    - educational policy
+    - education policy
+    - education policies
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Educational+Policy
+  - canonical: Educational quality
+    terms:
+    - educational quality
+    - education quality
+    source: UNESCO; ERIC
+    source_status: Preferred concept/descriptor family
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  - canonical: Educational supervision
+    terms:
+    - educational supervision
+    - educational inspection
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  - canonical: Examination boards
+    terms:
+    - examination board
+    - examination boards
+    source: UNESCO
+    source_status: Narrower concept under Educational supervision
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  - canonical: Government educational bodies
+    terms:
+    - government educational body
+    - government educational bodies
+    - department of education
+    - departments of education
+    - ministry of education
+    - ministries of education
+    - education ministry
+    - education ministries
+    source: UNESCO
+    source_status: Preferred concept + entry terms
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept9136
+  - canonical: Local educational bodies
+    terms:
+    - local educational body
+    - local educational bodies
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept9137
+  - canonical: Student rights
+    terms:
+    - student rights
+    - students' rights
+    - students rights
+    source: ERIC
+    source_status: Related descriptor in Educational Environment
+    source_url: https://eric.ed.gov/default.aspx?ti=Educational+Environment
+  - canonical: Teacher certification
+    terms:
+    - teacher certification
+    - teacher licensure
+    - teacher licensing
+    source: ERIC
+    source_status: Narrower descriptor under Certification
+    source_url: https://eric.ed.gov/default.aspx?ti=Certification
+  formal_education:
+  - canonical: Basic education
+    terms:
+    - basic education
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept3602
+  - canonical: Educational institutions
+    terms:
+    - educational institution
+    - educational institutions
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept44
+  - canonical: Educational systems
+    terms:
+    - educational system
+    - educational systems
+    - education system
+    - education systems
+    - school system
+    - school systems
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept37
+  - canonical: Formal education
+    terms:
+    - formal education
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept39
+  - canonical: Private education
+    terms:
+    - private education
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Public education
+    terms:
+    - public education
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Schools
+    terms:
+    - school
+    - schools
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Schools
+  formal_vet:
+  - canonical: Career and Technical Education Schools
+    terms:
+    - career and technical education school
+    - career and technical education schools
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Technical and vocational education
+    terms:
+    - technical and vocational education
+    - vocational education
+    source: UNESCO; ERIC/ISCED
+    source_status: Preferred UNESCO formal-education concept / ERIC related terminology
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept39
+  general_education:
+  - canonical: Education
+    terms:
+    - education
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Education
+  - canonical: Educational
+    terms:
+    - educational
+    source: UNESCO/ERIC-derived lexical form
+    source_status: Operational adjective from preferred education concepts
+    source_url: https://vocabularies.unesco.org/en/about
+  higher_ed:
+  - canonical: Higher education
+    terms:
+    - higher education
+    - tertiary education
+    - university education
+    source: ERIC; UNESCO; ISCED
+    source_status: Preferred descriptor/concept + entry terms
+    source_url: https://eric.ed.gov/default.aspx?ti=Higher+Education
+  - canonical: Higher education institutions
+    terms:
+    - higher education institution
+    - higher education institutions
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept45
+  - canonical: Postsecondary education
+    terms:
+    - postsecondary education
+    - post-secondary education
+    source: ERIC; UNESCO; ISCED
+    source_status: Preferred descriptor / UNESCO entry term
+    source_url: https://eric.ed.gov/default.aspx?ti=Postsecondary+Education
+  higher_ed_actor:
+  - canonical: College faculty
+    terms:
+    - college faculty
+    - university faculty
+    source: ERIC
+    source_status: Preferred descriptor / operational variant
+    source_url: https://eric.ed.gov/default.aspx?ti=College+Faculty
+  - canonical: College students
+    terms:
+    - college student
+    - college students
+    - university student
+    - university students
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor + ERIC use-for / UNESCO narrower concept
+    source_url: https://eric.ed.gov/default.aspx?ti=College+Students
+  - canonical: Graduate students
+    terms:
+    - graduate student
+    - graduate students
+    - doctoral student
+    - doctoral students
+    source: ERIC
+    source_status: Preferred/narrower descriptors
+    source_url: https://eric.ed.gov/?ti=360
+  - canonical: Undergraduate students
+    terms:
+    - undergraduate student
+    - undergraduate students
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Undergraduate+Students
+  higher_ed_governance:
+  - canonical: College administration
+    terms:
+    - college administration
+    - university administration
+    source: ERIC
+    source_status: Preferred descriptor + use-for term
+    source_url: https://eric.ed.gov/default.aspx?ti=College+Administration
+  k12:
+  - canonical: Early childhood education
+    terms:
+    - early childhood education
+    - early childhood care and education
+    - ecce
+    - preprimary education
+    - pre-primary education
+    - preschool education
+    source: UNESCO; ISCED
+    source_status: Preferred concept + entry terms / ISCED level
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept5081
+  - canonical: Elementary Secondary Education
+    terms:
+    - elementary secondary education
+    - k-12
+    - k12
+    - kindergarten through grade 12
+    - kindergarten through 12th grade
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Lower secondary education
+    terms:
+    - lower secondary education
+    source: UNESCO; ISCED
+    source_status: Preferred concept / ISCED level 2
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept9919
+  - canonical: Middle schools
+    terms:
+    - middle school
+    - middle schools
+    - junior high school
+    - junior high schools
+    source: ERIC
+    source_status: Preferred descriptors
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Preschool
+    terms:
+    - preschool
+    - preschools
+    - nursery school
+    - nursery schools
+    - kindergarten
+    - preprimary school
+    - preprimary schools
+    source: ERIC; UNESCO
+    source_status: Preferred descriptors/concepts + entry terms
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Primary education
+    terms:
+    - primary education
+    - elementary education
+    source: UNESCO; ISCED
+    source_status: Preferred concept + entry term / ISCED level 1
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept9290
+  - canonical: Primary schools
+    terms:
+    - primary school
+    - primary schools
+    - elementary school
+    - elementary schools
+    source: ERIC; UNESCO
+    source_status: Preferred descriptors/concepts + entry terms
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Private schools
+    terms:
+    - private school
+    - private schools
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Public schools
+    terms:
+    - public school
+    - public schools
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Public+Schools
+  - canonical: Secondary education
+    terms:
+    - secondary education
+    source: UNESCO; ISCED
+    source_status: Preferred concept / ISCED levels 2-3
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept9291
+  - canonical: Secondary schools
+    terms:
+    - secondary school
+    - secondary schools
+    - high school
+    - high schools
+    source: ERIC; UNESCO
+    source_status: Preferred descriptors/concepts
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Upper secondary education
+    terms:
+    - upper secondary education
+    source: UNESCO; ISCED
+    source_status: Preferred concept / ISCED level 3
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept9921
+  k12_actor:
+  - canonical: Head teachers
+    terms:
+    - head teacher
+    - head teachers
+    - headteacher
+    - headteachers
+    - headmaster
+    - headmasters
+    source: UNESCO
+    source_status: Entry terms under Educational administrators
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept1371
+  - canonical: Primary school students
+    terms:
+    - primary school student
+    - primary school students
+    - primary school pupil
+    - primary school pupils
+    - elementary school student
+    - elementary school students
+    source: UNESCO; ERIC
+    source_status: Preferred concept + entry term / ERIC narrower descriptors
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept2124
+  - canonical: Primary school teachers
+    terms:
+    - primary school teacher
+    - primary school teachers
+    - elementary school teacher
+    - elementary school teachers
+    source: UNESCO; ERIC
+    source_status: Preferred concept / ERIC narrower descriptor
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept8287?clang=en
+  - canonical: Pupils
+    terms:
+    - pupil
+    - pupils
+    source: UNESCO
+    source_status: Entry term under Students
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept78
+  - canonical: School personnel
+    terms:
+    - school personnel
+    - school staff
+    source: ERIC
+    source_status: Preferred descriptor + operational variant
+    source_url: https://eric.ed.gov/default.aspx?ti=School+Personnel
+  - canonical: Schoolchildren
+    terms:
+    - schoolchild
+    - schoolchildren
+    - school pupil
+    - school pupils
+    source: UNESCO
+    source_status: Preferred concept + entry term
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept4286
+  - canonical: Secondary school students
+    terms:
+    - secondary school student
+    - secondary school students
+    - secondary school pupil
+    - secondary school pupils
+    - high school student
+    - high school students
+    - middle school student
+    - middle school students
+    source: UNESCO; ERIC
+    source_status: Preferred concepts/descriptors
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept2126
+  - canonical: Secondary school teachers
+    terms:
+    - secondary school teacher
+    - secondary school teachers
+    - high school teacher
+    - high school teachers
+    - middle school teacher
+    - middle school teachers
+    source: UNESCO; ERIC
+    source_status: Preferred/narrower concepts/descriptors
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept8283
+  k12_edtech:
+  - canonical: Virtual schools
+    terms:
+    - virtual school
+    - virtual schools
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  k12_governance:
+  - canonical: Board of Education Policy
+    terms:
+    - board of education policy
+    - school board policy
+    - school district policy
+    source: ERIC
+    source_status: Preferred descriptor + use-for terms
+    source_url: https://eric.ed.gov/default.aspx?ti=Board+of+Education+Policy
+  - canonical: Boards of Education
+    terms:
+    - board of education
+    - boards of education
+    - school board
+    - school boards
+    source: ERIC
+    source_status: Preferred descriptor + use-for terms
+    source_url: https://eric.ed.gov/default.aspx?ti=Boards+of+Education
+  - canonical: School administration
+    terms:
+    - school administration
+    - school management
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor / UNESCO use-for term
+    source_url: https://eric.ed.gov/default.aspx?ti=School+Administration
+  - canonical: School based management
+    terms:
+    - school based management
+    - school-based management
+    - site based management
+    - site-based management
+    source: ERIC
+    source_status: Preferred descriptor + use-for term
+    source_url: https://eric.ed.gov/default.aspx?ti=School+Based+Management
+  - canonical: School districts
+    terms:
+    - school district
+    - school districts
+    - local education agency
+    - local education agencies
+    - local education authority
+    - local education authorities
+    - lea
+    - leas
+    source: ERIC
+    source_status: Preferred descriptor + use-for terms
+    source_url: https://eric.ed.gov/default.aspx?ti=School+Districts
+  - canonical: School inspection
+    terms:
+    - school inspection
+    - school inspections
+    source: UNESCO/ERIC
+    source_status: Education-specific compound
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  - canonical: School law
+    terms:
+    - school law
+    source: ERIC
+    source_status: Related descriptor under Schools/School Policy
+    source_url: https://eric.ed.gov/default.aspx?ti=School+Policy
+  - canonical: School policy
+    terms:
+    - school policy
+    - school policies
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=School+Policy
+  - canonical: School supervision
+    terms:
+    - school supervision
+    source: ERIC; UNESCO
+    source_status: ERIC related descriptor / UNESCO narrower concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Schools
+  - canonical: State Boards of Education
+    terms:
+    - state board of education
+    - state boards of education
+    source: ERIC
+    source_status: Narrower descriptor under Boards of Education
+    source_url: https://eric.ed.gov/default.aspx?ti=Boards+of+Education
+  k12_pedagogy:
+  - canonical: Classroom
+    terms:
+    - classroom
+    - classrooms
+    source: ERIC
+    source_status: Descriptor family in Classroom Perspectives
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Primary school curriculum
+    terms:
+    - primary school curriculum
+    source: UNESCO
+    source_status: Preferred concept
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept7255?clang=en
+  pedagogy:
+  - canonical: Classroom communication
+    terms:
+    - classroom communication
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Classroom environment
+    terms:
+    - classroom environment
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Curriculum
+    terms:
+    - curriculum
+    - curricula
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Curriculum+Development
+  - canonical: Curriculum based assessment
+    terms:
+    - curriculum based assessment
+    - curriculum-based assessment
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Curriculum design
+    terms:
+    - curriculum design
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Curriculum+Design
+  - canonical: Curriculum development
+    terms:
+    - curriculum development
+    - curriculum reform
+    - curriculum planning
+    source: ERIC
+    source_status: Preferred descriptor + use-for terms
+    source_url: https://eric.ed.gov/default.aspx?ti=Curriculum+Development
+  - canonical: Curriculum evaluation
+    terms:
+    - curriculum evaluation
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Curriculum+Evaluation
+  - canonical: Curriculum implementation
+    terms:
+    - curriculum implementation
+    source: ERIC
+    source_status: Related descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Curriculum+Development
+  - canonical: Grades (Scholastic)
+    terms:
+    - school grade
+    - school grades
+    - scholastic grade
+    - scholastic grades
+    - grade point average
+    source: ERIC
+    source_status: Preferred descriptor family
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Learner engagement
+    terms:
+    - learner engagement
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Student assessment
+    terms:
+    - student assessment
+    - student evaluation
+    - student evaluations
+    source: UNESCO/ERIC
+    source_status: UNESCO preferred relation; ERIC descriptor family
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/20210423-112109/20210423-112109-unesco-thesaurus-en.pdf
+  - canonical: Student-centered learning
+    terms:
+    - student centered learning
+    - student-centred learning
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Teacher-student relationship
+    terms:
+    - teacher student relationship
+    - teacher-student relationship
+    - teacher student relationships
+    - teacher-student relationships
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Teaching
+    terms:
+    - teaching
+    source: ERIC; UNESCO
+    source_status: ERIC descriptor family / UNESCO teacher-related education domain
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Teaching methods
+    terms:
+    - teaching method
+    - teaching methods
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor / UNESCO broader concept
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  teacher_development:
+  - canonical: Inservice teacher education
+    terms:
+    - inservice teacher education
+    - in-service teacher education
+    - inservice teacher training
+    - in-service teacher training
+    source: UNESCO
+    source_status: Preferred concept + entry terms
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept11100
+  - canonical: Teacher education
+    terms:
+    - teacher education
+    - teacher preparation
+    - teacher training
+    source: ERIC; UNESCO
+    source_status: Preferred concept/descriptor + entry terms
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept11094
+contextual_terms:
+  assessment:
+  - canonical: Assessment
+    terms:
+    - assessment
+    - assessments
+    source: ERIC; UNESCO
+    source_status: Education descriptor family
+    source_url: https://eric.ed.gov/default.aspx?ti=Educational+Assessment
+  - canonical: Examination
+    terms:
+    - examination
+    - examinations
+    - exam
+    - exams
+    source: ERIC/UNESCO education terminology
+    source_status: Education-related testing terminology
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  credentialing:
+  - canonical: Certification
+    terms:
+    - certification
+    - certifications
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Certification
+  edtech:
+  - canonical: Learning analytics
+    terms:
+    - learning analytics
+    source: ERIC
+    source_status: Preferred descriptor in thesaurus
+    source_url: https://eric.ed.gov/?ti=L
+  - canonical: Learning management systems
+    terms:
+    - learning management system
+    - learning management systems
+    - lms
+    source: ERIC
+    source_status: Preferred descriptor listed in thesaurus
+    source_url: https://eric.ed.gov/?ti=L
+  education_actor:
+  - canonical: Learner
+    terms:
+    - learner
+    - learners
+    source: ERIC/education usage
+    source_status: Education-related descriptor family
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  education_governance:
+  - canonical: Academic records
+    terms:
+    - academic record
+    - academic records
+    - student record
+    - student records
+    - transcript
+    - transcripts
+    source: ERIC
+    source_status: Preferred descriptor / related education records
+    source_url: https://eric.ed.gov/default.aspx?ti=Academic+Records
+  - canonical: Accreditation
+    terms:
+    - accreditation
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/?ti=330
+  - canonical: Inspection
+    terms:
+    - inspection
+    - inspections
+    source: UNESCO education supervision relation
+    source_status: Education-related term
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  - canonical: Quality assurance
+    terms:
+    - quality assurance
+    source: UNESCO/ERIC education usage
+    source_status: Education quality concept family
+    source_url: https://vocabularies.unesco.org/exports/thesaurus/latest/20260126-105847-unesco-thesaurus-en.pdf
+  higher_ed:
+  - canonical: Academic
+    terms:
+    - academic
+    - academics
+    source: ERIC/UNESCO
+    source_status: Education-related descriptor family
+    source_url: https://eric.ed.gov/default.aspx?ti=Higher+Education
+  - canonical: Colleges
+    terms:
+    - college
+    - colleges
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor / UNESCO entry term under Universities (US sense)
+    source_url: https://eric.ed.gov/default.aspx?ti=Colleges
+  - canonical: Degree
+    terms:
+    - degree
+    - degrees
+    source: ERIC
+    source_status: Academic Degrees descriptor family
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  - canonical: Universities
+    terms:
+    - university
+    - universities
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Universities
+  higher_ed_actor:
+  - canonical: Faculty
+    terms:
+    - faculty
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Faculty
+  - canonical: Professors
+    terms:
+    - professor
+    - professors
+    source: UNESCO; ERIC
+    source_status: UNESCO entry term under Teachers / ERIC use-for term under Faculty
+    source_url: https://vocabularies.unesco.org/unesco/en/page/concept8283
+  k12_actor:
+  - canonical: Principals
+    terms:
+    - principal
+    - principals
+    source: ERIC; UNESCO
+    source_status: Preferred ERIC descriptor / UNESCO entry term
+    source_url: https://eric.ed.gov/?ti=360
+  - canonical: Superintendents
+    terms:
+    - superintendent
+    - superintendents
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/?ti=360
+  pedagogy:
+  - canonical: Grading
+    terms:
+    - grading
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Instruction
+    terms:
+    - instruction
+    - instructional
+    source: ERIC
+    source_status: Preferred descriptor family
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  - canonical: Learning
+    terms:
+    - learning
+    source: ERIC; UNESCO
+    source_status: Preferred descriptor/concept
+    source_url: https://eric.ed.gov/default.aspx?ti=310
+  workforce_capacity:
+  - canonical: Professional development
+    terms:
+    - professional development
+    source: ERIC
+    source_status: Education-related descriptor
+    source_url: https://eric.ed.gov/?ti=Professional+Education
+tag_only_terms:
+  higher_ed_research:
+  - canonical: Research universities
+    terms:
+    - research university
+    - research universities
+    source: ERIC
+    source_status: Preferred descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=340
+  workforce_capacity:
+  - canonical: AI literacy
+    terms:
+    - ai literacy
+    - artificial intelligence literacy
+    source: Contemporary education-policy term; not relied on as controlled-vocabulary anchor
+    source_status: Operational tag
+    source_url: https://eric.ed.gov/default.aspx?ti=Education
+  - canonical: Capacity building
+    terms:
+    - capacity building
+    - capacity-building
+    source: ERIC related term under Educational Development
+    source_status: Related descriptor
+    source_url: https://eric.ed.gov/default.aspx?ti=Educational+Development
+  - canonical: Digital literacy
+    terms:
+    - digital literacy
+    source: ERIC
+    source_status: Preferred descriptor (2023 update)
+    source_url: https://eric.ed.gov/pdf/ERIC_2023_Thesaurus_Update.pdf
+  - canonical: Skills
+    terms:
+    - skill
+    - skills
+    - skills development
+    - skill development
+    source: ERIC/UNESCO education-adjacent terminology
+    source_status: Related concept
+    source_url: https://eric.ed.gov/default.aspx?ti=Education
+  - canonical: Training
+    terms:
+    - training
+    source: ERIC; UNESCO
+    source_status: Related education term
+    source_url: https://eric.ed.gov/default.aspx?ti=Education
+  - canonical: Upskilling and reskilling
+    terms:
+    - upskilling
+    - reskilling
+    source: Education/workforce policy usage
+    source_status: Adjacent human-capital terms
+    source_url: https://eric.ed.gov/default.aspx?ti=Education
+  - canonical: Workforce development
+    terms:
+    - workforce development
+    source: ERIC labor/education interface
+    source_status: Adjacent term
+    source_url: https://eric.ed.gov/default.aspx?ti=Education
+source_framework:
+  ERIC: https://eric.ed.gov/default.aspx?ti=all
+  UNESCO_Thesaurus: https://vocabularies.unesco.org/en/about
+  UNESCO_latest_export: https://vocabularies.unesco.org/exports/thesaurus/latest/
+  ISCED_2011: https://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf
+  UIS_ISCED: https://www.uis.unesco.org/en/methods-and-tools/isced
